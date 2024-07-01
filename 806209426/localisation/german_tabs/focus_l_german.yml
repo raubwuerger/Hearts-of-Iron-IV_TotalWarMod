@@ -3044,7 +3044,7 @@ USA_preemptive_deals_desc:0	"We need to stop Venezuela from selling oil to possi
  hk_air_focus_desc:0	"We must expand and improve the anti-air emplacements in Hong Kong greatly."
  uk_free_india_focus:0	"Indian Independence"
  uk_free_india_focus_desc:0	"Ever since the end of the Great War the degree of autonomy of the Raj should have, has been an contentious issue in both Britain and India itself. Now that we're again in a world wide conflict and with Japan actively fomenting rebellion in India, the situation could grow dangerous if nothing is done to prevent it. We can either defeat Japan quickly, or promise the Indians greater independence in a few years."
- uk_free_india_tt:0	"§4We will promise the Indians independence in 2 years. If we in the end go through with this, the Raj will either become a Dominion if still a colony or entirely independent otherwise. §!§! "
+ uk_free_india_tt:0	"§4§4 We will promise the Indians independence in 2 years. If we in the end go through with this, the Raj will either become a Dominion if still a colony or entirely independent otherwise. §!§! "
 
  ## ENG air focuses ##
  ENG_air_bases:0	"Airbase Effort"
@@ -4420,7 +4420,7 @@ civilian_kitchens_idea:0	"Civilian Field Kitchens"
  JAP_chinese_interrior:0	"Pacifying the Chinese interior"
  JAP_chinese_interrior_desc:0	"After having consolidated the control over the coastal regions under the 'Reorganized National Government of the Republic of China', we should now start the long process of fully subduing the vast interior of the Chinese mainland!"
  JAP_chinese_interrior_tt:0	"This focus will enable and prompt [MEN.GetNameDef] to take its own focus "Reclaim the Mainland" which provides the bonus shown in the tooltip. This focus will also unlock a series of decisions for [MEN.GetNameDef] to get cores in the Chinese mainland."
- JAP_chinese_pacifications_tt:0	"§4If this focus is done before winning the Sino-Japanese War, the puppet regimes we will install after our victory will be more stable.\nIf the focus is completed after the creation of these Chinese puppets, the same bonus to stability, war support & fascist popularity will be applied. The compliance gain on territories controlled by you directly or your subjects will remain in effect in either scenario. §!§! "
+ JAP_chinese_pacifications_tt:0	"§4§4 If this focus is done before winning the Sino-Japanese War, the puppet regimes we will install after our victory will be more stable.\nIf the focus is completed after the creation of these Chinese puppets, the same bonus to stability, war support & fascist popularity will be applied. The compliance gain on territories controlled by you directly or your subjects will remain in effect in either scenario. §!§! "
 
  JAP_North_Infra:0	"Infrastructure Improvements in Korea"
  JAP_North_Infra_desc:0	"If we are to support a large army, capable of defeating the Soviet Union, then we must improve our infrastructure in Korea and Manchuria. This will be a start."
@@ -7843,7 +7843,7 @@ MAN_get_north_china_tt:0	"Any state in the regions §Y§Y Shanxi §!§!  or §Y�
 MAN_get_north_china_bypass_tt:0	"All states in the regions §Y§Y Shanxi §!§!  and §Y§Y Western China §!§!  are under our controll.\n"
 MAN_get_north_china_can_do_again_tt:0	"The request for territory can be done again by decision.\n"
 is_controlled_by_china_occupier_not_MEN_tt:0	"Is fully controlled by [JAP.GetNameDef] or one of it's puppets.\n"
-MAN_low_legitimacy_level_tt:0	"§4Japans decision will impact our legitimacy §!§! "
+MAN_low_legitimacy_level_tt:0	"§4§4 Japans decision will impact our legitimacy §!§! "
 
 MAN_empire_granted:0	"Imperial claim granted by [JAP.GetNameDef].\n"
 AST_license_production:0	"Australian License"
