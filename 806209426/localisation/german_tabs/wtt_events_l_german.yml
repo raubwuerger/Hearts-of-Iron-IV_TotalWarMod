@@ -1059,7 +1059,7 @@
  wtt_warlord_vs_prc.1.t:0	"[warlord.GetLeader] pleads for support"
  wtt_warlord_vs_prc.1.desc:0	"A delegation from [warlord.GetLeader] has arrived in Moscow to sound us out about possible support in an internal party power struggle. They claim that [communist_china.GetLeader] is not sufficiently commited to the cause of communism and may, in fact, harbor reactionary thoughts and betray the revolution in its most critical phase.\n\n[warlord.GetLeader] instead proposes that we back him, promising eternal and undying loyalty to the communist cause in general and [SOV.GetLeader] in particular."
  wtt_warlord_vs_prc.1.a:0	"A loyal puppet may prove useful."
- wtt_warlord_vs_prc.1.a_tooltip:0	"This will lead to a war with §H[communist_china.GetNameDef] §!§!  if they refuse.\n"
+ wtt_warlord_vs_prc.1.a_tooltip:0	"This will lead to a war with §H§H [communist_china.GetNameDef] §!§!  if they refuse.\n"
  wtt_warlord_vs_prc.1.b:0	"We have no use for such blatant opportunism."
  #soviet support new warlord and tells communist_china that they are done.
  wtt_warlord_vs_prc.2.t:0	"A message from [soviet.GetLeader]"
