@@ -1,14 +1,14 @@
 ﻿l_german:
  ### Focus ###
- CCP_lower_defeatism_penalty:0	"Lower the penalty from §YDefeatism §!§! "
- CCP_sov_supply_tt:0	"Is the neighbour of one of the following:\n       §YSoviet Union §!§! \n       Faction member of §YSoviet Union §!§! \n       Communist §YSinkiang §!§!  with positive opinion towards §YSoviet Union§."
- CCP_sov_supply_eff_tt:0	"4 §YMilitia §!§!  divisions will arrive at Yan'an in a few days"
+ CCP_lower_defeatism_penalty:0	"Lower the penalty from §Y§Y Defeatism §!§! "
+ CCP_sov_supply_tt:0	"Is the neighbour of one of the following:\n       §Y§Y Soviet Union §!§! \n       Faction member of §Y§Y Soviet Union §!§! \n       Communist §Y§Y Sinkiang §!§!  with positive opinion towards §Y§Y Soviet Union§."
+ CCP_sov_supply_eff_tt:0	"4 §Y§Y Militia §!§!  divisions will arrive at Yan'an in a few days"
  CCP_root_out_defeatism_tt:0	"The Japanese have been chased off the mainland."
  CCP_nb_tt:0	"Our troops will maneuver more quickly on the field."
  CCP_gp_tt:0	"Our partisans will have a greater impact."
  CCP_ng_tt:0	"Our partisans will have better performance."
  CCP_mp_tt:0	"Our troops will maneuver more efficiently."
- CCP_set_government_rank:0	"Change country name to §YPeople's Republic of China §!§! .\n"
+ CCP_set_government_rank:0	"Change country name to §Y§Y People's Republic of China §!§! .\n"
 
  
  CCP_supply_line_from_sov:0	"Supplies From the Soviets"
@@ -118,7 +118,7 @@
  CCP_eliminate_iliteracy_tt:0	"We will gradually receive more skilled personnel."
  CCP_expand_taiyuan_arsenal:0	"Expand Taiyuan Arsenal"
  CCP_expand_taiyuan_arsenal_desc:0	"Taiyuan Arsenal is well-known for it's quality output, if we can increase it's production, we will benefit greatly from it."
- if_in_faction_with_chi:0	"§YIf you are in faction with [CHI.GetName] :  §!§! "
+ if_in_faction_with_chi:0	"§Y§Y If you are in faction with [CHI.GetName] :  §!§! "
  CCP_lure_them_in_strategy:0	"Lure-Them-In Strategy"
  CCP_lure_them_in_strategy_desc:0	"With our nation's vast territory and rough terrain, we can afford to retreat and lure invaders into battlefields of our choosing. Let the imperialists try and chase us! They shall encounter an ambush at every corner and a booby-trap with every step!"
  CCP_industrialization_NW:0	"Local Industrialization : North West"
@@ -165,7 +165,7 @@
  CCP_continuous_restrict_freedom:0	"Suppress Subjects"
  CCP_continuous_restrict_freedom_desc:0	"Our colonial subjects have gotten rather silly ideas about things like "self-determination" or "national independence". It is time to disabuse them of these notions."
  ## UNUSED ##
- #CCP_continuous_partisan_tt:0	"§YPartisans will rise up at a 30-day interval in our core state that is controlled by our enemy that has the §R§R Enemy Partisans Behind Our Frontline §!§!  national spirit. §!§! "
+ #CCP_continuous_partisan_tt:0	"§Y§Y Partisans will rise up at a 30-day interval in our core state that is controlled by our enemy that has the §R§R Enemy Partisans Behind Our Frontline §!§!  national spirit. §!§! "
  #CCP_continuous_partisan:0	"Footholds Behind Enemy Line"
  #CCP_continuous_partisan_desc:0	"Our partisans is now causing some havoc behind our enemies' frontline, we could further their impact by giving them additional supply."
  #CCP_continuous_one_time_boost:0	"Plan Drafting"
@@ -173,25 +173,25 @@
  ## 7/2/2017 ##
  CCP_defy_sov_order:0	"Defied order from Soviet"
  CCP_sov_approve:0	"Soviet approves of our proposal"
- CCP_zxl_will_become_leader_if_agree:0	"§YZhang Xueliang will become the leader of the Grand Northwest Union if he accepts it.\n §!§! "
+ CCP_zxl_will_become_leader_if_agree:0	"§Y§Y Zhang Xueliang will become the leader of the Grand Northwest Union if he accepts it.\n §!§! "
  CCP_some_generals_will_defect:0	"§R§R Some generals will defect to KMT §!§! \n"
  CCP_remove_trait_from_zxl_tt:0	"Remove trait §R§R Fascism Follower §!§!  from Zhang Xueliang.\n"
  ## 9/2/2017 ##
  CCP_remove_noresist_from_zxl_tt:0	"Remove trait §R§R The General Who Did Not Resist §!§!  from Zhang Xueliang.\n"
  CCP_preserve:0	"Enables §HSelf-Preservation §!§! \nAll Infantry : \n    Trickleback : §G§G +1% §!§! \n    Experience Loss : §G§G -1.5% §!§! "
  CCP_mountain_training_tt:0	"Enables §HMountain Warfare §!§! \nAll Infantry : \n    §HMountain §!§! \n      Movement: §G§G +10% §!§! \n    §HHills §!§! \n      Movement: §G§G +10% §!§! \n\n§HMarines\n    Mountain §!§! \n      Attack: §G§G +5% §!§! \n    §HHills §!§! \n      Attack: §G§G +5% §!§! \n      \n§HMountaineers\n    Mountain §!§! \n      Attack: §G§G +5% §!§! \n    §HHills §!§! \n      Attack: §G§G +5% §!§! \n      \n§HParatroopers\n    Mountain §!§! \n      Attack: §G§G +5% §!§! \n    §HHills §!§! \n      Attack: §G§G +5% §!§! \n\nGain 2 elite mountaineers division.\n"
- CCP_yhc_join:0	"§YYang Hucheng §!§!  will join our army\n"
- CCP_resore_dbj_glory_tt:0	"Own and control the following states :\n    §YJehol §!§! \n    §YLiaotung §!§! \n    §YKirin §!§! \n    §YLiaoning §!§! \n"
- CCP_create_wargoal_for_db_tt:0	"Gain wargoal against owner or overlord of owner of the following states :\n    §YLiaotung §!§! \n    §YLiaoning §!§! \n    §YJehol §!§! \n    §YKirin §!§! \n    §YSungkiang §!§! \n    §YHeilungkiang §!§! \n    §YNorth Xing'an §!§! \n    §YEast Xing'an §!§! \n    §YKanto-shu §!§! \n    §YEast Hebei §!§! \n    §YCahar §!§! \n    §YSouth Cahar §!§! \n"
+ CCP_yhc_join:0	"§Y§Y Yang Hucheng §!§!  will join our army\n"
+ CCP_resore_dbj_glory_tt:0	"Own and control the following states :\n    §Y§Y Jehol §!§! \n    §Y§Y Liaotung §!§! \n    §Y§Y Kirin §!§! \n    §Y§Y Liaoning §!§! \n"
+ CCP_create_wargoal_for_db_tt:0	"Gain wargoal against owner or overlord of owner of the following states :\n    §Y§Y Liaotung §!§! \n    §Y§Y Liaoning §!§! \n    §Y§Y Jehol §!§! \n    §Y§Y Kirin §!§! \n    §Y§Y Sungkiang §!§! \n    §Y§Y Heilungkiang §!§! \n    §Y§Y North Xing'an §!§! \n    §Y§Y East Xing'an §!§! \n    §Y§Y Kanto-shu §!§! \n    §Y§Y East Hebei §!§! \n    §Y§Y Cahar §!§! \n    §Y§Y South Cahar §!§! \n"
  ## 10/2/2017 ##
  CCP_xbj_join_tt:0	"Gain 3 divisions\n"
  CCP_turn_fascist_when_select_tt:0	"Mao and some of the communists will be executed when the focus is selected.\n§R§R Selecting this focus also make the fascist party becomes the ruling party §!§! \n\n"
  ## 12/2/2017 ##
  CCP_same_ideology_with_jap:0	"Has the same ideology with [JAP.GetName]"
- CCP_get_wargoal_for_fareast_tt:0	"Gain wargoal for owner or overlord of owner of the following states :\n    §YVladivostok §!§! \n    §YKhabarovsk §!§! \n    §YBirobidzhan §!§! \n    §YNikolayevsk §!§! \n    §YAmur §!§! \n    §YNorth Sakhalin §!§! \n"
+ CCP_get_wargoal_for_fareast_tt:0	"Gain wargoal for owner or overlord of owner of the following states :\n    §Y§Y Vladivostok §!§! \n    §Y§Y Khabarovsk §!§! \n    §Y§Y Birobidzhan §!§! \n    §Y§Y Nikolayevsk §!§! \n    §Y§Y Amur §!§! \n    §Y§Y North Sakhalin §!§! \n"
  ## 13/2/2017 ##
- CCP_if_completed_pact_focus_tt:0	"\nIf has completed focus §YA Pact With Japan §!§! , effect will become as follow:\n\n"
- CCP_if_completed_pact_focus_add_tt:0	"\nIf has completed focus §YA Pact With Japan §!§! , this focus will not grant national spirit\n\n"
+ CCP_if_completed_pact_focus_tt:0	"\nIf has completed focus §Y§Y A Pact With Japan §!§! , effect will become as follow:\n\n"
+ CCP_if_completed_pact_focus_add_tt:0	"\nIf has completed focus §Y§Y A Pact With Japan §!§! , this focus will not grant national spirit\n\n"
  ## 14/2/2017 ##
  CCP_the_grand_northwest_united_proposal:0	"Grand Northwest Union Proposal"
  CCP_the_grand_northwest_united_proposal_desc:0	"The former Fengtian Clique general Zhang Xueliang has been planning to establish another government in the northerst region. Which would then work with Sheng Shicai in Sinkiang to get supplies from Soviet, and fight the Japanese invader on our own. However, we must gain permission from the Comintern for this plan to become a reality."
@@ -339,14 +339,14 @@
  CCP_battlefield_four:0	"The Sixth Theatre"
  CCP_battlefield_four_desc:0	"Across the Pacific is our the real threat to our nation, they must be destroyed!"
  ## 17/2/2017 ##
- CCP_feng_clique_generals_join_tt:0	"§YMa Zhanshan §!§! , §YHe Zhuguo §!§! , §YYu Xuezhong §!§!  and §YZhang Zuoxiang §!§!  will join our army.\n\n"
+ CCP_feng_clique_generals_join_tt:0	"§Y§Y Ma Zhanshan §!§! , §Y§Y He Zhuguo §!§! , §Y§Y Yu Xuezhong §!§!  and §Y§Y Zhang Zuoxiang §!§!  will join our army.\n\n"
  ## 20/2/2017 ##
  chi_accept_prc71_no_tt:0	"[CHI.GetName] has not accepted our proposal"
  CCP_wuhan_ins_ava_tt:0	"Wuhan Iron and Steel Corporation available as industry concern\n"
  CCP_elec_concern_tt:0	"1st Ministry of Machine Building available as electronics concern\n"
  CCP_mukdenu_ava_tt:0	"Mukden University available as industrial concern\n"
  ## 21/2/2017 ##
- CCP_flag_replacement_tt:0	"Control the following states :\n    §YJehol §!§! \n    §YLiaotung §!§! \n    §YKirin §!§! \n    §YLiaoning §!§! \n"
+ CCP_flag_replacement_tt:0	"Control the following states :\n    §Y§Y Jehol §!§! \n    §Y§Y Liaotung §!§! \n    §Y§Y Kirin §!§! \n    §Y§Y Liaoning §!§! \n"
  
  
  
@@ -457,7 +457,7 @@
  ## 17/2/2017 ##
  CCP_sov_advisor:0	"Soviet Military Advisors"
  CCP_secret_police:0	"Secret Police"
- CCP_anti_jap_sentiment_desc:0	"§YWill gain buff when at war with Japan §!§! "
+ CCP_anti_jap_sentiment_desc:0	"§Y§Y Will gain buff when at war with Japan §!§! "
  CCP_revanchism_desc:0	"§R§R Will expire when not at war with Japan §!§! "
  CCP_zxl_navy:0	"Zhang Xueliang"
  CCP_zxl_air:0	"Zhang Xueliang"
@@ -547,7 +547,7 @@
  CCP.4.t:0	"Talented Personnel"
  CCP.4.d:0	"Some talented citizens have emerged from the society, we could give them a place among our institution."
  CCP.4.a:0	"The progress will never stop!"
- CCP_msp_tt:0	"Lower the penalty from §YLack Skilled Personnel §!§! .\n"
+ CCP_msp_tt:0	"Lower the penalty from §Y§Y Lack Skilled Personnel §!§! .\n"
  CCP.5.t:0	"Stalin Passed Away"
  CCP.5.d:0	"Our glorious leader, Joseph Vissarionovich Stalin, had been invited by Karl Marx and left us yesterday. A great loss for the Soviet people.\n\nA power struggle has started as powerful members of the party compete for the vacant position left by Stalin."
  CCP.5.a:0	"A star falls..."
@@ -685,8 +685,8 @@
  ## 29/1/2017 ##
  enter_key:0	"\n"
  ## 8/2/2017 ##
- CCP_no_wargoal_to_chi_when_ok_tt:0	"§R§R Will not gain wargoal against [CHI.GetName] with §YEnforce Our Goal §!§!  focus. §!§! \n"
- CCP_random_amount_of_partisan_tt:0	"§Y2 - 6 Guerilla units will accept our bribe and join our army §!§! \n"
+ CCP_no_wargoal_to_chi_when_ok_tt:0	"§R§R Will not gain wargoal against [CHI.GetName] with §Y§Y Enforce Our Goal §!§!  focus. §!§! \n"
+ CCP_random_amount_of_partisan_tt:0	"§Y§Y 2 - 6 Guerilla units will accept our bribe and join our army §!§! \n"
  ## 9/2/2017 ##
  CCP.66.t:0	"Chen Duxiu"
  CCP.66.d:0	"With the return of Trotsky in [SOV.GetNameDEF], Trotskyism supporters around the world have risen up and criticised the "corrupted" communism that Stalin has created. Among them is one of our former comrade - Chen Duxiu. If we are to keep a good relationship with [SOV.GetNameDEF], we should put Chen in power and get rid of Mao."
@@ -870,7 +870,7 @@
  CCP.115.d:0	"The war raging in Henan has caused a famine in the region, as farmlands are destroyed by the war. The local government is now seeking our help to ease their burden."
  CCP.115.a:0	"We must aid them!"
  CCP.115.b:0	"We don't have time for this."
- KMT_commie_generals_join_tt:0	"§YLin Biao §!§! , §YZhu De §!§! , §YChen Yi §!§!  and §YPeng Dehuai §!§!  join our army."
+ KMT_commie_generals_join_tt:0	"§Y§Y Lin Biao §!§! , §Y§Y Zhu De §!§! , §Y§Y Chen Yi §!§!  and §Y§Y Peng Dehuai §!§!  join our army."
  CCP.116.t:0	"Former Communists Join Us"
  CCP.116.d:0	"With the success of our rural reconstruction programme, some former communists have decided to join us."
  CCP.116.a:0	"A wise move."
