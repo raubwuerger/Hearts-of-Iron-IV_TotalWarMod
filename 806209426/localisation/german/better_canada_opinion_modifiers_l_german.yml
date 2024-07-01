@@ -1,1 +1,10 @@
-﻿
+﻿l_german:
+
+ can_fascist_tendencies_pro:0 "Faschistische Tendenzen"
+ can_fascist_tendencies_con:0 "Faschistische Tendenzen"
+ can_communist_tendencies_pro:0 "Kommunistische Tendenzen"
+ can_communist_tendencies_con:0 "Kommunistische Tendenzen"
+ can_faction_unity:0 "Fraktionsübergreifende Einheit"
+ usa_considering_faction:0 "Fraktionsangebot in Betracht ziehen"
+ usa_continental_alliance:0 "Historische Bindungen"
+ usa_joined_faction:0 "Fraktion beigetreten"
