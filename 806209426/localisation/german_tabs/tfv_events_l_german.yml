@@ -480,7 +480,7 @@
  tfv_raj.44.desc:0	"Today marks the begin of a new era in Indian history. After centuries under foreign rule, we have finally achieved full independence. The local [ENG.GetAdjective] civil servants have been ordered to assist in the transition to [RAJ.GetAdjective] home rule and will be sent home within the next few months. \n\nWith the aid of our new [GER.GetAdjective] friends, we can now focus on the task ahead of us - building a nation for our people."
  tfv_raj.44.a:0	"Triumph!"
  AST_CREATE_FACTION:0	"We will establish our own faction."
- SAF_colonies_tt:0	"Release §YKenya§! and §YZimbabwe§! as puppets."
+ SAF_colonies_tt:0	"Release §YKenya §!§!  and §YZimbabwe §!§!  as puppets."
  SAF_soviet_research_tt:0	"Enter into a research agreement with South Africa."
  tfv_raj_focus_paratrooper_tt:0	"Battaglione Azad Hindoustan paratroopers will be deployed in Italy."
  tfv_raj.201.t:0	"The Battaglione Azad Hindoustan"
