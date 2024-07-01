@@ -21,7 +21,7 @@
  TRADE_IMPORTED:0	"§TImported: $VALUE|H$ §!§! "
  TRADE_EXPORTED:0	"§TExported: $VALUE|H$ §!§! "
  TRADE_PRODUCED_COLORED:0	"§GProduced: $VALUE|H$ §!§! "
- TRADE_IMPORTED_COLORED:0	"§BImported: $VALUE|H$ §!§! "
+ TRADE_IMPORTED_COLORED:0	"§B§B Imported: $VALUE|H$ §!§! "
  TRADE_EXPORTED_COLORED:0	"§YExported: $VALUE|H$ §!§! "
  TRADES_MODIFIED:0	"Trade Was Modified"
  TRADE_WAS_MODIFIED:0	"The $RESOURCE|H$ trade with $COUNTRY|H$ was modified."
