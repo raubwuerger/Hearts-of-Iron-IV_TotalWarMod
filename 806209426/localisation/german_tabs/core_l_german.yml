@@ -559,7 +559,7 @@
  NAVAL_MISSION_THIS_IS_LAND_REGION:	"In dieser Region gibt es keine Seeprovinzen."
  HOME_BASE_TITLE:	"§HHeimatstützpunkt §!§! "
  HOME_BASE_DESC:	"Der Stützpunkt, von dem aus diese Flotte ihren Auftrag ausführt.\n§YSTRG §!§! +§G§G Rechtsklicken §!§!  auf einen Marinestützpunkt, um einen neuen §Heimatstützpunkt §!§!  festzulegen."
- NAVAL_PROV_DESC_MOVE_TO:	"§G§G Rechtsklicken §!§! , um sich zur Provinz zu §bewegen §!§! ."
+ NAVAL_PROV_DESC_MOVE_TO:	"§G§G Rechtsklicken §!§! , um sich zur Provinz zu §b§b ewegen §!§! ."
  NAVAL_PROV_DESC_REBASE_TO:	"§YSTRG §!§! +§G§G Rechtsklicken §!§! , um als §G§G Heimatstützpunkt §!§!  festzulegen"
  NAVAL_PROV_DESC_MOVE_TO_DEACTIVATE:	"§R§R (Aktuelle Mission wird deaktiviert) §!§! "
  NAVAL_PROV_DESC_MOVE_TO_MAX_REGIONS_ALL:	"§R§R Maximale Anzahl an Aufträgen in der Region für alle ausgewählten Einheiten erreicht §!§! "
