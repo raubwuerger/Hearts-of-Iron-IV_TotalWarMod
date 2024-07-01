@@ -191,7 +191,7 @@
  LAND_COMBAT_CAS_INFO_TOOLTIP_DETAIL:	"Es können maximal $MAX_PLANES|Y$ Flugzeuge helfen. Je größer die verwendete feindliche Gefechtsbreite, desto mehr Flugzeuge haben Platz. "
  SHIP_KILLS_AND_ASSISTS:	"$SUNK|G$ feindliche Schiffe versenkt.\n$ASS|G$ unterstützte Abschüsse."
  CARRIER_STACK_PENALTY_DESC:	"Zu viele Flugzeugträger. Luftverkehr auf $PERC|%R0$ der Luftgeschwader begrenzt."
- CARRIER_STACK_PENALTY_LORE:	"§LDie ideale Zusammenstellung einer schnellen Trägerkampfgruppe besteht aus vier Flugzeugträgern, sechs bis acht Unterstützungsschiffen und mindestens 18 Zerstörern, vorzugsweise 24. Mehr als vier Flugzeugträger in einer Einsatzgruppe können aufgrund des benötigten Luftraums nicht zum Vorteil genutzt werden. Weniger als vier Flugzeugträger erfordern eine unwirtschaftliche Nutzung von Unterstützungs- und Aufklärungsschiffen.\nAdmiral Marc Mitscher §!§! "
+ CARRIER_STACK_PENALTY_LORE:	"§L§L Die ideale Zusammenstellung einer schnellen Trägerkampfgruppe besteht aus vier Flugzeugträgern, sechs bis acht Unterstützungsschiffen und mindestens 18 Zerstörern, vorzugsweise 24. Mehr als vier Flugzeugträger in einer Einsatzgruppe können aufgrund des benötigten Luftraums nicht zum Vorteil genutzt werden. Weniger als vier Flugzeugträger erfordern eine unwirtschaftliche Nutzung von Unterstützungs- und Aufklärungsschiffen.\nAdmiral Marc Mitscher §!§! "
  BM_SHORE_BOMBARD:	"Küstenbombardierung"
  BM_SHORE_BOMBARD_DESC:	"Großkampfschiffe unterstützen den Angriff durch Bombardierungen."
  BM_RAILWAY_GUN_BOMBARD:	"Eisenbahngeschütz-Bombardierung"

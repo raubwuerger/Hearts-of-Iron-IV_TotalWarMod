@@ -759,10 +759,10 @@
  SOV_rubin_design_bureau:0	"Rubin Design Bureau"
 
  SOV_factionalism_modifier:0	"Factionalism"
- SOV_factionalism_modifier_tt:0	"§LFactionalism within the party was always a problem, and with the opposition more vocal, the differences of opinion makes the party less efficient. Properly managed, though, difference of opinion can in the long run be turned into a strength rather than a weakness. §!§! \n\n"
+ SOV_factionalism_modifier_tt:0	"§L§L Factionalism within the party was always a problem, and with the opposition more vocal, the differences of opinion makes the party less efficient. Properly managed, though, difference of opinion can in the long run be turned into a strength rather than a weakness. §!§! \n\n"
 
  SOV_opposition_popular_support:0	"Popular Support for Opposition"
- SOV_opposition_popular_support_tt:0	"§LWith a large part of the party members, and public opinion, in support of the opposition, maintaining a losing war is much more difficult. §!§! \n\n"
+ SOV_opposition_popular_support_tt:0	"§L§L With a large part of the party members, and public opinion, in support of the opposition, maintaining a losing war is much more difficult. §!§! \n\n"
 
  SOV_workers_government_idea:0	"The Workers' Government"
  SOV_workers_government_idea_desc:0	"Long live the worker’s government. The Ruling Elite has been removed from power. The workers once more rule the country."
