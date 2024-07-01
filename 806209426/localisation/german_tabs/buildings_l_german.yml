@@ -73,7 +73,7 @@
  NAVAL_BASE_CAPACITY:	"Kapazität: $USED|1G$/$TOTAL|0G$"
  NAVAL_BASE_CAPACITY_OVER:	"Kapazität: $USED|1R$/$TOTAL|0R$"
  NAVAL_BASE_CAPACITY_PENALTY:	"Kapazitätsmalus Reparaturleistung: $PENALTY|%0R$"
- BUILDING_LEVEL:	"§TMax pro Staat: $LEVEL|H$ §!§! "
+ BUILDING_LEVEL:	"§T§T Max pro Staat: $LEVEL|H$ §!§! "
  BUILDING_CURRENT_MAX_LEVEL_CAPPED:	"Baustufe des Gebäudes derzeit begrenzt durch:"
  BUILDING_CURRENT_MAX_LEVEL_NONCAPPED:	"Baustufe des Gebäudes nicht begrenzt."
  BUILDING_CURRENT_MAX_LEVEL_CAPPED_MANPOWER:	"Regionale Bevölkerung: $MANPOWER|*Y$"
