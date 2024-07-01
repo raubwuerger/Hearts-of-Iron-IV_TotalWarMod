@@ -95,7 +95,7 @@
  RADAR_ONMAP_DAMAGED_TOOLTIP:	"Level der §HRadarstation §!§! : $LVL|R$/$TOT|H$\nGehört: $WHO|H$"
  RADAR_ONMAP_TOOLTIP_COVERAGE:	"\n§HRegionsabdeckung: §!§! "
  RADAR_ONMAP_TOOLTIP_COVERAGE_ENTRY:	"\n  $PERC|%$ in $REGION$"
- RADAR_ONMAP_TOOLTIP_SUPPRESS:	"\n§G§G Strg §!§!  halten, um diesen Tooltip zu §Runterdrücken §!§! ."
+ RADAR_ONMAP_TOOLTIP_SUPPRESS:	"\n§G§G Strg §!§!  halten, um diesen Tooltip zu §R§R unterdrücken §!§! ."
  fuel_silo:	"Treibstoffsilo"
  fuel_silo_plural:	"Treibstoffsilos"
  fuel_silo_desc:	"Dieses Gebäude bietet Ihrer Nation mehr Platz, um §HTreibstoff §!§!  zu lagern."

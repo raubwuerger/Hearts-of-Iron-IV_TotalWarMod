@@ -750,9 +750,9 @@
  NSB_soviet_paranoia_system_events.49.a:0	"They must be held accountable."
  NSB_soviet_paranoia_system_events.49.b:0	"They were just doing their job."
 
- NSB_soviet_paranoia_system_events.24_paranoia_accused_increase_tt:0	"£SOV_paranoia_text_icon Political Paranoia increases based on the level of the unit leader purged: §R[?SOV.SOV_accused_unit_leader_level] §!§! "
+ NSB_soviet_paranoia_system_events.24_paranoia_accused_increase_tt:0	"£SOV_paranoia_text_icon Political Paranoia increases based on the level of the unit leader purged: §R§R [?SOV.SOV_accused_unit_leader_level] §!§! "
  NSB_soviet_paranoia_system_events.24_paranoia_accused_decrease_tt:0	"£SOV_paranoia_text_icon Political Paranoia decreases based on the level of the unit leader purged: §G§G [?SOV.SOV_accused_unit_leader_level] §!§! "
- NSB_soviet_paranoia_system_events.24_paranoia_both_increase_tt:0	"£SOV_paranoia_text_icon Political Paranoia increases based on the level of the unit leaders not purged: §R[?SOV.SOV_combined_unit_leader_level] §!§! "
+ NSB_soviet_paranoia_system_events.24_paranoia_both_increase_tt:0	"£SOV_paranoia_text_icon Political Paranoia increases based on the level of the unit leaders not purged: §R§R [?SOV.SOV_combined_unit_leader_level] §!§! "
  NSB_soviet_paranoia_system_events.24_paranoia_both_decrease_tt:0	"£SOV_paranoia_text_icon Political Paranoia decreases based on the level of the unit leaders being purged: §G§G [?SOV.SOV_combined_unit_leader_level] §!§! "
  SOV_purge_event_not_enough_pp_to_avoid_regular_tt:0	"\nThis purge cannot be avoided because £GFX_pol_power §Y$POLITICAL_POWER$ §!§!  needs to be positive at the moment of this event being fired."
  SOV_purge_event_not_enough_pp_to_avoid_great_tt:0	"\nThis great purge cannot be re-directed because £GFX_pol_power §Y$POLITICAL_POWER$ §!§!  needs to be positive at the moment of this event being fired."
@@ -765,7 +765,7 @@
  SOV_retire_purged_character_tt:0	"Retire §Y[?ROOT.SOV_purged_character_for_loc.GetName] §!§!  from §Y[ROOT.GetName] §!§! ."
  SOV_retire_accused_character_tt:0	"Retire §Y[?ROOT.SOV_accused_character_for_loc.GetName] §!§!  from §Y[ROOT.GetName] §!§! ."
  SOV_retire_accuser_character_tt:0	"Retire §Y[?ROOT.SOV_accuser_character_for_loc.GetName] §!§!  from §Y[ROOT.GetName] §!§! ."
- SOV_characters_will_be_purged_tt:0	"§RThe following characters will be purged and removed from the game: §!§! "
+ SOV_characters_will_be_purged_tt:0	"§R§R The following characters will be purged and removed from the game: §!§! "
 
  NSB_soviet_five_year_plan.01.t:0	"Third Five Year Plan Disrupted"
  NSB_soviet_five_year_plan.01.desc:0	"With the current attack on the motherland, it is clear that our previous plans for economic growth are no longer feasible. We may return to them once peace has been restored, but for now we must focus on military production."

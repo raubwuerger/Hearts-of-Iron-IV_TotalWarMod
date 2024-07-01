@@ -17,8 +17,8 @@
  RESISTANCE_DECAY_VALUE:0	"Resistance Decay: §G§G $VALUE|3$% §!§! "
  RESISTANCE_DECAY_VALUE_CAPPED:0	"Resistance Decay: §G§G $VALUE|3$% §!§!  (Capped from §G§G $VALUE_NON_CAPPED|3$% §!§! )"
  
- RESISTANCE_GROWTH_VALUE:0	"Resistance Growth: §R$VALUE|3$% §!§! "
- RESISTANCE_GROWTH_VALUE_CAPPED:0	"Resistance Growth: §R$VALUE|3$% §!§!  (Capped from §R$VALUE_NON_CAPPED|3$% §!§! )"
+ RESISTANCE_GROWTH_VALUE:0	"Resistance Growth: §R§R $VALUE|3$% §!§! "
+ RESISTANCE_GROWTH_VALUE_CAPPED:0	"Resistance Growth: §R§R $VALUE|3$% §!§!  (Capped from §R§R $VALUE_NON_CAPPED|3$% §!§! )"
  
  RESISTANCE_STRENGTH:1 "Resistance Strength: $TOT|%2-$"
  RESISTANCE_EFFECTS:1 "Resistance Effects:"
@@ -29,15 +29,15 @@
  COMPLIANCE_GROWTH_VALUE:0	"Compliance Growth: §G§G $VALUE|3$% §!§! "
  COMPLIANCE_GROWTH_VALUE_CAPPED:0	"Compliance Growth: §G§G $VALUE|3$% §!§!  (Capped from §G§G $VALUE_NON_CAPPED|3$% §!§! )"
  
- COMPLIANCE_DECAY_VALUE:0	"Compliance Growth: §R$VALUE|3$% §!§! "
- COMPLIANCE_DECAY_VALUE_CAPPED:0	"Compliance Growth: §R$VALUE|3$% §!§!  (Capped from §R$VALUE_NON_CAPPED|3$% §!§! )"
+ COMPLIANCE_DECAY_VALUE:0	"Compliance Growth: §R§R $VALUE|3$% §!§! "
+ COMPLIANCE_DECAY_VALUE_CAPPED:0	"Compliance Growth: §R§R $VALUE|3$% §!§!  (Capped from §R§R $VALUE_NON_CAPPED|3$% §!§! )"
  
  COMPLIANCE_GROWTH_HAS_CLAIM:0	"Controller has claim: $VALUE|+%0$"
  COMPLIANCE_GROWTH_IS_AT_PEACE:0	"Controller is at peace: $VALUE|+%0$"
  
  COMPLIANCE_DECAY_INFO:0	"Additional Compilance Change:"
- COMPLIANCE_DECAY_DUE_TO_COMPLIANCE:0	"High Compliance: §R$VALUE|3$% §!§! "
- COMPLIANCE_DECAY_PER_EXILE_LEGITIMACY:1 "Occupied is in exile: §R$VALUE|3$% §!§! "
+ COMPLIANCE_DECAY_DUE_TO_COMPLIANCE:0	"High Compliance: §R§R $VALUE|3$% §!§! "
+ COMPLIANCE_DECAY_PER_EXILE_LEGITIMACY:1 "Occupied is in exile: §R§R $VALUE|3$% §!§! "
  reconciliation:0	"Reconciliation"
  RESISTANCE:0	"Resistance"
  COMPLIANCE:0	"Compliance"
@@ -61,8 +61,8 @@
  OCCUPATION_MODIFIER_ACTIVE:0	"Modifier is currently active. It will be disabled when $TYPE|H$ goes below $TO_DISABLE|%0H$"
  OCCUPATION_MODIFIER_ACTIVE_WITH_TRIGGER:0	"Modifier is currently active. It will be disabled when $TYPE|H$ goes below $TO_DISABLE|%0H$ or following conditions are not satisfied:"
 
- OCCUPATION_MODIFIER_NOT_ACTIVE:0	"Modifier is currently §RNOT §!§!  active. It will be enabled when $TYPE|H$ goes above $TO_ENABLE|%0H$"
- OCCUPATION_MODIFIER_NOT_ACTIVE_WITH_TRIGGER:1 "Modifier is currently §RNOT §!§!  active. It will be enabled when $TYPE|H$ goes above $TO_ENABLE|%0H$ and following conditions are satisfied:"
+ OCCUPATION_MODIFIER_NOT_ACTIVE:0	"Modifier is currently §R§R NOT §!§!  active. It will be enabled when $TYPE|H$ goes above $TO_ENABLE|%0H$"
+ OCCUPATION_MODIFIER_NOT_ACTIVE_WITH_TRIGGER:1 "Modifier is currently §R§R NOT §!§!  active. It will be enabled when $TYPE|H$ goes above $TO_ENABLE|%0H$ and following conditions are satisfied:"
  
  OCCUPATION_MODIFIERS_ON_ENABLE:0	"Following effects will apply when the modifier is activated:"
  OCCUPATION_MODIFIERS_ON_DISABLE:0	"Following effects will apply when the modifier is deactivated:"
@@ -81,7 +81,7 @@
  brutally_oppressive_occupation:1 "Brutal Oppression"
  
  COMPLIANCE_ADDITIONAL_DAILY_GAIN:0	"Additional Daily Compliance Gain: $GAIN$"
- COMPLIANCE_GAIN_IS_DISABLED:1 "§RDisabled due to insufficient garrison §!§! "
+ COMPLIANCE_GAIN_IS_DISABLED:1 "§R§R Disabled due to insufficient garrison §!§! "
  COMPLIANCE_GAIN_IS_SCALED:0	"Scaled by $RATIO|R.0%$ due to insufficient garrison!"
  
  OCCUPIED_COUNTRY_CORE_COUNT_TOOLTIP:0	"The country has $NUM_CORES|H$ core states in total and you are controlling $NUM_CONTROLLED_CORES|H$ of those states."
@@ -116,14 +116,14 @@
  OCCUPATION_GARRISON_STRENGTH_TOOLTIP:2 "We need $NUMBER|H$ divisions of $SELECTED_TEMPLATE|H$ as garrison to protect against the current resistance.\nThis garrison is currently $PERCENTAGE|H0%$ efficient."
  OCCUPATION_GARRISON_STRENGTH_VARIOUS_TOOLTIP:2 "We need $NUMBER|H$ divisions of various templates as garrison to protect against the current resistance.\nThis garrison is currently $PERCENTAGE|H0%$ efficient."
  OCCUPATION_USE_DEFAULT_TEMPLATE:0	"§HUse default template §!§! "
- OCCUPATION_BAD_GARRISON_SPECIAL_FORCES:1 "§RYou can't choose this template because it either contains special forces battalions, or this particular template can't be used as a garrison. §!§! "
- OCCUPATION_BAD_GARRISON_NO_SUPPRESSION:0	"§RYou can't choose this template because its Suppression value is §H0 §!§! . §!§! "
+ OCCUPATION_BAD_GARRISON_SPECIAL_FORCES:1 "§R§R You can't choose this template because it either contains special forces battalions, or this particular template can't be used as a garrison. §!§! "
+ OCCUPATION_BAD_GARRISON_NO_SUPPRESSION:0	"§R§R You can't choose this template because its Suppression value is §H0 §!§! . §!§! "
  OCCUPATION_NO_GARRISON_NEEDED:0	"No Garrison needed"
- OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION:0	"§RThe Suppression value of a garrison template is §H0 §!§! . Please choose another one. §!§! "
+ OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION:0	"§R§R The Suppression value of a garrison template is §H0 §!§! . Please choose another one. §!§! "
  GARRISON_ENTRY_MANPOWER_TOOLTIP:0	"Manpower per suppression: $MANPOWER|*H$\nManpower per division: $MANPOWERDIV|*H$"
  GARRISON_ENTRY_IC_TOOLTIP:0	"Production cost per suppression: £production_cost£$IC|*H$\nProduction cost per division: £production_cost£$ICDIV|*H$"
  GARRISON_HARDNESS_TOOLTIP:0	"§HHardness §!§! \nThe hardness of a template will reduce the losses during Resistance activity."
- LAW_BONUS_SCALED:0	"§RThis law will not have its full effect until the Garrison needs are fully satisfied. §!§! "
+ LAW_BONUS_SCALED:0	"§R§R This law will not have its full effect until the Garrison needs are fully satisfied. §!§! "
  
  GARRISON_LOG:0	"Garrison Log"
  GARRISON_LOG_LOSSES_IN_IC:0	"§HEquipment lost: §!§!  £production_cost£$NUM|*$"
@@ -173,8 +173,8 @@
  RESISTANCE_ACTIVITY_LIST_TITLE:0	"One of the following effects will apply when the resistance penetrates the garrisons:"
  RESISTANCE_ACTIVITY_LIST_ENTRY:0	"  $NAME$: $CHANCE|%.0H$"
 
- OCCUPATION_NOT_ALL_COUNTRIES_CAN_HAVE_THIS_LAW:0	"§RThis default law is invalid for some of the occupied territories. They will default to No Garrison §!§! "
- OCCUPATION_INVALID_DEFAULT_LAW:0	"§RDefault law you selected is invalid for this occupied territory and it will default to No Garrison §!§! "
+ OCCUPATION_NOT_ALL_COUNTRIES_CAN_HAVE_THIS_LAW:0	"§R§R This default law is invalid for some of the occupied territories. They will default to No Garrison §!§! "
+ OCCUPATION_INVALID_DEFAULT_LAW:0	"§R§R Default law you selected is invalid for this occupied territory and it will default to No Garrison §!§! "
  
  DEFAULT_LAW_ENTRY:0	"Use Default ($LAW_NAME$)"
  LAW_IS_OVERRIDDEN_TOOLTIP:0	"Following territories overrides this law:"

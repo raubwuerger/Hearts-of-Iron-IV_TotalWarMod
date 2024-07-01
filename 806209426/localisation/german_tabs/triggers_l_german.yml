@@ -935,7 +935,7 @@
  TRIGGER_MIO_IS_AVAILABLE:	"Is available"
  can_unlock_new_special_forces_tree_none:	"£trigger_yes §HBranch Specialisms §!§!  Remaining: §H1 §!§! "
  can_unlock_new_special_forces_tree_more_yes:	"£trigger_yes §HBranch Specialisms §!§!  Remaining: §H[?sf_trees] §!§! "
- can_unlock_new_special_forces_tree_more_no:	"£trigger_no §HBranch Specialisms §!§!  Remaining: §R0 §!§! "
+ can_unlock_new_special_forces_tree_more_no:	"£trigger_no §HBranch Specialisms §!§!  Remaining: §R§R 0 §!§! "
  FRA_SNCAC_formed:	"Has reorganized the Aviation Industry"
  DEN_danish_trading_partner_flag:	"Is trading with [DEN.GetNameDef]"
  trade_partner_not_at_war_tt:	"§Y[ROOT.GetNameWithFlag] §!§!  cannot buy or sell arms to countries at war"

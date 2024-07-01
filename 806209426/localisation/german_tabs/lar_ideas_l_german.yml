@@ -1,7 +1,7 @@
 ﻿l_german:
  SPR_military_disloyalty:0	"Military Disloyalty"
  SPR_military_disloyalty_desc:1 "The failed "Sanjurjada" military coup attempt in 1932 still casts it shadow over the Spanish military to this day. In the aftermath, various disloyal military commanders, among them the coup's leader José Sanjurjo, fled to exile in Portugal and continue their plotting even now.\n\nEven this failure has not discouraged disloyal officers, however, as even within Spain itself many desire to see a return to a Monarchy, or even a strong Fascist dictatorship. Too strong meddling by the government in the internal affairs of the military may well spark yet another uprising; far more violent and bloody than the last."
- SPR_military_disloyalty_tt:2 "§RCannot train units, disband units, or edit unit templates. §!§! \n"
+ SPR_military_disloyalty_tt:2 "§R§R Cannot train units, disband units, or edit unit templates. §!§! \n"
  SPR_disbanded_army:0	"Disbanded Army"
  SPR_disbanded_army_desc:2 "The army has proven its disloyalty and has been disbanded by the government. Until we make the loyalty of our officers certain we must rely on people's militias rather than a professional army."
  SPR_collectivized_society:0	"Collectivized Society"

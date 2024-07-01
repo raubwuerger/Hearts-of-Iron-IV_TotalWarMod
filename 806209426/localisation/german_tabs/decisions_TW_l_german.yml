@@ -1,7 +1,7 @@
 ﻿l_german:
 
  SOV_PCDI:0	"People's Commissariat of Defense Industry"
- SOV_PCDI_desc:0	"\n\n\n\n\n\nWith the westward expansion of the Union, the §RPeople's Commissariat of Defense §!§!  calls for the §G§G consolidation and reorganization §!§!  of our military forces stationed in the Western regions. This would involve the establishment of a new military district in the regained territories, and the westward expansion of the existing zone itself.\n\nOther measures will include the building of a new §gline of defense §!§!  along the border and westward relocation of troops currently garrisoning the Stalin Line. Exercises, revised military plans, and raising additional divisions ensures the bolstering of our preparedness and strength."
+ SOV_PCDI_desc:0	"\n\n\n\n\n\nWith the westward expansion of the Union, the §R§R People's Commissariat of Defense §!§!  calls for the §G§G consolidation and reorganization §!§!  of our military forces stationed in the Western regions. This would involve the establishment of a new military district in the regained territories, and the westward expansion of the existing zone itself.\n\nOther measures will include the building of a new §gline of defense §!§!  along the border and westward relocation of troops currently garrisoning the Stalin Line. Exercises, revised military plans, and raising additional divisions ensures the bolstering of our preparedness and strength."
  molotov_line:0	"Molotov Line Construction"
  dniper_forts:0	"Fortify the Southern Dnieper"
  maginot_construction2:0	"Constructing §YFortifications §!§! "
@@ -10,7 +10,7 @@
  free_workforce_pcdi:0	"Unemployed in the War Industry"
  plan_ready:0	"The Plan for §YInvasion of Germany §!§!  is ready"
  may_1941_plan:0	"The May 1941 Plan"
- plan_ready_tt:0	"Allows you to §RDeclare war §!§!  on §YGermany §!§! "
+ plan_ready_tt:0	"Allows you to §R§R Declare war §!§!  on §YGermany §!§! "
 
  tolkach_mission:0	"Five Year Plan Goals"
  SOV_tolkach2:0	"Tolkach"
@@ -37,8 +37,8 @@
  GER_cause_this_is_afrika:0	"Form the Afrika Korps"
  SOV_armistice:0	"Armistice with Germany"
 
- SOV_relocate_industry_from_ukraine_tt:0	"§RThese effects require control of Cherkasy, Dnipropetrovsk, Kharkov and Stalino when the decision times out §!§! "
- SOV_relocate_industry_from_riga_tt:0	"§RThese effects require control of Riga when the decision times out §!§! "
+ SOV_relocate_industry_from_ukraine_tt:0	"§R§R These effects require control of Cherkasy, Dnipropetrovsk, Kharkov and Stalino when the decision times out §!§! "
+ SOV_relocate_industry_from_riga_tt:0	"§R§R These effects require control of Riga when the decision times out §!§! "
  SOV_relocate_industry_from_ukraine:0	"Relocate Industry from Ukraine Area"
  SOV_relocate_industry_from_riga:0	"Relocate Industry from Riga"
 
@@ -51,7 +51,7 @@
 
 
  FRA_forts:0	"Finishing the Maginot Line"
- FRA_forts_desc:0	"§YThe Maginot Line §!§! , named after the Great French Minister of War André Maginot, is a line of concrete fortifications, as well as obstacles and weapon installations that we have yet to finish to §RStop §!§!  the §YGermans §!§!  from entering the §G§G French soil §!§!  in case of an invasion, those fortifications will serve as a way to save a lot of our manpower, while our stronger allies awake their industrial might so that we may go on the offensive!\n\n"
+ FRA_forts_desc:0	"§YThe Maginot Line §!§! , named after the Great French Minister of War André Maginot, is a line of concrete fortifications, as well as obstacles and weapon installations that we have yet to finish to §R§R Stop §!§!  the §YGermans §!§!  from entering the §G§G French soil §!§!  in case of an invasion, those fortifications will serve as a way to save a lot of our manpower, while our stronger allies awake their industrial might so that we may go on the offensive!\n\n"
  abandon_maginot_idea:0	"Abandon the Maginot idea"
  buildup_anti_air:0	"Build §YAnti-Air Turrets §!§! "
  buildup_turrets:0	"Build §YRetractable Turrets §!§! "
@@ -90,7 +90,7 @@
  ENG_develop_india_mic2:0	"Invest in the Indian Army"
  ITA_send_navs:0	"Send Naval Bombers to Ethiopia"
 
- FIN_fascism_election:0	"§RLapua Movement §!§!  won the §YPopular Vote §!§! "
+ FIN_fascism_election:0	"§R§R Lapua Movement §!§!  won the §YPopular Vote §!§! "
  FIN_democratic_win:0	"§G§G Agrarian League §!§!  won the §YElection §!§! "
 
  CZE_sudetenland:0	"Border Fortifications Development"
@@ -287,7 +287,7 @@
  ROM_test_the_hungarians:0	"Test the Hungarians"
  ROM_test_the_hungarians2:0	"Will begin a §YBorder Conflict §!§! "
  ROM_won_bd:0	"§G§G Won §!§!  the §YBorder Conflict §!§! "
- ROM_lost_bd:0	"§RLost §!§!  the §YBorder Conflict §!§! "
+ ROM_lost_bd:0	"§R§R Lost §!§!  the §YBorder Conflict §!§! "
 
 
  elite_2_units:0	"You will receive §Y2 Elite Infantry §!§!  Divisions"
@@ -305,7 +305,7 @@
  winter_offensive_decision_4_desc:0	"Operation Bagration"
  SOV_scorched_earth_caucasus_oil:0	"Burn the Caucasus Oil Fields"
  SOV_scorched_earth_caucasus_oil_desc:0	"Execute Scorched Earth on the oil fields by lighting them on fire. They will burn for 120 days and the bulk of the production will be destroyed."
- caucasus_oil_fields_burning_tt:0	"The §RGermans §!§!  will not be able to start reconstructing the oil wells untill they have burnt out after 120 days, it will take them 180 days while using 12 §YCivilian Factories §!§!  to rebuild."
+ caucasus_oil_fields_burning_tt:0	"The §R§R Germans §!§!  will not be able to start reconstructing the oil wells untill they have burnt out after 120 days, it will take them 180 days while using 12 §YCivilian Factories §!§!  to rebuild."
  SOV_order_227:0	"Order 227"
  SOV_order_227_desc:0	""It is time to finish retreating. Not one step back!""
  SOV_scorched_earth:0	"Implement Scorched Earth Tactics"
@@ -522,13 +522,13 @@
  JAP_wargoal_for_china:0	"War in China"
  JAP_wargoal_for_china_desc:0	"We will conquer China while keeping a lookout for other opportunities"
  JAP_reorginized_china_instatement2:0	"Set up Reorganized Nationalist China"
- JAP_reorginized_china_instatement2_desc:0	"Set up Reorganized Nationalist China to handle local matters in the newly acquired chinese states. This will greatly reduce the effect of partisan activity and will make Japan avoid the National Spirit §RLure-Them-In Guerillas. §!§! "
+ JAP_reorginized_china_instatement2_desc:0	"Set up Reorganized Nationalist China to handle local matters in the newly acquired chinese states. This will greatly reduce the effect of partisan activity and will make Japan avoid the National Spirit §R§R Lure-Them-In Guerillas. §!§! "
  JAP_reorginized_china_instatement3:0	"Hand over territory to Reorganized Nationalist China"
  JAP_reorginized_china_instatement3_desc:0	"Transfer newly acquired territory to the local occupation governemnt. Our soldiers don't even speak Chinese, to make any use of the territory we need to pave the way for a Chinese puppet regime."
  JAP_install_philip_puppet:0	"Ignite a Civil War in the Philippines"
  JAP_install_Indonesia_puppet:0	"Ignite a Civil War in Indonesia"
  JAP_install_Indonesia_puppet_desc:0	"Divide and conquer"
- JAP_walkout_tooltip:0	"This will force us out of the League of Nations §R(-5 stability) §!§! "
+ JAP_walkout_tooltip:0	"This will force us out of the League of Nations §R§R (-5 stability) §!§! "
  JAP_walkout_tooltip_desc:0	"We have disgruntled the other member nations too much by breaking treaties and escalating tensions in the region."
  JAP_border_conflict_SHX_start:0	"Shanxi border conflict"
  JAP_border_conflict_SHX_start_desc:0	"The warlords making up China are weak one by one, Shanxi will not be able to fend off a border skirmish were we can get vital knowledge about the strength of the Chinese. Our puppet forces will do the dirty work to avoid too much flak in the League of Nations."
@@ -571,7 +571,7 @@
  CHI_stalemate_delayed_tt:0	"If we lose this city, the stalemate will be delayed by 15 days."
 
  less_rebels_tt:0	"Will §G§G reduce §!§!  the chance of rebel uprisings.\n"
- more_rebels_tt:0	"Will §Rincrease §!§!  the chance of rebel uprisings.\n"
+ more_rebels_tt:0	"Will §R§R increase §!§!  the chance of rebel uprisings.\n"
  ###JAP###
 
 
@@ -684,7 +684,7 @@
  GER_setup_salo:0	"Operation Oak"
  GER_setup_salo_desc:0	"Italy is collapsing and we need to secure control of whats left! Operation Eiche ("Oak") was the rescue of Italian dictator Benito Mussolini by German paratroopers led by Major Otto-Harald Mors and Waffen-SS commandos in September 1943, during World War II. The airborne operation was personally ordered by Adolf Hitler, planned and executed by Major Harald Mors, and approved by General Kurt Student."
  GER_winterclothing:0	"Send Winter clothes!"
- GER_winterclothing1:0	"§RLowers the penalty from Russian Winter§"
+ GER_winterclothing1:0	"§R§R Lowers the penalty from Russian Winter§"
  battle_of_bulge:0	"Unternehmen Wacht am Rhein"
  battle_of_bulge_desc:0	"Regain the innitiative, push the allies back!"
  GER_margarette:0	"Unternehmen Margarethe"
@@ -746,7 +746,7 @@
  POL_warsawuprising:0	"Powstanie Warszawskie"
  POL_operationtempest:0	"Operacja Burza"
  POL_lithuania2:0	"War on Lithuania"
- POL_refuse:0	"§RLithuania refused§W§W "
+ POL_refuse:0	"§R§R Lithuania refused§W§W "
  POL_resistance:0	"Resist!"
  POL_destruction:0	"Destroy the German War machine!"
  GER_destroypol:0	"Destroy their underground state!"
@@ -777,7 +777,7 @@
  FIN_agriculture:0	"Agricultural Reforms and Laws"
  FIN_agriculture_desc:0	"Agricultural laws and reforms undertaken by Finland during this period"
 
- FIN_military3:0	"§RWe will gain small army bonuses once Germany launches Fall Blau§W§W "
+ FIN_military3:0	"§R§R We will gain small army bonuses once Germany launches Fall Blau§W§W "
  winterwar:0	"§YThe Winter War§W§W  is §YOver§W§W "
 
  ###Speeches###

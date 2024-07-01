@@ -681,7 +681,7 @@
  MODIFIER_NAVAL_INVASION_PREPARATION_DESC:0	"How quickly we can prepare a naval invasion."
  MODIFIER_TRANSPORT_CAPACITY:0	"Troop convoy requirements"
  MODIFIER_TRANSPORT_CAPACITY_DESC:0	"How much room units will require on transports. The lower the more efficiently we can move large armies over seas."
- MODIFIER_NOT_SUPPORTED:0	"This modifier is §RNot Supported §!§!  for this entry."
+ MODIFIER_NOT_SUPPORTED:0	"This modifier is §R§R Not Supported §!§!  for this entry."
  MODIFIER_SLOTS_FROM_POPULATION_FACTOR:0	"Building Slots from Population"
  MODIFIER_SLOTS_FROM_POPULATION_FACTOR_DESC:0	"How much the Population influences the Population Building Slot limit"
  MODIFIER_SLOTS_FROM_INFRASTRUCTURE_FACTOR:0	"Building Slots from Infrastructure"
@@ -1181,8 +1181,8 @@
  #these are used for comparison
  resource_sabotage_decrease_tooltip_ADDED:0	" Resource Sabotage Chance: §G§G -25% §!§!  (§G§G -25% §!§! )\n  Resource Sabotage Duration: §G§G -25% §!§!  (§G§G -25% §!§! )"
  factory_sabotage_decrease_tooltip_ADDED:0	" Civilian Factory Sabotage Chance: §G§G -25% §!§!  (§G§G -25% §!§! )\n  Military Factory Sabotage Chance: §G§G -25% §!§!  (§G§G -25% §!§! )"
- resource_sabotage_decrease_tooltip_REMOVED:0	" Resource Sabotage Chance: §H+0% §!§!  (§R+25% §!§! )\n  Resource Sabotage Duration: §H+0% §!§!  (§R+25% §!§! )"
- factory_sabotage_decrease_tooltip_REMOVED:0	" Civilian Factory Sabotage Chance: §H+0% §!§!  (§R+25% §!§! )\n  Military Factory Sabotage Chance: §H+0% §!§!  (§R+25% §!§! )"
+ resource_sabotage_decrease_tooltip_REMOVED:0	" Resource Sabotage Chance: §H+0% §!§!  (§R§R +25% §!§! )\n  Resource Sabotage Duration: §H+0% §!§!  (§R§R +25% §!§! )"
+ factory_sabotage_decrease_tooltip_REMOVED:0	" Civilian Factory Sabotage Chance: §H+0% §!§!  (§R§R +25% §!§! )\n  Military Factory Sabotage Chance: §H+0% §!§!  (§R§R +25% §!§! )"
  resource_sabotage_decrease_tooltip_UNCHANGED:0	" Resource Sabotage Chance: §G§G -25% §!§!  (§H+0% §!§! )\n  Resource Sabotage Duration: §G§G -25% §!§!  (§H+0% §!§! )"
  factory_sabotage_decrease_tooltip_UNCHANGED:0	" Civilian Factory Sabotage Chance: §G§G -25% §!§!  (§H+0% §!§! )\n  Military Factory Sabotage Chance: §G§G -25% §!§!  (§H+0% §!§! )"
 
@@ -1872,7 +1872,7 @@
  initiative_factor_tt:	" $MODIFIER_INITIATIVE_FACTOR$: $RIGHT|+=%1$"
  MODIFIER_NAVAL_INVASION_PLANNING_SPEED:0	"Naval Invasion Planning"
  MODIFIER_NAVAL_INVASION_PLANNING_SPEED_DESC:0	"Increases the rate at which a division's planning bonus is accumulated during a naval invasion."
- NAVAL_INVASION_PLANNING_BONUS_MALUS:0	"Base Naval Invasion Malus: $VALUE|R0$§R% §!§! "
+ NAVAL_INVASION_PLANNING_BONUS_MALUS:0	"Base Naval Invasion Malus: $VALUE|R0$§R§R % §!§! "
  MODIFIER_TERRAIN_TRAIT_XP_GAIN_FACTOR:0	"Terrain traits XP Gain"
  modifier_experience_gain_motorized_combat_factor:0	"Motorised experence gain from combat"
  modifier_experience_gain_mechanized_combat_factor:0	"Mechanised experence gain from combat"

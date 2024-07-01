@@ -387,18 +387,18 @@
   SAF_fahud_oil_deposits:0	"Drill Fahud Oil Fields"
   
   ### Tooltips
-  SAF_party_split_elections_tt:0	"§RSnap elections will be held in a week's time. §!§! \n"
+  SAF_party_split_elections_tt:0	"§R§R Snap elections will be held in a week's time. §!§! \n"
   SAFR_elections_held:0	"Elections have been held.\n"
   #SAFR_favoured_havenga:0	"Favoured Havenga's Germany trade deal.\n"
   #SAFR_favoured_pirow:0	"Favoured Pirow's Germany military deal.\n"
-  fra_needs_approval:0	"§RFrance must approve of the agreement before handing over Madagascar. They will be much more likely to agree if they are in control of their North African territories. §!§! \n"
+  fra_needs_approval:0	"§R§R France must approve of the agreement before handing over Madagascar. They will be much more likely to agree if they are in control of their North African territories. §!§! \n"
   SAF_african_commanders_tt:0	"Gain four new commanders.\n"
-  SAFR_civil_war_tt:0	"§RStarts a civil war §!§!  between the §YUnion Forces §!§!  in Cape Town and South West Africa and the §Ycommunist revolutionaries §!§!  in the rest of the country.\n"
-  procure_expertise_tt:0	"§RWe can choose to approach only one country for their design and construction expertise, so we should choose carefully. §!§! \n"
+  SAFR_civil_war_tt:0	"§R§R Starts a civil war §!§!  between the §YUnion Forces §!§!  in Cape Town and South West Africa and the §Ycommunist revolutionaries §!§!  in the rest of the country.\n"
+  procure_expertise_tt:0	"§R§R We can choose to approach only one country for their design and construction expertise, so we should choose carefully. §!§! \n"
   SAFR_create_unit_boer_commandos_tt:0	"Will gain two units of elite §YBoer Kommandos §!§!  in the Transvaal.\n"
   SAFR_create_unit_greyshirts_tt:0	"Gain a unit of §YGreyshirts Militia §!§!  in the Cape.\n"
   SAFR_create_unit_stormjaers_tt:0	"Having gained the support of both the Ossewabrandwag and the Greyshirts we can call upon units of §YStormjaers and Greyshirts Militia §!§!  in South West Africa.\n"
-  SAFR_making_new_friends:0	"§RThis will allow us to influence them such that they will be open to entering an alliance with us. §!§! \n"
+  SAFR_making_new_friends:0	"§R§R This will allow us to influence them such that they will be open to entering an alliance with us. §!§! \n"
   
   ### Focuses
   SAF_force_parliament_debate:0	"Force a Debate in Parliament"

@@ -359,7 +359,7 @@
  if_they_accept_tt:	"\n§YAuswirkungen, wenn sie annehmen: §!§! "
  if_they_accept_newline_tt:	"\n§YAuswirkungen, wenn sie annehmen: §!§! \n"
  we_will_gain_tt:	"§YWir erhalten §!§! :"
- THIS_IS_WIP_TT:	"§RWORK IN PROGRESS §!§! "
+ THIS_IS_WIP_TT:	"§R§R WORK IN PROGRESS §!§! "
  EFFECT_PROMOTE_CHARACTER:	"$NAME$ wird Staatsoberhaupt"
  EFFECT_BUILD_RAILWAY:	"Bauen Sie Eisenbahnen Stufe $LEVEL|Y$ von $FROM|Y$ nach $TO|Y$."
  EFFECT_BUILD_RAILWAY_IN_STATE:	"Bauen Sie eine Eisenbahn Stufe $LEVEL|Y$ in $STATE|Y$."

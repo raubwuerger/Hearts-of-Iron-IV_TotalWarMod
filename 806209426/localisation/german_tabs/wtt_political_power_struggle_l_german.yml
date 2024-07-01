@@ -107,7 +107,7 @@
 #  # #  #   #  #  #  # #   #     #    #  #  #  #  #  #       #  #  # #  # #    #   #  #      # 
  ##   ##  ##   #   ##  #   #     #     ##  ### #  #  #       #   ##   ##  ###  #  ### #    ##  
 
- loses_political_support_points_15:0	"Loses §R15 §!§!  §HPolitical Support Points §!§! .\n"
+ loses_political_support_points_15:0	"Loses §R§R 15 §!§!  §HPolitical Support Points §!§! .\n"
  has_politcal_support_points_30:0	"Has at least §G§G 30 §!§!  §HPolitical Support Points §!§! . We currently have [?Root.total_political_support_points|+0]."
  has_politcal_support_points_17:0	"Has at least §G§G 17 §!§!  §HPolitical Support Points §!§! . We currently have [?Root.total_political_support_points|+0]."
  is_current_leader_of_china:0	"Is current leader of China"
@@ -136,7 +136,7 @@
  remove_support_in_state_5:0	"§HLocal Support §!§!  §Y-5 §!§! \n"
  remove_support_in_state_6:0	"§HLocal Support §!§!  §Y-6 §!§! \n"
  empty_key:0	""
- other_political_support_down_1:0	"Permanently lose §R1 §!§!  §HPolitical Support Point §!§! "
+ other_political_support_down_1:0	"Permanently lose §R§R 1 §!§!  §HPolitical Support Point §!§! "
  
  WTT_seek_support_from_warlord:0	"Negotiate for support from [From.GetNameDef]"
  WTT_seek_support_from_warlord_cost_tt:0	"The cost of getting [From.GetNameDef] to support us scales based on ideology and their opinion of us.\n"
@@ -333,7 +333,7 @@
  WTT_build_support_in_guangxi:0	"Build Support In Guangxi §G§G ([?599.state_political_support_value|+0]) §!§! "
  WTT_build_support_in_guangxi_desc:0	"§W§W §H[599.GetStateMajorityCountryName] §!§!  has §HState Majority §!§!  and receives [?599.state_political_support_value|+0] §HPolitical Support Points §!§!  until a different country gains higher §HLocal Support §!§! \n\n§HLocal Support §!§! :\n[599.GetLocalStateSupport_CHI][599.GetLocalStateSupport_PRC][599.GetLocalStateSupport_GXC][599.GetLocalStateSupport_YUN][599.GetLocalStateSupport_SHX][599.GetLocalStateSupport_XSM][599.GetLocalStateSupport_SIK] §!§! "
  pp_per_day_neg_075:0	"£pol_power §Y-0.75/Day  ($DAYS$) §!§! "
- pp_per_day_neg_075_blocked:0	"£pol_power §R-0.75/Day §!§! "
+ pp_per_day_neg_075_blocked:0	"£pol_power §R§R -0.75/Day §!§! "
 
  WTT_remove_opposition_in_fujian:0	"Remove Opposition In Fujian"
  WTT_remove_opposition_in_zhejiang:0	"Remove Opposition In Zhejiang"
