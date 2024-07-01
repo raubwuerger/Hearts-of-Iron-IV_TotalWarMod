@@ -160,7 +160,7 @@
  REINFORCEMENT_PRIORITY:	"Verstärkungspriorität:"
  THEATER_GROUP_DISBAND_TITLE:	"Kriegsschauplatz auflösen"
  THEATER_GROUP_DISBAND_DESC:	"Möchten Sie die Gruppe $GROUP|H$ wirklich §R§R AUFLÖSEN §!§! ? Alle Angriffspläne in der Kommandogruppe werden gelöscht!"
- HISTORICAL_DIVISION_LORE_PLACEHOLDER_TEXT:	"§gThis is a placeholder description text, shortly telling a few words about this historical division. §!§! "
+ HISTORICAL_DIVISION_LORE_PLACEHOLDER_TEXT:	"§g§g This is a placeholder description text, shortly telling a few words about this historical division. §!§! "
  ALL_COUNTRIES:	"Alle Länder"
  ALL_FACTIONS:	"Alle Bündnisse"
  OUR_LOSSES:	"Unsere Verluste"

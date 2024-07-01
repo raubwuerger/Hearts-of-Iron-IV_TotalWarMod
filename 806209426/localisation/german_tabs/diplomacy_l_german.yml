@@ -314,7 +314,7 @@
  DIPLOMACY_LEND_LEASE_SELECT_ALL_IN_STOCKPILE:	"Alles in Ihrem Lager auswählen"
  DIPLOMACY_LEND_LEASE_DESELECT_ALL_IN_STOCKPILE:	"Alles in Ihrem Lager abwählen"
  LEND_LEASE_DETAILS_TOTAL_SINCE:	"Ausrüstung gesamt, die seit $DATE|Y$ geliefert wurde:\n"
- LEND_LEASE_DETAILS_HEADER:	"§gAusrüstung / benötigt / produziert / transportiert §!§! "
+ LEND_LEASE_DETAILS_HEADER:	"§g§g Ausrüstung / benötigt / produziert / transportiert §!§! "
  LEND_LEASE_DETAILS_ENTRY:	"  - $EQ|Y$: $REQ$/$COL$/$PREP|%2$"
  LEND_LEASE_DETAILS_ENTRY_PERCENTAGE:	"  - $EQ|Y$: $REQ|%0$/$COL$ - $PREP|%2$"
  LEND_LEASE_DETAILS_DELIVERY_EFFICIENCY:	"Liefereffizienz $EFF$ %."
