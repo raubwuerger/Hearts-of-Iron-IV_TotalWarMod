@@ -751,9 +751,9 @@
  NSB_soviet_paranoia_system_events.49.b:0	"They were just doing their job."
 
  NSB_soviet_paranoia_system_events.24_paranoia_accused_increase_tt:0	"£SOV_paranoia_text_icon Political Paranoia increases based on the level of the unit leader purged: §R[?SOV.SOV_accused_unit_leader_level] §!§! "
- NSB_soviet_paranoia_system_events.24_paranoia_accused_decrease_tt:0	"£SOV_paranoia_text_icon Political Paranoia decreases based on the level of the unit leader purged: §G[?SOV.SOV_accused_unit_leader_level] §!§! "
+ NSB_soviet_paranoia_system_events.24_paranoia_accused_decrease_tt:0	"£SOV_paranoia_text_icon Political Paranoia decreases based on the level of the unit leader purged: §G§G [?SOV.SOV_accused_unit_leader_level] §!§! "
  NSB_soviet_paranoia_system_events.24_paranoia_both_increase_tt:0	"£SOV_paranoia_text_icon Political Paranoia increases based on the level of the unit leaders not purged: §R[?SOV.SOV_combined_unit_leader_level] §!§! "
- NSB_soviet_paranoia_system_events.24_paranoia_both_decrease_tt:0	"£SOV_paranoia_text_icon Political Paranoia decreases based on the level of the unit leaders being purged: §G[?SOV.SOV_combined_unit_leader_level] §!§! "
+ NSB_soviet_paranoia_system_events.24_paranoia_both_decrease_tt:0	"£SOV_paranoia_text_icon Political Paranoia decreases based on the level of the unit leaders being purged: §G§G [?SOV.SOV_combined_unit_leader_level] §!§! "
  SOV_purge_event_not_enough_pp_to_avoid_regular_tt:0	"\nThis purge cannot be avoided because £GFX_pol_power §Y$POLITICAL_POWER$ §!§!  needs to be positive at the moment of this event being fired."
  SOV_purge_event_not_enough_pp_to_avoid_great_tt:0	"\nThis great purge cannot be re-directed because £GFX_pol_power §Y$POLITICAL_POWER$ §!§!  needs to be positive at the moment of this event being fired."
  SOV_purge_event_unavoidable_purge_great_tt:0	"\nThis great purge cannot be re-directed."

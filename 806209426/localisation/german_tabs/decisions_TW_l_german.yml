@@ -1,12 +1,12 @@
 ﻿l_german:
 
  SOV_PCDI:0	"People's Commissariat of Defense Industry"
- SOV_PCDI_desc:0	"\n\n\n\n\n\nWith the westward expansion of the Union, the §RPeople's Commissariat of Defense §!§!  calls for the §Gconsolidation and reorganization §!§!  of our military forces stationed in the Western regions. This would involve the establishment of a new military district in the regained territories, and the westward expansion of the existing zone itself.\n\nOther measures will include the building of a new §gline of defense §!§!  along the border and westward relocation of troops currently garrisoning the Stalin Line. Exercises, revised military plans, and raising additional divisions ensures the bolstering of our preparedness and strength."
+ SOV_PCDI_desc:0	"\n\n\n\n\n\nWith the westward expansion of the Union, the §RPeople's Commissariat of Defense §!§!  calls for the §G§G consolidation and reorganization §!§!  of our military forces stationed in the Western regions. This would involve the establishment of a new military district in the regained territories, and the westward expansion of the existing zone itself.\n\nOther measures will include the building of a new §gline of defense §!§!  along the border and westward relocation of troops currently garrisoning the Stalin Line. Exercises, revised military plans, and raising additional divisions ensures the bolstering of our preparedness and strength."
  molotov_line:0	"Molotov Line Construction"
  dniper_forts:0	"Fortify the Southern Dnieper"
  maginot_construction2:0	"Constructing §YFortifications §!§! "
  emergency_rearmament:0	"Emergency Western Border Rearmament"
- SOV_less_minuses:0	"You will receive a §Glower §!§!  §YLessons of War §!§!  debuff and you will §Gnot get §!§!  the §YSurprise Attack §!§!  debuff"
+ SOV_less_minuses:0	"You will receive a §G§G lower §!§!  §YLessons of War §!§!  debuff and you will §G§G not get §!§!  the §YSurprise Attack §!§!  debuff"
  free_workforce_pcdi:0	"Unemployed in the War Industry"
  plan_ready:0	"The Plan for §YInvasion of Germany §!§!  is ready"
  may_1941_plan:0	"The May 1941 Plan"
@@ -14,7 +14,7 @@
 
  tolkach_mission:0	"Five Year Plan Goals"
  SOV_tolkach2:0	"Tolkach"
- SOV_tolkach2_desc:0	"\n\n\n\n\n\n\nThe industrial might that our grand union can muster certainly knows no bounds. And with the rising tension in Europe and the Far East, it is imperative that we utilize a §YSecond Five Year Plan. §!§!  After all, we saw the immense success of our previous Five Year Plan; albeit, with some difficulties regarding our methods. However, these supposed mistakes will not be repeated, and the successes of the previous plan will only be increased.\n\n Our main objective for this Five Year Plan is to continue the §Ymass mechanization §!§!  we have been experiencing over the past few years. We will also see to the empowerment of our dear workers, who toil the §Ycollective farmland §!§!  with such rigour, and their families, who provide the children to continue the revolutionary cause.\n\n We will see our glorious Union achieve §Gindustrial, agricultural, and cultural success §!§!  to rival and even surpass that of the dreaded Germans."
+ SOV_tolkach2_desc:0	"\n\n\n\n\n\n\nThe industrial might that our grand union can muster certainly knows no bounds. And with the rising tension in Europe and the Far East, it is imperative that we utilize a §YSecond Five Year Plan. §!§!  After all, we saw the immense success of our previous Five Year Plan; albeit, with some difficulties regarding our methods. However, these supposed mistakes will not be repeated, and the successes of the previous plan will only be increased.\n\n Our main objective for this Five Year Plan is to continue the §Ymass mechanization §!§!  we have been experiencing over the past few years. We will also see to the empowerment of our dear workers, who toil the §Ycollective farmland §!§!  with such rigour, and their families, who provide the children to continue the revolutionary cause.\n\n We will see our glorious Union achieve §G§G industrial, agricultural, and cultural success §!§!  to rival and even surpass that of the dreaded Germans."
  acquisition_us_ford:0	"Cooperate with US Ford"
  acquisition_uk_ship:0	"Cooperate with the Royal Navy"
  automotive_arsenal_focus2:0	"Cooperation with Ford"
@@ -22,7 +22,7 @@
  tula_steel:0	"Build the Tula Steel Refinery"
  lipetsk_steel:0	"Build the Lipetsk Steel Refinery"
  SOV_winterwar_draft:0	"Reevaluate the STAVKA"
- SOV_tolkachupgrade:0	"§YTolkach Focus §!§!  Will §GUpgrade §!§!  This Focus"
+ SOV_tolkachupgrade:0	"§YTolkach Focus §!§!  Will §G§G Upgrade §!§!  This Focus"
  SOV_winterwar_prolong:0	"Replace the Supreme Commander of the Leningrad District"
 
  ENG_asia_troops2:0	"You will get 4 strong units in §YMalaya §!§! ,§YBurma §!§!  and §YHong Kong §!§! !"
@@ -51,7 +51,7 @@
 
 
  FRA_forts:0	"Finishing the Maginot Line"
- FRA_forts_desc:0	"§YThe Maginot Line §!§! , named after the Great French Minister of War André Maginot, is a line of concrete fortifications, as well as obstacles and weapon installations that we have yet to finish to §RStop §!§!  the §YGermans §!§!  from entering the §GFrench soil §!§!  in case of an invasion, those fortifications will serve as a way to save a lot of our manpower, while our stronger allies awake their industrial might so that we may go on the offensive!\n\n"
+ FRA_forts_desc:0	"§YThe Maginot Line §!§! , named after the Great French Minister of War André Maginot, is a line of concrete fortifications, as well as obstacles and weapon installations that we have yet to finish to §RStop §!§!  the §YGermans §!§!  from entering the §G§G French soil §!§!  in case of an invasion, those fortifications will serve as a way to save a lot of our manpower, while our stronger allies awake their industrial might so that we may go on the offensive!\n\n"
  abandon_maginot_idea:0	"Abandon the Maginot idea"
  buildup_anti_air:0	"Build §YAnti-Air Turrets §!§! "
  buildup_turrets:0	"Build §YRetractable Turrets §!§! "
@@ -91,7 +91,7 @@
  ITA_send_navs:0	"Send Naval Bombers to Ethiopia"
 
  FIN_fascism_election:0	"§RLapua Movement §!§!  won the §YPopular Vote §!§! "
- FIN_democratic_win:0	"§GAgrarian League §!§!  won the §YElection §!§! "
+ FIN_democratic_win:0	"§G§G Agrarian League §!§!  won the §YElection §!§! "
 
  CZE_sudetenland:0	"Border Fortifications Development"
  CZE_sudetenland_desc:0	"Czechoslovakia built a system of border fortifications as well as some fortified defensive lines inland, from 1935 to 1938 as a defensive countermeasure against the rising threat of Nazi Germany. The objective of the fortifications was to prevent the taking of key areas by an enemy—not only Germany but also Hungary and Poland—by means of a sudden attack before the mobilization of the Czechoslovak Army could be completed"
@@ -103,14 +103,14 @@
  CZE_fort_hungary:0	"Buildup the Hungarian Line"
 
  SOV_winteroffensive1_tt:0	"You will receive many §YMilitia §!§!  and §YInfantry §!§!  units, as well as 2 §YStrong Tank §!§!  Divisions."
- SOV_winteroffensive2_tt:0	"You will receive:\n - §G11000 §!§!  Infantry Equipment\n - §G2500 §!§!  HQ Equipment\n - §G10000 §!§!  Infantry Uniforms\n - §G5000 §!§!  Support Equipment\n - §G3000 §!§!  Motorized Trucks\n - §G2500 §!§!  Transport Vehicles\n - §G1250 §!§!  Armored Cars\n - §G1000 §!§!  Light Tanks\n - §G300 §!§!  Medium Tanks\n - §G3500 §!§!  Anti Tank Equipment\n - §G3000 §!§!  Light Artillery\n - §G900 §!§!  Medium Artillery\n - §G800 §!§!  Horse Equipment\n"
+ SOV_winteroffensive2_tt:0	"You will receive:\n - §G§G 11000 §!§!  Infantry Equipment\n - §G§G 2500 §!§!  HQ Equipment\n - §G§G 10000 §!§!  Infantry Uniforms\n - §G§G 5000 §!§!  Support Equipment\n - §G§G 3000 §!§!  Motorized Trucks\n - §G§G 2500 §!§!  Transport Vehicles\n - §G§G 1250 §!§!  Armored Cars\n - §G§G 1000 §!§!  Light Tanks\n - §G§G 300 §!§!  Medium Tanks\n - §G§G 3500 §!§!  Anti Tank Equipment\n - §G§G 3000 §!§!  Light Artillery\n - §G§G 900 §!§!  Medium Artillery\n - §G§G 800 §!§!  Horse Equipment\n"
  SOV_receive:0	"You will receive many §YMilitia §!§!  units near §YStalingrad §!§! "
  USA_day_of_infamy_speech:0	"Day of Infamy Speech"
  USA_cat_foreign_support:0	"Department of State"
  USA_cat_foreign_support_desc:0	"The United States Department of State , commonly referred to as the State Department, is a federal executive department responsible for carrying out U.S. foreign policy and international relations."
  USA_operation_torch:0	"Operation Torch"
  unlock_event1:0	"Unlocks Event: §YDefend Stalingrad! §!§! \n"
- SOV_defendstalin:0	" Requirements:\n - Germany controls §YMillerovo §!§!  or §YVoronezh §!§! \n - Over §Y20% §!§!  Surrender progress\n - Did the §Y1940 §!§! , §Y1942 §!§!  or §Y1944 §!§!  §GTank Korpus Decisions §!§! \n"
+ SOV_defendstalin:0	" Requirements:\n - Germany controls §YMillerovo §!§!  or §YVoronezh §!§! \n - Over §Y20% §!§!  Surrender progress\n - Did the §Y1940 §!§! , §Y1942 §!§!  or §Y1944 §!§!  §G§G Tank Korpus Decisions §!§! \n"
  ###ENG###
  integrate_outlying_islands:0	"Take Direct Control of Outlying Island Militia and Bases"
  integrate_outlying_islands_desc:0	"We control various islands throughout the entire globe. Many of these islands have local militias and fighting forces. With the threat of a large scale conflict in the future, it may be wise to assume control of these militias and integrate them into our command structure so that if our great Royal Navy fails, we can organize a proper defense against the enemy instead of whatever the local government scrambles together. Of course, if you trust in the Royal Navy to protect our holdings, have good faith in the territorial governments, or just cannot be bothered with such tedium, it may be wise to leave things how they are."
@@ -177,7 +177,7 @@
  ENG_mil_develop_ast_decision:0	"Australian Join Military Exercises"
  ENG_mil_develop_canada_decision:0	"Warship Emergency Program"
 
- ENG_mil_develop_can_decision_tt:0	"[CAN.GetNameDef] will get §Y2 1934 Light Cruisers §!§!  added to the dockyard lines at §G80% completion §!§! .\n"
+ ENG_mil_develop_can_decision_tt:0	"[CAN.GetNameDef] will get §Y2 1934 Light Cruisers §!§!  added to the dockyard lines at §G§G 80% completion §!§! .\n"
  ENG_mil_develop_egypt_decision_tt:0	"[EGY.GetNameDef] gains a division template with better logistics.\n"
  ENG_mil_develop_saf_decision_tt:0	"[SAF.GetNameDef] gains two expert divisions with §Y9 Light Infantry §!§! , §B§B Commando §!§! , §Y1 Anti-Tank §!§!  and §Y1 Artillery §!§!  battalions.\n"
 
@@ -286,7 +286,7 @@
  luftwaffe_field:0	"Form Luftwaffe Field Divisions"
  ROM_test_the_hungarians:0	"Test the Hungarians"
  ROM_test_the_hungarians2:0	"Will begin a §YBorder Conflict §!§! "
- ROM_won_bd:0	"§GWon §!§!  the §YBorder Conflict §!§! "
+ ROM_won_bd:0	"§G§G Won §!§!  the §YBorder Conflict §!§! "
  ROM_lost_bd:0	"§RLost §!§!  the §YBorder Conflict §!§! "
 
 
@@ -382,18 +382,18 @@
  USA_south_america_desc:0	"Colonial empires must never again be able to expand into South American, we shall guarantee the independence of our Southern brothers to keep them safe."
  USA_reinforce_monroe_doctrine_tt:0	"Increases Trade Opinion with all American nations."
  USA_reinforce_monroe_doctrine_ger2:0	"Enforces Caribean embargo on Germany."
- USA_reinforce_monroe_doctrine_jap2:0	"Enforces Caribean embargo on Japan. §GDo all 3 Enforcements to give [JAP.GetNameDef] a worse §!§!  §YResource War §!§!  §Gpenalty! §!§! "
+ USA_reinforce_monroe_doctrine_jap2:0	"Enforces Caribean embargo on Japan. §G§G Do all 3 Enforcements to give [JAP.GetNameDef] a worse §!§!  §YResource War §!§!  §G§G penalty! §!§! "
  USA_reinforce_monroe_doctrine_ger3:0	"Enforces Central American embargo on Germany."
- USA_reinforce_monroe_doctrine_jap3:0	"Enforces Central American embargo on Japan. §GDo all 3 Enforcements to give [JAP.GetNameDef] a worse §!§!  §YResource War §!§!  §Gpenalty! §!§! "
+ USA_reinforce_monroe_doctrine_jap3:0	"Enforces Central American embargo on Japan. §G§G Do all 3 Enforcements to give [JAP.GetNameDef] a worse §!§!  §YResource War §!§!  §G§G penalty! §!§! "
  USA_reinforce_monroe_doctrine_ger4:0	"Enforces South American embargo on Germany."
- USA_reinforce_monroe_doctrine_jap4:0	"Enforces South American embargo on Japan. §GDo all 3 Enforcements to give [JAP.GetNameDef] a worse §!§!  §YResource War §!§!  §Gpenalty! §!§! "
+ USA_reinforce_monroe_doctrine_jap4:0	"Enforces South American embargo on Japan. §G§G Do all 3 Enforcements to give [JAP.GetNameDef] a worse §!§!  §YResource War §!§!  §G§G penalty! §!§! "
  USA_day_of_infamy:0	"A Date Which Will Live In Infamy"
  USA_support_the_finnish:0	"Send help to Finland"
  USA_support_the_finnish_desc:0	"Americans of Finnish decent went to Finland to help the fight for Finnish independence."
  USA_support_sov:0	"Rescue Soviet economy"
  USA_support_sov_desc:0	"Determined to keep the United States out of the war while helping those allies already mired in it, congress approved to send $1 billion in free credit to the Soviet Union on October 30th 1941."
- enforce_embargo_on_japan_tt:0	"§GGive [JAP.GetNameDef] a worse §!§!  §YResource War §!§!  §Gpenalty! §!§! "
- enforce_embargo_on_japan_if_eng_and_usa_tt:0	"§GGive [JAP.GetNameDef] a worse §!§!  §YResource War §!§!  §Gpenalty when both Britain and USA has embargoed! §!§! "
+ enforce_embargo_on_japan_tt:0	"§G§G Give [JAP.GetNameDef] a worse §!§!  §YResource War §!§!  §G§G penalty! §!§! "
+ enforce_embargo_on_japan_if_eng_and_usa_tt:0	"§G§G Give [JAP.GetNameDef] a worse §!§!  §YResource War §!§!  §G§G penalty when both Britain and USA has embargoed! §!§! "
  USA_Depression_Recovery:0	"Depression Recovery"
  USA_CCC_mission_1:0	"Civilian Conservation Corps"
  USA_CCC_mission_1_desc:0	"Civilian Conservation Corps"
@@ -548,7 +548,7 @@
  JAP_border_conflict_escalate_to_war_SHX_desc:0	""
  JAP_border_conflict_back_out_of_conflict_SHX:0	"Retreat from the Shanxi border conflict"
  JAP_border_conflict_back_out_of_conflict_SHX_desc:0	""
- boosted_plunder_tt:0	"§GGet an extra factory in the plunder of this state. §!§! \n"
+ boosted_plunder_tt:0	"§G§G Get an extra factory in the plunder of this state. §!§! \n"
  JAP_capture_beijing:0	"Capture Beijing!"
  JAP_capture_nanjing:0	"Capture Nanjing!"
  JAP_capture_guangzhou:0	"Capture Guangzhou!"
@@ -570,7 +570,7 @@
  CHI_stalemate_tt:0	"The stalemate will make it more difficult to accomplish swift advances in China, for both sides."
  CHI_stalemate_delayed_tt:0	"If we lose this city, the stalemate will be delayed by 15 days."
 
- less_rebels_tt:0	"Will §Greduce §!§!  the chance of rebel uprisings.\n"
+ less_rebels_tt:0	"Will §G§G reduce §!§!  the chance of rebel uprisings.\n"
  more_rebels_tt:0	"Will §Rincrease §!§!  the chance of rebel uprisings.\n"
  ###JAP###
 
@@ -692,7 +692,7 @@
  GER_waronyugo:0	"Fuhrer Directive No.25"
  GER_waronyugo_desc:0	"We need to secure the south before moving east, we cannot lose our oil deposits in Romania!"
  anschluss_mefo_bills_tt:0	"Uses Austrian gold to reduce the cost of §YMEFO bills §!§! .\n"
- anschluss_mefo_bills_double_reduction:0	"Modify §YMEFO Bills §!§!  by §G+0.10 §!§!  Daily Political Power Gain\n"
+ anschluss_mefo_bills_double_reduction:0	"Modify §YMEFO Bills §!§!  by §G§G +0.10 §!§!  Daily Political Power Gain\n"
  yugoslavia_mefo_bills_tt:0	"Uses Yugoslav gold to reduce the cost of §YMEFO bills §!§! .\n"
  GER_reichskommissariat_croatie:0	"Establish Reichskommissariat Croatie"
  GER_speeches_category:0	"Public Speaking"
@@ -815,7 +815,7 @@
  ###Scraping for men###
  desperate_for_men:0	"Desperate Times"
  desperate_for_men_desc:0	"Sticks and stones may break their bones."
- we_need_more_men:0	"Reduces the equipment needed for §YMilitia Battalions §!§!  by §G20% §!§! .\n"
+ we_need_more_men:0	"Reduces the equipment needed for §YMilitia Battalions §!§!  by §G§G 20% §!§! .\n"
  ###Scraping for men###
 
  ###incompetent industry###
@@ -844,7 +844,7 @@
  reclaim_4:0	"Some form of control in the interior."
  reclaim_4_desc:0	"The interior of China is vast and not as densely populated but we need to regain full control there to setup defences on our new frontiers."
 
- men_has_done_main_or_south_tt:0	"Has completed §YSetup the administration in Guanxi §!§!  or §GMarch into the mainland plains §!§!  decision."
+ men_has_done_main_or_south_tt:0	"Has completed §YSetup the administration in Guanxi §!§!  or §G§G March into the mainland plains §!§!  decision."
  men_has_done_central_tt:0	"Has completed §YSetup our rule in central China §!§!  decision."
 
  replace_arms_with_civ_factories:0	"Convert Arms Industry"

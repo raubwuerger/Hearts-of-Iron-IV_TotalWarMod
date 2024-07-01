@@ -9,7 +9,7 @@ SWE_coastal_defence_2_tt:0	"Adds an impenetrable wall of §YCoastal Forts §!§!
 SWE_stellapolaris_tooltip:0	"Can get event Operation Stella Polaris"
 SWE_king_takes_office_tt:0	"The King Gustaf V takes Office"
 
-SWE_motti_warfare_focus_tt:0	"Enables §HMotti Tactics §!§! \n§HInfantry\n    Forest §!§! \n      Defence: §G+10% §!§! \n      Movement: §G+5% §!§! \n"
+SWE_motti_warfare_focus_tt:0	"Enables §HMotti Tactics §!§! \n§HInfantry\n    Forest §!§! \n      Defence: §G§G +10% §!§! \n      Movement: §G§G +5% §!§! \n"
 
 
 northern_lights_research_name:0	"Northern Lights Research"
@@ -136,7 +136,7 @@ SWE_nordic_volunteer_corps:0	"Nordic Volunteer Corps"
 SWE_nordic_volunteer_corps_desc:0	"Many volunteers from the other Nordic countries have offered to join the ranks of the Finns to fight, we need to organise a Nordic Volunteer Corps."
 
 ##################National Focuses Sweden
-SWE_field_marshal_tt:0	"Gain a §Y3 Skill §!§!  §GWinter Specialist §!§! , §RHarsh Leader §!§!  and §GLogistics Wizard §!§!  Field Marshal named §YOlof Thörnell §!§! .\n"
+SWE_field_marshal_tt:0	"Gain a §Y3 Skill §!§!  §G§G Winter Specialist §!§! , §RHarsh Leader §!§!  and §G§G Logistics Wizard §!§!  Field Marshal named §YOlof Thörnell §!§! .\n"
 SWE_motti_tactic:0	"Active Defense"
 SWE_motti_tactic_desc:0	"We do not have the capability to overwhelm any major power in Europe today, regardless of our Alliances. Therefore it has been our position to pursue an active defense doctrine and use the dense forests to our advantage. The Finns are calling this Motti tactics and we should practice these tactics in joint exercises."
 #SWE_motti_tactic:0	"Adopt Motti Tactics"

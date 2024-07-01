@@ -14,8 +14,8 @@
 
  RESISTANCE_DECAY_MODIFIER_HAS_CLAIM:0	"Controller has claim: $VALUE|+%0$"
  RESISTANCE_DECAY_MODIFIER_LOW_RESISTANCE:0	"Low Resistance: $VALUE|+%0$"
- RESISTANCE_DECAY_VALUE:0	"Resistance Decay: §G$VALUE|3$% §!§! "
- RESISTANCE_DECAY_VALUE_CAPPED:0	"Resistance Decay: §G$VALUE|3$% §!§!  (Capped from §G$VALUE_NON_CAPPED|3$% §!§! )"
+ RESISTANCE_DECAY_VALUE:0	"Resistance Decay: §G§G $VALUE|3$% §!§! "
+ RESISTANCE_DECAY_VALUE_CAPPED:0	"Resistance Decay: §G§G $VALUE|3$% §!§!  (Capped from §G§G $VALUE_NON_CAPPED|3$% §!§! )"
  
  RESISTANCE_GROWTH_VALUE:0	"Resistance Growth: §R$VALUE|3$% §!§! "
  RESISTANCE_GROWTH_VALUE_CAPPED:0	"Resistance Growth: §R$VALUE|3$% §!§!  (Capped from §R$VALUE_NON_CAPPED|3$% §!§! )"
@@ -26,8 +26,8 @@
  
  COMPLIANCE_STRENGTH:0	"Compliance Strength: $TOT|%2+$"
  
- COMPLIANCE_GROWTH_VALUE:0	"Compliance Growth: §G$VALUE|3$% §!§! "
- COMPLIANCE_GROWTH_VALUE_CAPPED:0	"Compliance Growth: §G$VALUE|3$% §!§!  (Capped from §G$VALUE_NON_CAPPED|3$% §!§! )"
+ COMPLIANCE_GROWTH_VALUE:0	"Compliance Growth: §G§G $VALUE|3$% §!§! "
+ COMPLIANCE_GROWTH_VALUE_CAPPED:0	"Compliance Growth: §G§G $VALUE|3$% §!§!  (Capped from §G§G $VALUE_NON_CAPPED|3$% §!§! )"
  
  COMPLIANCE_DECAY_VALUE:0	"Compliance Growth: §R$VALUE|3$% §!§! "
  COMPLIANCE_DECAY_VALUE_CAPPED:0	"Compliance Growth: §R$VALUE|3$% §!§!  (Capped from §R$VALUE_NON_CAPPED|3$% §!§! )"
@@ -55,7 +55,7 @@
  OCCUPATION_POLICY_STATE_MODIFIER:0	"State Modifier:"
  OCCUPATION_POLICY_SUPRESSED_STATE_MODIFIER:0	"State Modifier When Resistance is Supressed:"
  OCCUPATION_POLICY_COMPARED_TO_LAW:0	" (Compared to $NAME|H$)"
- OCCUPATION_POLICY_HOLD_CONTROL_TO_SHOW_DELTAS:0	"Hold §GControl §!§!  to show comparison to current law"
+ OCCUPATION_POLICY_HOLD_CONTROL_TO_SHOW_DELTAS:0	"Hold §G§G Control §!§!  to show comparison to current law"
 
  COUNTRY_OCCUPATION_TITLE:0	"Occupied Territories"
  OCCUPATION_MODIFIER_ACTIVE:0	"Modifier is currently active. It will be disabled when $TYPE|H$ goes below $TO_DISABLE|%0H$"
@@ -135,7 +135,7 @@
  OCCUPATION_CHANGE_DEFAULT_LAW_TOOLTIP:0	"Change default Garrison Law"
  OCCUPATION_RESISTANCE_TAB_TOOLTIP:0	"Show §HResistance §!§!  on map."
  OCCUPATION_COMPLIANCE_TAB_TOOLTIP:0	"Show §HCompliance §!§!  on map."
- OCCUPATION_ZOOM_TO_STATE_TOOLTIP:0	"§GClick §!§!  to zoom to occupied state(s)"
+ OCCUPATION_ZOOM_TO_STATE_TOOLTIP:0	"§G§G Click §!§!  to zoom to occupied state(s)"
  
  resistance_25:0	"Organized Resistance"
  resistance_50:0	"Emboldened Resistance"

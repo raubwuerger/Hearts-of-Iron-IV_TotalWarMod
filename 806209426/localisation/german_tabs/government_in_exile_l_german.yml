@@ -69,7 +69,7 @@
  COUNTRYVIEW_GIE_INFO_BONUSES:0	"     - Attack: $ATTACK|%0+$\n     - Defense: $DEFENSE|%+0$"
  COUNTRYVIEW_GIE_INFO_DELAYED:1 "§HLegitimacy §!§!  is improved by fighting in your hosts wars."
  COUNTRYVIEW_GIE_INFO_DELAYED_HOST:0	"§HLegitimacy §!§!  is improved by fighting in our wars."
- COUNTRYVIEW_GIE_INFO_BUTTON:0	"§GClick §!§!  the button to see the current effects."
+ COUNTRYVIEW_GIE_INFO_BUTTON:0	"§G§G Click §!§!  the button to see the current effects."
  COUNTRYVIEW_GIE_OCCUPIERLIST_ENTRY:0	"  $NAMEWITHFLAG|H$"
  GIE_EXILE_ARMY_LEADER_UNLOCKED_WE_RECEIVE:0	"We have received a $EXILEADJ|H$ §HExiled Army Leader §!§! ."
  GIE_EXILE_ARMY_LEADER_UNLOCKED_EXILE_RECEIVES:0	"$EXILENAMEDEF|UH$ has received a $EXILEADJ|HU$ §HExiled Army Leader §!§! ."

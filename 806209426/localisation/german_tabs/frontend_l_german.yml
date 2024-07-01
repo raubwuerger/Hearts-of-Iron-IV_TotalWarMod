@@ -152,7 +152,7 @@
  CUSTOM_GAME_SETTINGS_SAVE:1 "Save Preset"
  CUSTOM_GAME_SETTINGS_SAVE_TOOLTIP:0	"Save this set of customized game rules for future use when starting new games."
  CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP:0	"§HCustomized Options §!§! \nSome rules in this group are customized with non-default options."
- CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP_DELAYED:0	"§GClick §!§!  to reset the whole group back to default."
+ CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP_DELAYED:0	"§G§G Click §!§!  to reset the whole group back to default."
  CUSTOM_GAME_SETTINGS_GROUP_DEFAULT_TOOLTIP:0	"§HDefault Options §!§! \nEvery rule in this group is set to use its default option."
  CUSTOM_GAME_SETTINGS_REVERT:1 "Reset"
  CUSTOM_GAME_SETTINGS_REVERT_TOOLTIP:0	"Reset all customized rules back to their default options."

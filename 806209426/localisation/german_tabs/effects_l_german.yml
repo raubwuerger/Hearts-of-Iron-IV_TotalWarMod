@@ -396,7 +396,7 @@
  EFFECT_MIO_SET_FUNDS:	"Finanzmittel auf $VAL|H0$ festlegen"
  EFFECT_MIO_ADD_SIZE_SINGULAR:	"Erhält $VAL|=+0$ Größe"
  EFFECT_MIO_ADD_SIZE_PLURAL:	"Erhält $VAL|=+0$ Größen"
- EFFECT_MIO_COMPLETE_TRAIT:	"Erhält §G1 §!§!  Größe und die abgeschlossene Eigenschaft „$TRAIT|H$“"
+ EFFECT_MIO_COMPLETE_TRAIT:	"Erhält §G§G 1 §!§!  Größe und die abgeschlossene Eigenschaft „$TRAIT|H$“"
  EFFECT_MIO_UNLOCK_TRAIT:	"Neue Eigenschaft: $TRAIT|H$"
  EFFECT_CONTEXT_MIO:	"$ORGANISATION|H$($FLAG$)"
  EFFECT_MIO_ADD_TASK_CAPACITY:	"$MODIFIER_MIO_TASK_CAPACITY$: $VAL|=+0$"
