@@ -1,9 +1,9 @@
 ﻿l_german:
  WTT_border_conflict_initiate_incident:0	"Stage Incident at [From.From.GetName] Border"
  WTT_border_conflict_incident_warning_defender:0	"Incident at [From.From.GetName] border to [From.GetNameDef]"
- WTT_border_conflict_incident_warning_defender_desc:0	"§WMove divisions to §H[From.From.GetName] §!§!  §!§! "
+ WTT_border_conflict_incident_warning_defender_desc:0	"§W§W Move divisions to §H[From.From.GetName] §!§!  §!§! "
  WTT_border_conflict_escalation_warning_defender:0	"Incident at [From.From.GetName] border to [From.GetNameDef]"
- WTT_border_conflict_escalation_warning_defender_desc:0	"§WMaintain divisions in §H[From.From.GetName] §!§! \n§H[From.GetNameDef] §!§!  can escalate to a §HBorder Conflict §!§!  §!§! ."
+ WTT_border_conflict_escalation_warning_defender_desc:0	"§W§W Maintain divisions in §H[From.From.GetName] §!§! \n§H[From.GetNameDef] §!§!  can escalate to a §HBorder Conflict §!§!  §!§! ."
  escalation_possible_tooltip_for_defender:0	"§H[From.GetNameDef] §!§!  can escalate incident to a §HBorder Conflict §!§! .\nWe will instantly lose if we have no divisions in the state\n"
  effects_if_border_conflict_is_lost:0	"§HEffects if Border Conflict is lost §!§! :\n"
  from_cannot_escalate:0	"§H[From.GetNameDef] §!§!  can no longer escalate to a §HBorder Conflict §!§! .\n\n"

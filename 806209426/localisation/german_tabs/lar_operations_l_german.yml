@@ -319,7 +319,7 @@
  launch_coup_exfiltration_outcome:0	"On receipt of the start signal, our agent led several units to capture their assigned objectives. The rebels have successfully taken control of a slice of territory."
  launch_coup_exfiltration_outcome_fail:0	"In the confusion of the uprising, we have lost contact with our operative. We may never find out what happened."
  zow_operation:0	"Auschwitz Infiltration"
- zow_operation_desc:0	"§L§L Witold Pilecki, an intelligence officer for our resistance movement, presented his plan to enter Germany's Auschwitz concentration camp, gather intelligence on the camp from the inside, and organize inmate resistance.§W"
+ zow_operation_desc:0	"§L§L Witold Pilecki, an intelligence officer for our resistance movement, presented his plan to enter Germany's Auschwitz concentration camp, gather intelligence on the camp from the inside, and organize inmate resistance.§W§W "
  pol_zow_infiltration_outcome:0	"Witold managed to enter the concentration camp with his false identity card."
  pol_zow_attack_outcome:0	"The Inmate resistance is starting to set off."
  pol_zow_exfiltration_outcome:0	"Resistance in the camp formed an underground organization: Związek Organizacji Wojskowej"

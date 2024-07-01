@@ -233,7 +233,7 @@
  AIR_REBASING_ALREADY_BEST:	"§RAlle Flugzeuge befinden sich bereits in den umliegenden Stützpunkten §!§! "
  AIR_REBASE_ENTRY_GOOD:	"$COUNT$ $WING|Y$ wird nach $BASE|Y$ verlegt\n"
  AIR_REBASE_ENTRY_CROWDED:	"§R$COUNT$ $WING$ wird nach $BASE$ verlegt §!§! \n"
- AIR_REBASING_SOME_OVERCROWDED:	"\n§Wenn wir dies tun, werden einige Stützpunkte überbelastet §!§! "
+ AIR_REBASING_SOME_OVERCROWDED:	"\n§W§W enn wir dies tun, werden einige Stützpunkte überbelastet §!§! "
  AIRWING_MOVE_EQUIPMENT_DESC:	"§H1 §!§!  Ausrüstung verschieben\n§GStrg+Maustaste §!§! , um §H10 §!§!  zu verschieben\n§GUmschalt+Maustaste §!§! , um §H100 §!§!  zu verschieben"
  AIRWING_MOVE_EQUIPMENT_ALL:	"Vollständige Ausrüstung verschieben"
  AIR_BASE_RIGHT_CLICK:	"§GRechtsklicken, um ausgewählte Luftgeschwader zu diesem Luftwaffenstützpunkt zu bewegen §!§! "

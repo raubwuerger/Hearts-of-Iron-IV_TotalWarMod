@@ -746,7 +746,7 @@
  POL_warsawuprising:0	"Powstanie Warszawskie"
  POL_operationtempest:0	"Operacja Burza"
  POL_lithuania2:0	"War on Lithuania"
- POL_refuse:0	"§RLithuania refused§W"
+ POL_refuse:0	"§RLithuania refused§W§W "
  POL_resistance:0	"Resist!"
  POL_destruction:0	"Destroy the German War machine!"
  GER_destroypol:0	"Destroy their underground state!"
@@ -756,7 +756,7 @@
  POL_agriculture:0	"Agricultural or Social Reforms and Laws"
  POL_agriculture_desc:0	"Agricultural and Social laws and reforms undertaken by Poland during this period"
 
- GER_acceptdanzig:0	"§YDanzig§W was given to §YGermany§W"
+ GER_acceptdanzig:0	"§YDanzig§W§W  was given to §YGermany§W§W "
 
  ###ROM###
 
@@ -777,8 +777,8 @@
  FIN_agriculture:0	"Agricultural Reforms and Laws"
  FIN_agriculture_desc:0	"Agricultural laws and reforms undertaken by Finland during this period"
 
- FIN_military3:0	"§RWe will gain small army bonuses once Germany launches Fall Blau§W"
- winterwar:0	"§YThe Winter War§W is §YOver§W"
+ FIN_military3:0	"§RWe will gain small army bonuses once Germany launches Fall Blau§W§W "
+ winterwar:0	"§YThe Winter War§W§W  is §YOver§W§W "
 
  ###Speeches###
  political_speeches:0	"Speeches"
