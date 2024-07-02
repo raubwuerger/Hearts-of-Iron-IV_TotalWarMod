@@ -1,1 +1,15 @@
-﻿
+﻿l_german:
+ ST:0 "st"
+ ND:0 "nd"
+ RD:0 "rd"
+ TH:0 "th"
+ WAR_NAME:0 "$BESTELLUNG$$Erster$-$ZWEITER$ Krieg"
+ CIVIL_WAR_NAME:0 "$Order$$ZWEITER$ Bürgerkrieg"
+ WAR_NAME_JAP_CHI:0 "Sino-Japanischer Krieg"
+ WAR_NAME_PRC_CHI:0 "Chinesischer Bürgerkrieg"
+ WAR_NAME_CHI_PRC:0 "Chinesischer Bürgerkrieg"
+ WAR_TAKE_CORE_NAME:0 "$ORDER$$$Erste$ Rückeroberung des $Staates$"
+ WAR_TAKE_CLAIM_NAME:0 "$Order$$Erste$ Aggression für $Staat$"
+ WAR_NAME_ITA_ETH:0 "Italienischer Krieg gegen Äthiopien"
+ INDEPENDENCE_WAR_NAME:0 "$ORDER$$$FIRST$ Unabhängigkeitskrieg"
+ create_puppet_wargoal_usa:0 "§H§H Marionette (Fokus) §!§! Kriegsziel erlangt durch §Y§Y [ROOT.GetNameDef] §!§! "
