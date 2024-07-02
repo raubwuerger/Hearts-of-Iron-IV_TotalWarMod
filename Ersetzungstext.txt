@@ -1,0 +1,3 @@
+Schutzeffizienz -> Sicherungseffizenz
+Schutzschiffe -> Sicherungsschiffe
+Utility Vehicles -> Nutzfahrzeuge

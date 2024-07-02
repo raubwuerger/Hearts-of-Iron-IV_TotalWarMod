@@ -1,4 +1,5 @@
-﻿ DIPLO_POSITIVE:	"Positiv: $VAL|G$"
+﻿l_german:
+ DIPLO_POSITIVE:	"Positiv: $VAL|G$"
  DIPLO_NEGATIVE:	"Negativ: $VAL|R$"
  GOOD_BAD_RATIO:	"Wir brauchen mindestens $THRESHOLD|Y$ mehr §G§G positive §!§!  als §R§R negative §!§!  Gründe für eine Annahme. Zurzeit haben wir $RATIO|Y$."
  DIPLOMACY_STAGE_COUP_ALREADY_IDEOLOGY:	"Sie sind bereits $IDE$, es ist also nicht nötig, einen Staatsstreich gegen sie zu inszenieren."

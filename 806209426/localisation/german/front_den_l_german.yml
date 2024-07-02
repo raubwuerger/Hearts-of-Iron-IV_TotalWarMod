@@ -1,1 +1,90 @@
-﻿
+﻿l_german:
+
+
+##########Focuses ""
+DEN_neutrality_focus:0 "Kommuniqué von Kopenhagen"
+DEN_intervention:0 "Ausländische Beteiligung"
+DEN_support_the_industry:0 "Unterstützung der Industrie"
+DEN_support_the_industry_desc:0 ""
+DEN_construction_effort_I:0 "FLSmidth & Co."
+DEN_construction_effort_II:0 "Erweiterung der Verbraucher"
+DEN_production_effort_I:0 "DISA København"
+DEN_production_effort_II:0 "Lizenz Produktion"
+DEN_infrastructure_effort_I:0 "Ferngesteuerte Infrastruktur"
+DEN_industry_research:0 "Industri Forskning"
+DEN_secret_weapons:0 "Spionage"
+DEN_rocket_effort:0 "Raket Kraftmaskine"
+DEN_nuclear_effort:0 "Kernekraft"
+DEN_extra_tech_slot_2:0 "Udvidet Forskning"
+DEN_political_effort:0 "Stauning eller Kaos"
+DEN_motstand:0 "Holger Danske"
+DEN_lottekorps:0 "Lottekorps"
+DEN_befriend_scandinavia:0 "Skandinavisk Forsvarsalliance"
+DEN_norway_war_goal:0 "Antrag Vestlandet"
+DEN_swedish_factory_alliance:0 "Schwedische Fabrik-Kooperation"
+DEN_small_ships:0 "Norwegische Werftkooperation"
+DEN_bofors_artillery_production:0 "Bofors Produktionshilfe"
+DEN_germany_friend:0 "Befriend Germany"
+DEN_claim_schleswig:0 "Antrag Schleswig"
+DEN_sweden_friend:0 "Befreundet mit Schweden"
+DEN_claim_scania:0 "Kontrolle über den Öresund"
+DEN_coerce_sweden_den_ger:0 "Beeinflussung Schwedens"
+DEN_us_trade_relations:0 "US-Handelsbeziehungen"
+DEN_greenland_agreement:0 "Grönland-Abkommen"
+DEN_danske_brigade:0 "Den Danske Brigaden"
+DEN_germany_arms_production:0 "Frikorps Danmark"
+DEN_atlantic_wall:0 "Atlantikwall"
+DEN_fortify_copenhagen:0 "Middelgrundsfortet & Flakfortet"
+DEN_deterrence:0 "Forsvar Oprustning"
+DEN_fortify_arhus:0 "Århus-Linie"
+DEN_fortify_dybbol:0 "Dybbøl-Flanke"
+DEN_backyard_factories:0 "Hinterhof Fabriken"
+DEN_sj_airspace:0 "Sjælland FLAK"
+DEN_army_effort:0 "Danske Hæren"
+DEN_equipment_effort:0 "Infanterie Våben"
+DEN_equipment_effort_2:0 "Artillerie Kanon"
+DEN_doctrine_effort:0 "Hær Doktrin"
+DEN_motorization_effort:0 "Dansk Automobil Byggeri"
+DEN_armor_effort:0 "Kampvogn"
+DEN_aviation_effort:0 "Flyvemaskine"
+DEN_fighter_focus:0 "Kampfly"
+DEN_bomber_focus:0 "Bombefly"
+DEN_CAS_NAV_effort:0 "Luftfart Bevæbning"
+DEN_naval_effort:0 " Kongelige Danske Marine"
+DEN_doctrines_navy:0 "Marine Doktrin"
+DEN_marines_and_landing_craft:0 "Marine Korps"
+DEN_capital_ships:0 "Slagskib"
+DEN_destroyer_effort:0 "Jager"
+DEN_fortify_belt:0 "Verstärkung der Beltstraße"
+
+
+
+
+
+
+#########ideas ""
+christian_x:0 "Kong Christian X"
+christian_x_desc:0 "Kong Christian X., ein beliebtes und verantwortungsbewusstes Staatsoberhaupt, verschafft Dänemark bedeutende Handels- und Industriebeziehungen."
+tradesmen_culture:0 "Handwerker-Kultur"
+
+
+#########Custom tool tip ""
+
+importDEN:0 "Antrag auf Ausrüstung für 2 vollständige Divisionen "
+
+#####Events ""
+
+allianse.1.t:0 "Kopenhagener Bündnisgespräche"
+
+import.1.t:0 "Anfrage für dänische Polizeitruppen"
+import.1.d:0 "Während dieses Krieges bittet die dänische Regierung uns um Unterstützung bei der Ausbildung von Truppen und Freiwilligen, die in ihrem Namen kämpfen sollen. Dies wird eine verdeckte Operation sein, getarnt als Ausbildungsprogramm für Polizeibeamte. Sie werden eine Menge Ausrüstung benötigen (2000 Gewehre, 200 Unterstützungsgeräte und 50 Artilleriegeschütze). Sollten wir helfen?"
+import.1.a:0 "Ja, gebt ihnen, was sie brauchen!"
+import.1.b:0 "Nein, wir werden unparteiisch bleiben."
+
+import.2.t:0 "Die schwedische Regierung nimmt unser Ersuchen an"
+import.2.d:0 "Die schwedische Regierung unterstützt uns bei der Rekrutierung so genannter Polizeitruppen in einer verdeckten Operation und schickt uns die passende Ausrüstung, um uns bei unseren Kriegsanstrengungen zu unterstützen."
+import.2.a:0 "Eine dringend benötigte Hilfe!"
+
+import.3.t:0 "Die schwedische Regierung lehnt unser Ersuchen ab"
+import.3.d:0 "Leider halten die Schweden es für zu riskant und werden uns weder Truppen noch Ausrüstung schicken."
+import.3.a:0 "Sie haben uns verraten!"

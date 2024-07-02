@@ -1,1 +1,82 @@
-﻿
+﻿l_german:
+
+
+### Leaders ### "###"
+
+ POLITICS_CHARLES_LINDBERGH_DESC:0 "Charles Lindbergh\n Ein amerikanischer Flieger, Militäroffizier, Autor, Erfinder und Aktivist. Im Alter von 25 Jahren wurde er 1927 als Pilot der U.S. Air Mail weltberühmt, als er den Orteig-Preis für seinen Nonstop-Flug von New York nach Paris gewann. Er wendet sich nicht nur gegen die Intervention der Vereinigten Staaten, sondern auch gegen die Gewährung von Hilfe an das Vereinigte Königreich. Er ist eine führende Persönlichkeit des Antikriegs-Komitees America First, das für den von ihm propagierten Isolationismus steht."
+ POLITICS_DOUGLAS_MACARTHUR_DESC:0 "Der General und heutige Präsident der USA ist für die einen ein Leuchtturm der Stärke, für die anderen der korrumpierende Einfluss des Militärs auf die Politik."
+ POLITICS_REZA_SHAH_PAHLAVI_DESC:0 "Schah von Iran seit dem 15. Dezember 1925, als er durch einen Beschluss des persischen Parlaments (Majlis) zum legalen Monarchen von Iran ernannt wurde und damit die Herrschaft des damals bereits im Exil lebenden Ahmad Schah und der Qajar-Dynastie beendete. Zuvor war er bereits seit dem Staatsstreich der (von den Briten unterstützten) persischen Kosakenbrigade von 1921 als Sardar Sepah (Oberbefehlshaber der Armee), Kriegsminister und später auch Premierminister die eigentliche Macht in Persien. \n Nach dem Vorbild von Atatürks Türkei hat Reza Schah viele soziale, wirtschaftliche und politische Reformen eingeleitet, darunter die Modernisierung der Infrastruktur und des Militärs, eine Politik der Entstammung, Sesshaftmachung und Persianisierung, und damit den Grundstein für einen modernen iranischen Staat gelegt.\n Die Zukunft dieses Staates und der Herrschaft des Schahs ist jedoch ungewiss, da sich das Machtgleichgewicht in der Region und in der Welt insgesamt verschiebt. Wird der Schah in der Lage sein, die ausländischen Mächte weiterhin gegeneinander auszuspielen, um die Freiheit des Irans zu bewahren? "
+ POLITICS_REZA_SHAH_PAHLAVI_DESC_prisoner:0 "Nachdem die Sowjets und die Briten aus dem Land vertrieben wurden, ist Reza Schah offiziell wieder als Herrscher des Iran eingesetzt worden. Allerdings haben die Briten den wiedereingesetzten Schah inhaftiert, da er unter ihrer Aufsicht im Exil gelebt hatte. Die neuen Wohltäter des iranischen Staates werden sich beeilen müssen, den Schah ausfindig zu machen und zu befreien, wenn sie das Land stabilisieren und die neue Ordnung legitimieren wollen."
+ POLITICS_REZA_SHAH_PAHLAVI_DESC_freed:0 "Reza Schah regiert sein Land wieder ordnungsgemäß vom \"§Y§Y Takht-e Khurshīd §!§! \" (dem persischen Sonnenthron), nachdem er aus seiner Gefangenschaft befreit wurde. Die Frage ist nun, ob er den Iran als freie Nation erhalten kann..."
+
+#!!!Portrait Mohammed her: Portrait_Mohammad_Reza_Pahlavi.dds  "sie:"
+
+### Leader traits ### "Eigenschaften"
+
+ political_prisoner:0 "Gefangen vom Feind"
+ political_prisoner_desc:0 "Ich brauche einen Helden, der kommt und mich rettet..."
+
+
+### Opertions ### "###"
+
+ rescue_Reza_Shah:0 "Operation Zoroaster"
+ rescue_Reza_Shah_desc:0 "§Als Teil der [ENG.GetFactionName]-Besetzung von [Per.GetName] musste Reza Shah zugunsten seines gefügigeren Sohnes abdanken. Infolgedessen musste Reza Schah ins "überwachte" Exil gehen, das sich jedoch in eine regelrechte Gefangenschaft verwandelte, als wir Persien von kommunistischer und kapitalistischer Unterdrückung befreiten. In dem Bemühen, das Land zu stabilisieren und seine Bevölkerung und Führung für unsere Sache zu gewinnen, versprachen wir, Reza Pahlavi zu befreien und wieder einzusetzen. Jetzt, da wir den Ort ausfindig gemacht haben, an dem er wahrscheinlich festgehalten wird, sollten wir schnellstmöglich eine Rettungsaktion starten! §!§! "
+ rescue_Reza_Shah_infiltration:0 "Absetzen der Spezialeinheiten in der Nähe des Gefängnisses"
+ rescue_Reza_Shah_infiltration_desc:0 "Eine Eliteeinheit von Spezialkräften wird in der Nähe des Geländes abgesetzt, in dem Reza Pahlavi laut unserem Geheimdienst festgehalten wird."
+ rescue_Reza_Shah_attack:0 "Luftangriff auf das Gebiet"
+ rescue_Reza_Shah_attack_desc:0 "Es wird ein Luftangriff auf das Gebiet gestartet, um die Wachen des Schahs abzulenken. In der Zwischenzeit werden unsere Agenten versuchen, das Gelände zu infiltrieren und die Zielperson zu befreien."
+ rescue_Reza_Shah_exfiltration:0 "Abzug per Flugzeug"
+ rescue_Reza_Shah_exfiltration_desc:0 "Reza Shah und das Team werden an einem bestimmten Ort in der Nähe mit einem Flugzeug abgeholt, das sie zu einem befreundeten Flugplatz bringen soll."
+ #!!!Relation modifer, add? GER_rescued_mussolini:0 ""Geretteter Mussolini"!!!"
+ rescue_Reza_Shah_outcome_tt:0 "Wir werden versuchen, Reza Shah zu befreien. Der Versuch ist jedoch nicht ohne Risiko..."
+
+#Parties# "#Parteien# "#Parteien#""
+
+ MCK_qing_restored:0 "Mandschu-Restaurationisten-Clique"
+  
+  
+ #Countries# " #Länder# " #Länder#""
+  
+ GER_greater_german_reich_fascism:0 "Großes Deutsches Reich"
+ GER_greater_german_reich_fascism_DEF:0 "Das Großdeutsche Reich"
+
+#Factions# "#Fakten# "#Fakten#""
+
+ American_League:0 "Die Amerikanische Liga"
+
+#Tooltips resistance# "#Tooltips Widerstand# "#Tooltips Widerstand#""
+
+
+  
+ #Tooltips Decisions added# "Entscheidungen"
+  
+ GER_peace_with_Finland:0 "Schließen Sie Frieden mit den Finnen"
+ GER_peace_with_Finland_desc:0 "Nach der Aufteilung Osteuropas zwischen uns und den Sowjets bleiben die Finnen als eine der wenigen Nationen übrig, die sich dieser neuen Ordnung weiterhin widersetzen. Ohne Hoffnung auf nennenswerte ausländische Unterstützung in absehbarer Zeit und ohne dass die Sowjets eifrig nach ihren Grenzgebieten Ausschau halten, hat die Fortsetzung des Krieges für beide Seiten wenig Vorteile. Vielleicht können sie sich auch für uns in Zukunft noch als nützlich erweisen..."
+ bramja_FIN_GER_Peace_tt:0 "Finnland wird unser Angebot höchstwahrscheinlich annehmen, aber bei diesen eigenwilligen Nordländern kann man nie wissen..."
+ GER_Gau_Silesia_Kattowitz:0 "Kattowitz in den Gau Oberschlesien eingliedern"
+ GER_Gau_Silesia_Kattowitz_desc:0 "Nachdem nun wieder Ruhe in der Region eingekehrt ist, werden wir Kattowitz in die Verwaltung des neu gegründeten Gaues Oberschlesien (entstanden aus der Teilung des Gaues Schlesien) integrieren. Sobald der Widerstand vollständig niedergeschlagen ist und die deutschen Verhältnisse wieder hergestellt sind, wird es wieder ein vollwertiger Bestandteil des Reiches sein!"
+ GER_Integrate_Kattowitz:0 "Heim ins Reich: Oberschlesien"
+ GER_Integrate_Kattowitz_desc:0 " Der größte Teil des Widerstandes ist unterdrückt und die deutsche Verwaltung, das Bildungswesen usw. sind vollständig wiederhergestellt. Willkommen daheim in Kattowitz. "
+ GER_Gau_Silesia_Teschen:0 "Eingliederung von Teschen in den Gau Oberschlesien"
+ GER_Gau_Silesia_Teschen_desc:0 "Seit der Abtrennung von Österreich hat das ehemalige Herzogtum Teschen eine Reihe von Konflikten erlebt, bei denen Tschechen und Polen einander die Kontrolle über die Region streitig machten. In den letzten Jahren wurde immer deutlicher, dass das Teschener Schlesien nach Germanien zurückkehren muss, um wieder zu Wohlstand zu kommen. Heute ist dieser Tag gekommen! "
+ GER_Integrate_Teschen:0 "Heim ins Reich: Teschener Schlesien"
+ GER_Integrate_Teschen_desc:0 "Obwohl es schwieriger war als in den meisten zurückeroberten deutschen Gebieten, ist Teschen und sein Umland vollständig wieder eingegliedert worden! "
+ GER_Claim_Slovenia:0 "Beginn der Germanisierung Sloweniens"
+ GER_Claim_Slovenia_desc:0 "Jetzt, wo das ehemalige österreichische Territorium Slowenien wieder Teil des [Root.GetNameDef] geworden ist, sollten wir mit der Befriedung der Region beginnen, um sie auf die vollständige Integration vorzubereiten."
+ GER_Integrate_Slovenia:0 "Heim ins Reich: Krain"
+ GER_Integrate_Slovenia_desc:0 "Ein weiteres Stück der befleckten Hinterlassenschaft des Großen Krieges ist beseitigt, das Krain wurde ordnungsgemäß befriedet und ist bereit, ein vollständiger Teil des 3. und letzten Reiches zu werden!"
+ GER_support_reichskommissariats:0 "Unterstützung [From.GetNameDef]"
+ GER_support_reichskommissariats_desc:0 "Wir müssen die totale Herrschaft über unsere rechtmäßigen Eroberungen im Osten errichten, um die Zukunft des Reiches zu sichern! Wir werden die erforderliche Ausrüstung für die Truppen des Reichskommissars [FROM.GetLeader] schicken, um sicherzustellen, dass jeder Widerstand ausgerottet wird."
+ GER_peace_with_Iran:0 "Das Teheraner Diktat"
+ GER_peace_with_Iran_desc:0 "Zwingt den Persern unseren Willen auf: "
+ bramja_Per_buffer_tt:0 "§W§W 1.Persien wird zu einem Pufferstaat erklärt, \n 2. Wir garantieren seine Unabhängigkeit, lassen Persien aber ansonsten politisch und militärisch unabhängig (vorerst...), da die Region die Grenzen unseres Einflusses gemäß den mit unseren Mitkriegsparteien im Osten getroffenen Vereinbarungen markiert. \n 3. Wir werden jedoch dafür sorgen, dass sie jede Verbindung zu ihren früheren Unterdrückern kappen, sei es politisch oder wirtschaftlich. Außerdem wird [From.GetNameDef] die Exklusivrechte an den persischen Ölreserven geltend machen.  §!§!  "
+ bramja_Per_countenanced_tt:0 "\n§L§L Die Besetzung durch die Sowjets und die Briten hat in Persien viel Leid verursacht und das Land ohne richtige Führung zurückgelassen, da Schah Reza Pahlavi gezwungen war, zugunsten seines pro-britischen Sohnes Mohammad abzudanken. Während des Chaos hatten verschiedene Kräfte, die gegensätzliche Ideologien propagierten, die Möglichkeit, ihre Macht auszubauen, §!§!  §O§O das Land weiter zu destabilisieren und es zu einer Brutstätte wütender Unruhen zu machen. §!§!  \n§H§H Um die Region zu stabilisieren und den Ölfluss zu gewährleisten, ist es die beste Option, Reza Pahlavi erneut als Schah einzusetzen, da er legitimiert ist, eine Aura der Unabhängigkeit ausstrahlt und sich (in gewisser Weise) als Befürworter von [ROOT.GetFactionName] ausweist.  §!§! \n §R§R Da Reza Pahlavi jedoch derzeit von den Briten inhaftiert ist, §!§!  §W§W müssen wir mit der Planung einer Rettungsaktion beginnen, §!§! §R§R wenn er nicht bald auf seinen Thron zurückkehrt, wird das Land in ein totales Chaos gestürzt.  §!§! "
+ bramja_Per_oil_rights_tt:0 "\n§W§W Der Thron wird uns das alleinige Eigentum an den Ölreserven von Hormozgan geben, aber wenn wir auch §!§! §M§M unangefochtene Kontrolle über die Straße von Hormuz, den Golf von Aden und den Suezkanal haben, §!§! §G§G werden wir und unser stärkster Verbündeter auch die Exklusivrechte an den Ölfeldern in Khuzestan und Fars geltend machen können.  §!§!  \n"
+ GER_at_end_of_world_SAF:0 "Brüder am Ende der Welt"
+ GER_at_end_of_world_SAF_desc:0 "§Die südafrikanische Armee und Nation haben während der Eroberung Afrikas durch [ROOT.GetFactionName], die nun vor ihrer Tür steht, unerträgliche Verluste erlitten...\n\nDer andauernde Krieg zwischen uns und unseren germanischen Mitbürgern in Südafrika ist höchst unnatürlich und war in der südafrikanischen Bevölkerung nie beliebt, geschweige denn bei den Afrikanern. Die [SAF.GetAdjective] herrschende Klasse, dezimiert und mit unserer bevorstehenden Invasion ihrer Heimat konfrontiert, sollte mehr denn je bereit sein, endlich unseren väterlichen Schutz zu akzeptieren.\nDarüber hinaus wird die Kooptierung der Afrikaner viele Probleme zunichte machen, die eine direkte Herrschaft aus der Ferne [Root.Capital.GetName] mit sich bringen würde... §!§! "
+ Conditions_GER_at_end_of_world_SAF_tt:0 "Um ein glaubwürdiges Ultimatum zu stellen, müssen zwei Bedingungen erfüllt sein:\n -Südafrika hat mehr als 130.000 Männer verloren oder die Wehrpflicht für alle Erwachsenen eingeführt.\n -Die [ROOT.GetFactionName] muss begonnen haben, Gebiete südlich von Belgisch-Kongo oder Tanganjika zu besetzen."
+ GER_at_end_of_world_SAF_tt:0 "§Afrikanische Nationalisten wenden sich in letzter Zeit an uns und betonen in ihren Botschaften, dass ihr Land reif für eine Neuausrichtung auf unsere Sache ist... Sie wissen inzwischen sehr gut, dass dies ihre letzte Möglichkeit ist, ihre derzeitige Lebensweise und gesellschaftliche Stellung zu erhalten. §!§!  \n\n§O§O Selbst diese Aussicht könnte die von [SAF.GetFactionName] angeführten Pro-[SAF.GetLeader]-Gruppen jedoch nicht davon abhalten, hartnäckig nicht zur Vernunft kommen zu wollen. §!§! \n§G§G Selbst wenn dies geschehen sollte, werden die von der \"Gryshemde\", \"Gesuiwerde Nasionale Party\" oder von \"Oswald Pirow\" versammelten Kräfte wild entschlossen sein, die Zügel der Regierung in die Hand zu nehmen, und zwar mit allen Mitteln, um dieses Ergebnis zu verhindern. §!§! \n§M§M Unsere Unterstützung sollte ein günstiges Ergebnis sicherstellen... §!§! \n "
+ SOV_refugees_and_refugees:0 "Sowjetische Flüchtlinge, Deserteure und Experten anlocken"
+ SOV_refugees_and_refugees_desc:0 "Die [SOV.GetNameDef] befindet sich in einer katastrophalen Lage: Nach dem Ansturm der [GER.GetAdjective] Invasion und dem Verlust ihrer westlichen Gebiete sind sie nun mit ständigen deutschen Bombenangriffen und einem allgemeinen Zustand der Verwirrung konfrontiert. Wir können diese Situation nutzen, um einen Aufruf an die wachsende Zahl von Flüchtlingen und Deserteuren zu starten, sich uns anzuschließen und sich hier niederzulassen..."
+
+ #they hand over control over economic policy and oil reserves to us, while leaving them politically mostly independent. They will serve as good buffer state, and as a buffer our oil supplies. We will even be so gracious as to protect them from any attack! ""
