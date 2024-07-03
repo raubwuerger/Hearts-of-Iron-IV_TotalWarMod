@@ -1310,7 +1310,7 @@
  NAVAL_COMBAT_RESULT_HEADER_DATE: " ($DATE$) "
  PORTS_STRIKE_HEADER_DATE: " (neuester:$DATE$) "
  NAVAL_COMBAT_RESULT_PARTICIPANTS: "($A$ vs $D$)\n"
- NAVAL_COMBAT_RESULT_LOSSES: "  $WHO$ §W§W verloren §!§!  $NAME$\n"
+ NAVAL_COMBAT_RESULT_LOSSES: "  $WHO$ §Wverloren §!§!  $NAME$\n"
  NAVAL_COMBAT_RESULT_LOSSES_BY_COUNT: "$NUM|H$x $WHAT|Y$"
  NAVAL_COMBAT_RESULT_DISPATCH_HOTKEY: "§G§G Rechtsklicken §!§! , um alle Gefechtsergebnisse zu §R§R verwerfen §!§! ."
  NAVAL_COMBAT_RESULT_DISPATCH_TITLE: "Gefechtsergebnisse senden."

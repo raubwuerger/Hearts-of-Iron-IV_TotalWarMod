@@ -319,7 +319,7 @@
  launch_coup_exfiltration_outcome:0 "Nach Erhalt des Startsignals hat unser Agent mehrere Einheiten angeführt, um die ihnen zugewiesenen Ziele einzunehmen. Den Rebellen ist es gelungen, einen Teil des Landes unter ihre Kontrolle zu bringen."
  launch_coup_exfiltration_outcome_fail:0 "In den Wirren des Aufstandes haben wir den Kontakt zu unserem Agenten verloren. Möglicherweise werden wir nie herausfinden, was passiert ist."
  zow_operation:0 "Auschwitz-Infiltration"
- zow_operation_desc:0 "§Witold Pilecki, ein Nachrichtenoffizier unserer Widerstandsbewegung, stellte seinen Plan vor, in das deutsche Konzentrationslager Auschwitz einzudringen, von innen Informationen über das Lager zu sammeln und den Widerstand der Häftlinge zu organisieren.§W§W "
+ zow_operation_desc:0 "§Witold Pilecki, ein Nachrichtenoffizier unserer Widerstandsbewegung, stellte seinen Plan vor, in das deutsche Konzentrationslager Auschwitz einzudringen, von innen Informationen über das Lager zu sammeln und den Widerstand der Häftlinge zu organisieren.§W"
  pol_zow_infiltration_outcome:0 "Witold gelang es, mit seinem falschen Ausweis in das Konzentrationslager einzudringen."
  pol_zow_attack_outcome:0 "Der Häftlingswiderstand beginnt sich zu formieren."
  pol_zow_exfiltration_outcome:0 "Der Widerstand im Lager bildet eine Untergrundorganisation: Związek Organizacji Wojskowej"

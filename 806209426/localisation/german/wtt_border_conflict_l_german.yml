@@ -1,9 +1,9 @@
 ﻿l_german:
  WTT_border_conflict_initiate_incident:0 "Stufe Vorfall an der [From.From.GetName]-Grenze"
  WTT_border_conflict_incident_warning_defender:0 "Vorfall an der [Von.Von.GetName]-Grenze zu [Von.GetNameDef]"
- WTT_border_conflict_incident_warning_defender_desc:0 "§W§W Verschieben von Abteilungen nach §H§H [From.From.GetName] §!§!  §!§! "
+ WTT_border_conflict_incident_warning_defender_desc:0 "§WVerschieben von Abteilungen nach §H§H [From.From.GetName] §!§!  §!§! "
  WTT_border_conflict_escalation_warning_defender:0 "Vorfall an der [From.From.GetName]-Grenze nach [From.GetNameDef]"
- WTT_border_conflict_escalation_warning_defender_desc:0 "§W§W Beibehaltung der Abteilungen in §H§H [From.From.GetName] §!§! \n§H§H [From.GetNameDef] §!§! kann zu einem §H§H-Grenzkonflikt eskalieren §!§!  §!§! ."
+ WTT_border_conflict_escalation_warning_defender_desc:0 "§WBeibehaltung der Abteilungen in §H§H [From.From.GetName] §!§! \n§H§H [From.GetNameDef] §!§! kann zu einem §H§H-Grenzkonflikt eskalieren §!§!  §!§! ."
  escalation_possible_tooltip_for_defender:0 "§H§H [From.GetNameDef] §!§! kann zu einem §H§H Grenzkonflikt §!§! eskalieren. .\nWir werden sofort verlieren, wenn wir keine Divisionen im Staat haben\n"
  effects_if_border_conflict_is_lost:0 "§H§H Auswirkungen, wenn der Grenzkonflikt verloren wird §!§! :\n"
  from_cannot_escalate:0 "§H§H [From.GetNameDef] §!§! kann nicht mehr zu einem §H§H Grenzkonflikt eskalieren §!§! .\n\n"

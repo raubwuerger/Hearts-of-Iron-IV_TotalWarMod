@@ -737,7 +737,7 @@
  POL_warsawuprising:0 "Powstanie Warszawskie"
  POL_operationtempest:0 "Operacja Burza"
  POL_lithuania2:0 "Krieg gegen Litauen"
- POL_refuse:0 "§R§R Litauen verweigert§W§W "
+ POL_refuse:0 "§R§R Litauen verweigert§W"
  POL_resistance:0 "Leistet Widerstand!"
  POL_destruction:0 "Zerstöre die deutsche Kriegsmaschinerie!"
  GER_destroypol:0 "Zerstört ihren Untergrundstaat!"
@@ -747,7 +747,7 @@
  POL_agriculture:0 "Landwirtschaftliche und soziale Reformen und Gesetze"
  POL_agriculture_desc:0 "Landwirtschaftliche und soziale Gesetze und Reformen, die Polen in dieser Zeit durchführte"
 
- GER_acceptdanzig:0 "§Y§Y Danzig§W§W wurde an §Y§Y Deutschland§W§W abgetreten "
+ GER_acceptdanzig:0 "§Y§Y Danzig§Wwurde an §Y§Y Deutschland§Wabgetreten "
 
  ###ROM### ""
 
@@ -768,8 +768,8 @@
  FIN_agriculture:0 "Agrarreformen und -gesetze"
  FIN_agriculture_desc:0 "Landwirtschaftliche Gesetze und Reformen, die Finnland in dieser Zeit durchführt"
 
- FIN_military3:0 "§R§R Wir werden kleine Heeresboni erhalten, wenn Deutschland den Herbst Blau§W§W einleitet "
- winterwar:0 "§Y§Y Der Winterkrieg§W§W ist §Y§Y vorbei§W§W "
+ FIN_military3:0 "§R§R Wir werden kleine Heeresboni erhalten, wenn Deutschland den Herbst Blau§Weinleitet "
+ winterwar:0 "§Y§Y Der Winterkrieg§Wist §Y§Y vorbei§W"
 
  ###Speeches### ""
  political_speeches:0 "Reden"

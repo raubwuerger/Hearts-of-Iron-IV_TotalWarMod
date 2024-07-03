@@ -117,7 +117,7 @@
  GRE_faction_hostile: "§R§R Feindlich §!§! "
  GRE_faction_inconsequential: "§g§g Belanglos §!§! "
  GRE_faction_friendly_effects: "\n§Y§Y Effekte: §!§!  §G§G Stabilität: +5% \nRekrutierbare-Bevölkerung-Faktor: +15% §!§! "
- GRE_faction_indifferent_effects: "\n§Y§Y Effekte: §!§!  §W§W Kein Effekt. §!§! "
+ GRE_faction_indifferent_effects: "\n§Y§Y Effekte: §!§!  §WKein Effekt. §!§! "
  GRE_faction_hostile_effects: "\n§Y§Y Effekte: §!§!  §R§R Stabilität: -15% §!§! "
  GRE_faction_loyal_effects: "\n§Y§Y Effekte: §!§!  §G§G Stabilität: +10% \nRekrutierbare-Bevölkerung-Faktor: +20% §!§! "
  GRE_monarchists_name_text: "Monarchisten"

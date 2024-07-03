@@ -258,7 +258,7 @@
  china.6.b: "Rekrutieren Sie örtliche Gesetzlose, für uns zu kämpfen."
  china.6.c: "Setzen Sie auf örtliche Freiwillige, die Gegner des Kommunismus sind."
  china.6.tt: "§Y§Y Wenn die Volksrepublik China entscheidet, sich dem Angriff zu stellen: §!§! \n"
- china.6.tt_2: "§W§W enn die Volksrepublik China entscheidet, sich zurückzuziehen: §!§! \n"
+ china.6.tt_2: "§Wenn die Volksrepublik China entscheidet, sich zurückzuziehen: §!§! \n"
  china.7.t: "Kuomintang startet Offensive"
  china.7.d: "Wir sind zwar durch den Langen Marsch der sicheren Niederlage entgangen, aber die Nationalisten haben nicht vor, uns ohne weitere Konfrontationen stärker werden zu lassen. Unsere Spione berichten, dass sie eine Offensive gegen uns planen. Diese könnte unsere politische Unterstützung schwächen, wenn wir versuchen, uns noch weiter zurückzuziehen.\n\nWir wissen nicht, welche Priorität die Kuomintang im Moment dem Ziel beimessen, uns zurückzudrängen. Eine Konfrontation mit ihnen zu wagen wäre äußerst riskant. Wenn die örtlichen Kriegsherren zusammengerufen wurden, um den Angriff zu unterstützen, haben wir wenig Aussicht auf Erfolg. Andererseits ist ein weiterer Rückzug wohl keine Option, wo wir nun endlich angehalten haben."
  china.7.a: "Stellen wir uns dem Angriff mit allem, was wir haben!"
@@ -3734,7 +3734,7 @@
  soviet.391.b:0 "Wir müssen weiterkämpfen!"
  soviet.392.t:0 "Sowjets kapitulieren"
  soviet.392.d:0 "[SOV.GetNameDefCap] hat sich unter dem Druck unserer starken Kräfte dem Deutschen Reich ergeben, sie wollen den Friedensvertrag unterzeichnen, der den Krieg zwischen unseren beiden Nationen beenden und die deutsche Herrschaft über den Osten Europas errichten würde, sollen wir die Friedensvorschläge annehmen oder [SOV.GetNameDefCap] ein für alle Mal vernichten und alles für uns einnehmen?"
- soviet.392.a:0 "Das Deutsche Reich herrscht über den Osten!\n§Y§Y Finnland§W§W und §Y§Y Rumänien§W§W werden etwas vom Friedensvertrag bekommen"
+ soviet.392.a:0 "Das Deutsche Reich herrscht über den Osten!\n§Y§Y Finnland§Wund §Y§Y Rumänien§Wwerden etwas vom Friedensvertrag bekommen"
  soviet.392.b:0 "Der Krieg geht weiter."
  soviet.393.t:0 "Sowjetunion kämpft weiter"
  soviet.393.d:0 "An der Ostfront debattierte die sowjetische Regierung über eine Kapitulation vor dem Deutschen Reich, um den verheerenden Krieg endgültig zu beenden, doch am Ende wurde die Debatte mehrheitlich gewonnen, um den Kampf für das Vaterland fortzusetzen, die deutschen Streitkräfte drängen derweil immer noch durch die sowjetischen Kräfte, wird die sowjetische Entschlossenheit sie aufhalten?"
@@ -3765,8 +3765,8 @@
  operation.104.d:0 "Operation Weserübung (Unternehmen Weserübung) war der Codename für den deutschen Angriff auf Dänemark und Norwegen während des Zweiten Weltkriegs und die Eröffnungsoperation des Norwegenfeldzugs. Der Name stammt aus dem Deutschen und bedeutet "Operation Weserübung", wobei die Weser ein deutscher Fluss ist. Am frühen Morgen des 9. April 1940 marschierte Deutschland in Dänemark und Norwegen ein, angeblich als Präventivmaßnahme gegen eine geplante und offen diskutierte britisch-französische Besetzung Norwegens, bekannt als Plan R 4."
  operation.104.a:0 "Vorwärts!"
  GER_water:0 "§R§R Einheiten werden in den wichtigsten Häfen Norwegens spawnen, setzen Sie sie klug ein.§"
- GER_blitz1: "§Y§Y Sie erhalten Boni auf Panzerangriffe und Luftnahunterstützung.\n§W§W "
- GER_blitz2: "§Y§Y Sie erhalten Boni für Infanterie und Spezialeinheiten, SS, Sturmtruppen und so weiter...\n§W§W "
+ GER_blitz1: "§Y§Y Sie erhalten Boni auf Panzerangriffe und Luftnahunterstützung.\n§W"
+ GER_blitz2: "§Y§Y Sie erhalten Boni für Infanterie und Spezialeinheiten, SS, Sturmtruppen und so weiter...\n§W"
 
 
  #USA Congress Events# ""
