@@ -747,7 +747,7 @@
  SOV_military_reorganization_ns_removal_tt:0 "Dieser Nationale Geist wird nach Abschluss des Schwerpunkts '§Y$SOV_militärische_Umstrukturierung$ §!§! '"
 
 
- SOV_the_politburo_ns_good_tt:0 "Es ist möglich, den Leiter des NKVD manuell zu ändern §O§O (Coming Soon) §!§! "
+ SOV_the_politburo_ns_good_tt:0 "Es ist möglich, den Leiter des NKVD manuell zu ändern §O(Coming Soon) §!§! "
 
  SOV_industrial_concern_upgrade_tt:0 "\nDie Vervollständigung des Schwerpunkts '§Y$SOV_national_specialists$ §!§! ' wird diesen Designer verbessern."
  SOV_gosproyektstroy_1:0 "Gosproyektstroy"
