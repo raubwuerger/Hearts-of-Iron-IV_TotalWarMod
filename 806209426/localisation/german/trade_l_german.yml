@@ -8,7 +8,7 @@
  TRADE_IMPORT_VALUE:0 "$WERT|Y$ $TOT|Y$"
  TRADE_EXPORT_VALUE:0 "$WERT|Y$ $TOT|Y$"
  TRADEOFFER_FACTORIES_DESC_LABEL:0 "Betrag kaufen: $WERT|Y$\nFür zivile Fabriken: $CIC|Y$"
- TRADE_RESET:0 "§g§g (Schieberegler auf 0 setzen, um den Handel abzubrechen) §!§! "
+ TRADE_RESET:0 "§g(Schieberegler auf 0 setzen, um den Handel abzubrechen) §!§! "
  TRADEOFFER_FREE_CONVOY_DESC_LABEL:1 "Wir haben $VAL|H$ verfügbare Konvois und benötigen $REQ|H$ für diesen Handel."
  TRADEOFFER_CONVOY_PENALTY_DESC_LABEL:0 "§RKonvois von anderen Handelsrouten werden auf diese Handelsroute umverteilt und verringern deren Effizienz §!§! "
  TRADEOFFER_CONVOY:0 "§RWir haben keine Konvois §!§! "
