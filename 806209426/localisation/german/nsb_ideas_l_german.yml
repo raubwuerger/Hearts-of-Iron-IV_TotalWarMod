@@ -759,10 +759,10 @@
  SOV_rubin_design_bureau:0 "Rubin-Konstruktionsbüro"
 
  SOV_factionalism_modifier:0 "Fraktionszwang"
- SOV_factionalism_modifier_tt:0 "§L§L Fraktionalismus innerhalb der Partei war schon immer ein Problem, und da die Opposition immer lauter wird, machen die Meinungsverschiedenheiten die Partei weniger effizient. Richtig gehandhabt können Meinungsverschiedenheiten auf lange Sicht jedoch eher zu einer Stärke als zu einer Schwäche werden. §!§! \n\n"
+ SOV_factionalism_modifier_tt:0 "§LFraktionalismus innerhalb der Partei war schon immer ein Problem, und da die Opposition immer lauter wird, machen die Meinungsverschiedenheiten die Partei weniger effizient. Richtig gehandhabt können Meinungsverschiedenheiten auf lange Sicht jedoch eher zu einer Stärke als zu einer Schwäche werden. §!§! \n\n"
 
  SOV_opposition_popular_support:0 "Unterstützung der Bevölkerung für die Opposition"
- SOV_opposition_popular_support_tt:0 "§L§L Wenn ein großer Teil der Parteimitglieder und der öffentlichen Meinung die Opposition unterstützt, ist es viel schwieriger, einen verlorenen Krieg aufrechtzuerhalten. §!§! \n\n"
+ SOV_opposition_popular_support_tt:0 "§LWenn ein großer Teil der Parteimitglieder und der öffentlichen Meinung die Opposition unterstützt, ist es viel schwieriger, einen verlorenen Krieg aufrechtzuerhalten. §!§! \n\n"
 
  SOV_workers_government_idea:0 "Die Arbeiterregierung"
  SOV_workers_government_idea_desc:0 "Lang lebe die Arbeiterregierung. Die herrschende Elite ist von der Macht entfernt worden. Die Arbeiter regieren wieder das Land."
