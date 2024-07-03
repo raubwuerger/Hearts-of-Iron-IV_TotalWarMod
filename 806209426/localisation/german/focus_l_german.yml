@@ -3042,7 +3042,7 @@ USA_preemptive_deals_desc:0 "Wir müssen Venezuela davon abhalten, Öl an mögli
  hk_air_focus_desc:0 "Wir müssen die Luftabwehrstellungen in Hongkong stark ausbauen und verbessern."
  uk_free_india_focus:0 "Indische Unabhängigkeit"
  uk_free_india_focus_desc:0 "Seit dem Ende des Ersten Weltkriegs ist der Grad der Autonomie des Raj sowohl in Großbritannien als auch in Indien selbst ein umstrittenes Thema. Jetzt, da wir uns wieder in einem weltweiten Konflikt befinden und Japan aktiv eine Rebellion in Indien schürt, könnte die Situation gefährlich werden, wenn nichts dagegen unternommen wird. Wir können entweder Japan schnell besiegen oder den Indern in ein paar Jahren größere Unabhängigkeit versprechen."
- uk_free_india_tt:0 "§4§4 Wir werden den Indern die Unabhängigkeit in 2 Jahren versprechen. Wenn wir diese Zusage einhalten, wird das Raj entweder ein Dominion, wenn es noch eine Kolonie ist, oder es wird völlig unabhängig. §!§! "
+ uk_free_india_tt:0 "§4Wir werden den Indern die Unabhängigkeit in 2 Jahren versprechen. Wenn wir diese Zusage einhalten, wird das Raj entweder ein Dominion, wenn es noch eine Kolonie ist, oder es wird völlig unabhängig. §!§! "
 
  ## ENG air focuses ## ""
  ENG_air_bases:0 "Bemühungen um Luftstützpunkte"
@@ -4417,7 +4417,7 @@ civilian_kitchens_idea:0 "Zivile Feldküchen"
  JAP_chinese_interrior:0 "Befriedung des chinesischen Hinterlandes"
  JAP_chinese_interrior_desc:0 "Nachdem wir die Kontrolle über die Küstenregionen unter der "Reorganisierten Nationalen Regierung der Republik China" gefestigt haben, sollten wir nun den langwierigen Prozess der vollständigen Unterwerfung des riesigen chinesischen Festlandes in Angriff nehmen!"
  JAP_chinese_interrior_tt:0 "Dieser Fokus ermöglicht und veranlasst [MEN.GetNameDef], seinen eigenen Fokus "Rückeroberung des Festlandes" zu nehmen, der den im Tooltip angezeigten Bonus bietet. Dieser Fokus schaltet außerdem eine Reihe von Entscheidungen für [MEN.GetNameDef] frei, um Kerne auf dem chinesischen Festland zu erhalten."
- JAP_chinese_pacifications_tt:0 "§4§4 Wird dieser Fokus vor dem Sieg im Chinesisch-Japanischen Krieg abgeschlossen, werden die Marionettenregime, die wir nach unserem Sieg installieren, stabiler sein.\n Wird der Fokus nach der Schaffung dieser chinesischen Marionetten abgeschlossen, wird derselbe Bonus auf Stabilität, Kriegsunterstützung und faschistische Popularität angewendet. Der Nachgiebigkeitsbonus für Gebiete, die von Ihnen oder Ihren Untertanen direkt kontrolliert werden, bleibt in beiden Szenarien erhalten. §!§! "
+ JAP_chinese_pacifications_tt:0 "§4Wird dieser Fokus vor dem Sieg im Chinesisch-Japanischen Krieg abgeschlossen, werden die Marionettenregime, die wir nach unserem Sieg installieren, stabiler sein.\n Wird der Fokus nach der Schaffung dieser chinesischen Marionetten abgeschlossen, wird derselbe Bonus auf Stabilität, Kriegsunterstützung und faschistische Popularität angewendet. Der Nachgiebigkeitsbonus für Gebiete, die von Ihnen oder Ihren Untertanen direkt kontrolliert werden, bleibt in beiden Szenarien erhalten. §!§! "
 
  JAP_North_Infra:0 "Infrastrukturverbesserungen in Korea"
  JAP_North_Infra_desc:0 "Wenn wir eine große Armee unterstützen wollen, die in der Lage ist, die Sowjetunion zu besiegen, dann müssen wir unsere Infrastruktur in Korea und der Mandschurei verbessern. Dies wird ein Anfang sein."
@@ -7839,7 +7839,7 @@ MAN_get_north_china_tt:0 "Ein beliebiger Staat in den Regionen §YShanxi §!§! 
 MAN_get_north_china_bypass_tt:0 "Alle Staaten in den Regionen §YShanxi §!§! und §YWestchina §!§! stehen unter unserer Kontrolle.\n"
 MAN_get_north_china_can_do_again_tt:0 "Die Anforderung von Territorium kann erneut durch Entscheidung erfolgen.\n"
 is_controlled_by_china_occupier_not_MEN_tt:0 "Wird vollständig von [JAP.GetNameDef] oder einer seiner Marionetten kontrolliert.\n"
-MAN_low_legitimacy_level_tt:0 "§4§4 Japans Entscheidung wird sich auf unsere Legitimität auswirken §!§! "
+MAN_low_legitimacy_level_tt:0 "§4Japans Entscheidung wird sich auf unsere Legitimität auswirken §!§! "
 
 MAN_empire_granted:0 "Imperialer Anspruch, der von [JAP.GetNameDef] gewährt wird.\n"
 AST_license_production:0 "Australische Lizenz"
