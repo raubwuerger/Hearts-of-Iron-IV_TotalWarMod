@@ -68,7 +68,7 @@
  COUNTRYVIEW_GIE_INFO_BONUSES_ON_CORE_HOST:0 "     - Angriff: $ATTACK|%0+$\n - Verteidigung: $DEFENSE|%+0$"
  COUNTRYVIEW_GIE_INFO_BONUSES:0 "     - Attack: $ATTACK|%0+$\n     - Defense: $DEFENSE|%+0$"
  COUNTRYVIEW_GIE_INFO_DELAYED:1 "§H§H Legitimacy §!§!  is improved by fighting in your hosts wars." "§H§H Legitimität §!§! wird durch Kämpfe in unseren Kriegen verbessert."
- COUNTRYVIEW_GIE_INFO_DELAYED_HOST:0 "§G§G Klicke auf §!§! die Schaltfläche, um die aktuellen Auswirkungen zu sehen."
+ COUNTRYVIEW_GIE_INFO_DELAYED_HOST:0 "§GKlicke auf §!§! die Schaltfläche, um die aktuellen Auswirkungen zu sehen."
  COUNTRYVIEW_GIE_INFO_BUTTON:0 "  $NAMEWITHFLAG|H$"
  COUNTRYVIEW_GIE_OCCUPIERLIST_ENTRY:0 "Wir haben einen $EXILEADJ|H$ §H§H Verbannten Heerführer erhalten §!§! ."
  GIE_EXILE_ARMY_LEADER_UNLOCKED_WE_RECEIVE:0 "$EXILENAMEDEF|UH$ hat einen $EXILEADJ|HU$ §H§H Verbannter Heerführer §!§! ."

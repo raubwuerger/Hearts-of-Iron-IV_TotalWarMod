@@ -152,7 +152,7 @@
  CUSTOM_GAME_SETTINGS_SAVE:1 "Save Preset" ""
  CUSTOM_GAME_SETTINGS_SAVE_TOOLTIP:0 "Speichern Sie diese benutzerdefinierten Spielregeln, um sie bei neuen Spielen zu verwenden."
  CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP:0 "§H§H Angepasste Optionen §!§! \nEinige Regeln in dieser Gruppe sind mit nicht standardmäßigen Optionen angepasst."
- CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP_DELAYED:0 "§G§G Klicken Sie auf §!§!, um die gesamte Gruppe auf die Standardeinstellungen zurückzusetzen."
+ CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP_DELAYED:0 "§GKlicken Sie auf §!§!, um die gesamte Gruppe auf die Standardeinstellungen zurückzusetzen."
  CUSTOM_GAME_SETTINGS_GROUP_DEFAULT_TOOLTIP:0 "§H§H Standardoptionen §!§! \nJede Regel in dieser Gruppe ist so eingestellt, dass ihre Standardoption verwendet wird."
  CUSTOM_GAME_SETTINGS_REVERT:1 "Reset" ""
  CUSTOM_GAME_SETTINGS_REVERT_TOOLTIP:0 "Setzen Sie alle angepassten Regeln auf ihre Standardoptionen zurück."

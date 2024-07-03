@@ -14,8 +14,8 @@
 
  RESISTANCE_DECAY_MODIFIER_HAS_CLAIM:0 "Controller hat Anspruch: $VALUE|+%0$"
  RESISTANCE_DECAY_MODIFIER_LOW_RESISTANCE:0 "Niedriger Widerstand: $VALUE|+%0$"
- RESISTANCE_DECAY_VALUE:0 "Widerstandsabfall: §G§G $WERT|3$% §!§! "
- RESISTANCE_DECAY_VALUE_CAPPED:0 "Widerstand Verfall: §G§G $WERT|3$% §!§!  (Gekappt von §G§G $VALUE_NON_CAPPED|3$% §!§! )"
+ RESISTANCE_DECAY_VALUE:0 "Widerstandsabfall: §G$WERT|3$% §!§! "
+ RESISTANCE_DECAY_VALUE_CAPPED:0 "Widerstand Verfall: §G$WERT|3$% §!§!  (Gekappt von §G$VALUE_NON_CAPPED|3$% §!§! )"
 
  RESISTANCE_GROWTH_VALUE:0 "Wachstum des Widerstands: §R§R $WERT|3$% §!§! "
  RESISTANCE_GROWTH_VALUE_CAPPED:0 "Widerstandswachstum: §R§R $WERT|3$% §!§!  (Gekappt von §R§R $VALUE_NON_CAPPED|3$% §!§! )"
@@ -26,8 +26,8 @@
 
  COMPLIANCE_STRENGTH:0 "Einhaltung Stärke: $TOT|%2+$"
 
- COMPLIANCE_GROWTH_VALUE:0 "Compliance Wachstum: §G§G $WERT|3$% §!§! "
- COMPLIANCE_GROWTH_VALUE_CAPPED:0 "Konformitäts-Wachstum: §G§G $WERT|3$% §!§!  (Gekappt von §G§G $WERT_NON_CAPPED|3$% §!§! )"
+ COMPLIANCE_GROWTH_VALUE:0 "Compliance Wachstum: §G$WERT|3$% §!§! "
+ COMPLIANCE_GROWTH_VALUE_CAPPED:0 "Konformitäts-Wachstum: §G$WERT|3$% §!§!  (Gekappt von §G$WERT_NON_CAPPED|3$% §!§! )"
 
  COMPLIANCE_DECAY_VALUE:0 "Einhaltung Wachstum: §R§R $WERT|3$% §!§! "
  COMPLIANCE_DECAY_VALUE_CAPPED:0 "Einhaltung Wachstum: §R§R $WERT|3$% §!§!  (Gekappt von §R§R $WERT_NON_CAPPED|3$% §!§! )"
@@ -55,7 +55,7 @@
  OCCUPATION_POLICY_STATE_MODIFIER:0 "Zustandsmodifikator:"
  OCCUPATION_POLICY_SUPRESSED_STATE_MODIFIER:0 "Zustandsmodifikator Wenn Widerstand unterdrückt wird:"
  OCCUPATION_POLICY_COMPARED_TO_LAW:0 " (Im Vergleich zu $NAME|H$)"
- OCCUPATION_POLICY_HOLD_CONTROL_TO_SHOW_DELTAS:0 "Halten Sie §G§G Control §!§! gedrückt, um den Vergleich zum aktuellen Gesetz anzuzeigen"
+ OCCUPATION_POLICY_HOLD_CONTROL_TO_SHOW_DELTAS:0 "Halten Sie §GControl §!§! gedrückt, um den Vergleich zum aktuellen Gesetz anzuzeigen"
 
  COUNTRY_OCCUPATION_TITLE:0 "Besetzte Territorien"
  OCCUPATION_MODIFIER_ACTIVE:0 "Der Modifikator ist derzeit aktiv. Er wird deaktiviert, wenn $TYPE|H$ unter $TO_DISABLE|%0H$ fällt"
@@ -135,7 +135,7 @@
  OCCUPATION_CHANGE_DEFAULT_LAW_TOOLTIP:0 "Standard-Garrison-Gesetz ändern"
  OCCUPATION_RESISTANCE_TAB_TOOLTIP:0 "Zeige §H§H-Widerstand §!§! auf der Karte."
  OCCUPATION_COMPLIANCE_TAB_TOOLTIP:0 "Zeige §H§H Compliance §!§! auf der Karte."
- OCCUPATION_ZOOM_TO_STATE_TOOLTIP:0 "§G§G Klicken Sie auf §!§!, um in den/die besetzten Staat(en) zu zoomen"
+ OCCUPATION_ZOOM_TO_STATE_TOOLTIP:0 "§GKlicken Sie auf §!§!, um in den/die besetzten Staat(en) zu zoomen"
 
  resistance_25:0 "Organisierter Widerstand"
  resistance_50:0 "Ermutigter Widerstand"

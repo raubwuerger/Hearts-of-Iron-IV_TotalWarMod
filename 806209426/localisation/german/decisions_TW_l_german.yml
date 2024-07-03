@@ -1,12 +1,12 @@
 ﻿l_german:
 
  SOV_PCDI:0 "Volkskommissariat für die Verteidigungsindustrie"
- SOV_PCDI_desc:0 "\Mit der Westerweiterung der Union fordert das §R§R Volkskommissariat für Verteidigung §!§! die §G§G Konsolidierung und Reorganisation §!§! unserer in den westlichen Regionen stationierten Streitkräfte. Dies würde die Einrichtung eines neuen Militärbezirks in den wiedergewonnenen Gebieten und die Erweiterung der bestehenden Zone nach Westen einschließen.\n\n Weitere Maßnahmen werden den Bau einer neuen §g§g-Verteidigungslinie §!§! entlang der Grenze und die Verlegung der Truppen, die derzeit die Stalinlinie besetzen, nach Westen umfassen. Übungen, überarbeitete militärische Pläne und die Aufstellung zusätzlicher Divisionen sorgen für die Verstärkung unserer Bereitschaft und Stärke."
+ SOV_PCDI_desc:0 "\Mit der Westerweiterung der Union fordert das §R§R Volkskommissariat für Verteidigung §!§! die §GKonsolidierung und Reorganisation §!§! unserer in den westlichen Regionen stationierten Streitkräfte. Dies würde die Einrichtung eines neuen Militärbezirks in den wiedergewonnenen Gebieten und die Erweiterung der bestehenden Zone nach Westen einschließen.\n\n Weitere Maßnahmen werden den Bau einer neuen §g§g-Verteidigungslinie §!§! entlang der Grenze und die Verlegung der Truppen, die derzeit die Stalinlinie besetzen, nach Westen umfassen. Übungen, überarbeitete militärische Pläne und die Aufstellung zusätzlicher Divisionen sorgen für die Verstärkung unserer Bereitschaft und Stärke."
  molotov_line:0 "Bau der Molotow-Linie"
  dniper_forts:0 "Befestigung des südlichen Dnjepr"
  maginot_construction2:0 "Bau von §Y§Y-Befestigungen §!§! "
  emergency_rearmament:0 "Notaufrüstung an der Westgrenze"
- SOV_less_minuses:0 "Sie werden einen §G§G niedrigeren §!§ erhalten!  §Y§Y Lektionen des Krieges §!§! Schwächung und du wirst §G§G nicht §!§! die §Y§Y Überraschungsangriff §!§! Schwächung erhalten"
+ SOV_less_minuses:0 "Sie werden einen §Gniedrigeren §!§ erhalten!  §Y§Y Lektionen des Krieges §!§! Schwächung und du wirst §Gnicht §!§! die §Y§Y Überraschungsangriff §!§! Schwächung erhalten"
  free_workforce_pcdi:0 "Arbeitslose in der Kriegsindustrie"
  plan_ready:0 "Der Plan für §Y§Y Invasion von Deutschland §!§! ist fertig"
  may_1941_plan:0 "Der Plan vom Mai 1941"
@@ -14,7 +14,7 @@
 
  tolkach_mission:0 "Ziele des Fünfjahresplans"
  SOV_tolkach2:0 "Tolkach"
- SOV_tolkach2_desc:0 "\n\n\n\n\n\n\nDie industrielle Macht, die unsere große Union aufbringen kann, kennt sicherlich keine Grenzen. Und angesichts der zunehmenden Spannungen in Europa und im Fernen Osten ist es zwingend erforderlich, dass wir einen §Y§Y Zweiten Fünfjahresplan einsetzen. §!§!  Immerhin haben wir den immensen Erfolg unseres letzten Fünfjahresplans gesehen, wenn auch mit einigen Schwierigkeiten hinsichtlich unserer Methoden. Diese vermeintlichen Fehler werden sich jedoch nicht wiederholen, und die Erfolge des vorangegangenen Plans werden nur noch größer werden.\n\n Unser Hauptziel für diesen Fünfjahresplan ist es, die §Y§Y Massenmechanisierung §!§! fortzusetzen, die wir in den letzten Jahren erlebt haben. Wir werden auch dafür sorgen, dass unsere lieben Arbeiter, die das §Y§Y-Kollektivland §!§! mit solcher Härte bearbeiten, und ihre Familien, die für die Kinder sorgen, um die revolutionäre Sache fortzuführen, gestärkt werden.\n\n Wir werden dafür sorgen, dass unsere glorreiche Union §G§G industrielle, landwirtschaftliche und kulturelle Erfolge §!§! erreicht, die mit denen der gefürchteten Deutschen konkurrieren und sie sogar übertreffen."
+ SOV_tolkach2_desc:0 "\n\n\n\n\n\n\nDie industrielle Macht, die unsere große Union aufbringen kann, kennt sicherlich keine Grenzen. Und angesichts der zunehmenden Spannungen in Europa und im Fernen Osten ist es zwingend erforderlich, dass wir einen §Y§Y Zweiten Fünfjahresplan einsetzen. §!§!  Immerhin haben wir den immensen Erfolg unseres letzten Fünfjahresplans gesehen, wenn auch mit einigen Schwierigkeiten hinsichtlich unserer Methoden. Diese vermeintlichen Fehler werden sich jedoch nicht wiederholen, und die Erfolge des vorangegangenen Plans werden nur noch größer werden.\n\n Unser Hauptziel für diesen Fünfjahresplan ist es, die §Y§Y Massenmechanisierung §!§! fortzusetzen, die wir in den letzten Jahren erlebt haben. Wir werden auch dafür sorgen, dass unsere lieben Arbeiter, die das §Y§Y-Kollektivland §!§! mit solcher Härte bearbeiten, und ihre Familien, die für die Kinder sorgen, um die revolutionäre Sache fortzuführen, gestärkt werden.\n\n Wir werden dafür sorgen, dass unsere glorreiche Union §Gindustrielle, landwirtschaftliche und kulturelle Erfolge §!§! erreicht, die mit denen der gefürchteten Deutschen konkurrieren und sie sogar übertreffen."
  acquisition_us_ford:0 "Mit US Ford zusammenarbeiten"
  acquisition_uk_ship:0 "Zusammenarbeit mit der Royal Navy"
  automotive_arsenal_focus2:0 "Zusammenarbeit mit Ford"
@@ -22,7 +22,7 @@
  tula_steel:0 "Bau der Tulaer Stahlraffinerie"
  lipetsk_steel:0 "Bau der Stahlraffinerie Lipetsk"
  SOV_winterwar_draft:0 "Neubewertung der STAVKA"
- SOV_tolkachupgrade:0 "§Y§Y Tolkach Fokus §!§!  Wird §G§G Upgrade §!§!  Diesen Fokus"
+ SOV_tolkachupgrade:0 "§Y§Y Tolkach Fokus §!§!  Wird §GUpgrade §!§!  Diesen Fokus"
  SOV_winterwar_prolong:0 "Ersetze den Oberbefehlshaber des Leningrader Bezirks"
 
  ENG_asia_troops2:0 "Sie erhalten 4 starke Einheiten in §Y§Y Malaya §!§! , §Y§Y Burma §!§! und §Y§Y Hong Kong §!§! !"
@@ -51,7 +51,7 @@
 
 
  FRA_forts:0 "Beendigung der Maginot-Linie"
- FRA_forts_desc:0 "§Y§Y Die Maginot-Linie §!§! Die Maginot-Linie §!§!, benannt nach dem großen französischen Kriegsminister André Maginot, ist eine Linie von Betonbefestigungen sowie Hindernissen und Waffenanlagen, die wir noch fertigstellen müssen, um §R§R §!§! die §Y§Y Deutschen §!§! daran zu hindern, im Falle einer Invasion in den §G§G französischen Boden einzudringen, werden diese Befestigungen dazu dienen, einen großen Teil unserer Arbeitskräfte einzusparen, während unsere stärkeren Verbündeten ihre industriellen Kräfte wecken, so dass wir in die Offensive gehen können!\n\n"
+ FRA_forts_desc:0 "§Y§Y Die Maginot-Linie §!§! Die Maginot-Linie §!§!, benannt nach dem großen französischen Kriegsminister André Maginot, ist eine Linie von Betonbefestigungen sowie Hindernissen und Waffenanlagen, die wir noch fertigstellen müssen, um §R§R §!§! die §Y§Y Deutschen §!§! daran zu hindern, im Falle einer Invasion in den §Gfranzösischen Boden einzudringen, werden diese Befestigungen dazu dienen, einen großen Teil unserer Arbeitskräfte einzusparen, während unsere stärkeren Verbündeten ihre industriellen Kräfte wecken, so dass wir in die Offensive gehen können!\n\n"
  abandon_maginot_idea:0 "Verwerfen Sie die Maginot-Idee"
  buildup_anti_air:0 "Baue §Y§Y Anti-Luft-Türme §!§! "
  buildup_turrets:0 "Bauen Sie §Y§Y Einziehbare Geschütztürme §!§! "
@@ -91,7 +91,7 @@
  ITA_send_navs:0 "Schicken Sie Marinebomber nach Äthiopien"
 
  FIN_fascism_election:0 "§R§R Lapua-Bewegung §!§! gewinnt die §Y§Y Volksabstimmung §!§! "
- FIN_democratic_win:0 "§G§G Agrarische Liga §!§! gewann die §Y§Y-Wahl §!§! "
+ FIN_democratic_win:0 "§GAgrarische Liga §!§! gewann die §Y§Y-Wahl §!§! "
 
  CZE_sudetenland:0 "Entwicklung der Grenzbefestigungen"
  CZE_sudetenland_desc:0 "Die Tschechoslowakei baute von 1935 bis 1938 ein System von Grenzanlagen sowie einige befestigte Verteidigungslinien im Landesinneren als defensive Gegenmaßnahme gegen die wachsende Bedrohung durch Nazi-Deutschland. Ziel der Befestigungen war es, die Einnahme von Schlüsselgebieten durch den Feind - nicht nur Deutschland, sondern auch Ungarn und Polen - durch einen plötzlichen Angriff zu verhindern, bevor die Mobilisierung der tschechoslowakischen Armee abgeschlossen werden konnte."
@@ -103,14 +103,14 @@
  CZE_fort_hungary:0 "Aufbau der ungarischen Linie"
 
  SOV_winteroffensive1_tt:0 "Sie erhalten viele §Y§Y Miliz §!§! und §Y§Y Infanterie §!§! Einheiten, sowie 2 §Y§Y starke Panzer §!§!  Divisionen."
- SOV_winteroffensive2_tt:0 "Sie erhalten:\n - §G§G 11000 §!§!  Infanterie-Ausrüstung\n - §G§G 2500 §!§!  HQ-Ausrüstung\n - §G§G 10000 §!§!  Uniformen der Infanterie\n - §G§G 5000 §!§!  Unterstützungsausrüstung\n - §G§G 3000 §!§!  Motorisierte Lastwagen\n - §G§G 2500 §!§!  Transportfahrzeuge\n - §G§G 1250 §!§!  Gepanzerte Wagen\n - §G§G 1000 §!§!  Leichte Panzer\n - §G§G 300 §!§!  Mittlere Panzer\n - §G§G 3500 §!§!  Panzerabwehrgeräte\n - §G§G 3000 §!§!  Leichte Artillerie\n - §G§G 900 §!§!  Mittlere Artillerie\n - §G§G 800 §!§!  Pferdeausrüstung\n"
+ SOV_winteroffensive2_tt:0 "Sie erhalten:\n - §G11000 §!§!  Infanterie-Ausrüstung\n - §G2500 §!§!  HQ-Ausrüstung\n - §G10000 §!§!  Uniformen der Infanterie\n - §G5000 §!§!  Unterstützungsausrüstung\n - §G3000 §!§!  Motorisierte Lastwagen\n - §G2500 §!§!  Transportfahrzeuge\n - §G1250 §!§!  Gepanzerte Wagen\n - §G1000 §!§!  Leichte Panzer\n - §G300 §!§!  Mittlere Panzer\n - §G3500 §!§!  Panzerabwehrgeräte\n - §G3000 §!§!  Leichte Artillerie\n - §G900 §!§!  Mittlere Artillerie\n - §G800 §!§!  Pferdeausrüstung\n"
  SOV_receive:0 "Sie erhalten viele §Y§Y Miliz §!§! Einheiten bei §Y§Y Stalingrad §!§! "
  USA_day_of_infamy_speech:0 "Rede zum Tag der Infamie"
  USA_cat_foreign_support:0 "Außenministerium"
  USA_cat_foreign_support_desc:0 "Das Außenministerium der Vereinigten Staaten von Amerika (United States Department of State, kurz State Department) ist eine Bundesbehörde, die für die Außenpolitik und die internationalen Beziehungen der Vereinigten Staaten von Amerika zuständig ist."
  USA_operation_torch:0 "Operation Fackel"
  unlock_event1:0 "Schaltet das Ereignis frei: §Y§Y Defend Stalingrad! §!§! \n"
- SOV_defendstalin:0 " Voraussetzungen:\n - Deutschland kontrolliert §Y§Y Millerovo §!§! oder §Y§Y Voronezh §!§! \n - Über §Y§Y 20% §!§!  Kapitulationsfortschritt\n - Haben die §Y§Y 1940 §!§! , §Y§Y 1942 §!§! oder §Y§Y 1944 §!§!  §G§G Panzerkorpsentscheidungen §!§! \n"
+ SOV_defendstalin:0 " Voraussetzungen:\n - Deutschland kontrolliert §Y§Y Millerovo §!§! oder §Y§Y Voronezh §!§! \n - Über §Y§Y 20% §!§!  Kapitulationsfortschritt\n - Haben die §Y§Y 1940 §!§! , §Y§Y 1942 §!§! oder §Y§Y 1944 §!§!  §GPanzerkorpsentscheidungen §!§! \n"
  ###ENG### ""
  integrate_outlying_islands:0 "Direkte Kontrolle über abgelegene Inselmilizen und Basen übernehmen"
  integrate_outlying_islands_desc:0 "Wir kontrollieren verschiedene Inseln auf dem gesamten Globus. Auf vielen dieser Inseln gibt es lokale Milizen und Kampftruppen. Angesichts eines drohenden groß angelegten Konflikts in der Zukunft könnte es klug sein, die Kontrolle über diese Milizen zu übernehmen und sie in unsere Kommandostruktur zu integrieren, damit wir im Falle eines Versagens unserer großen königlichen Marine eine angemessene Verteidigung gegen den Feind organisieren können, anstatt das, was die lokale Regierung zusammenklaubt. Wenn Sie natürlich darauf vertrauen, dass die Königliche Marine unsere Besitztümer schützt, wenn Sie gutes Vertrauen in die Gebietsregierungen haben oder wenn Sie einfach keine Lust auf solche Langweiligkeiten haben, ist es vielleicht klug, die Dinge so zu belassen, wie sie sind."
@@ -177,9 +177,9 @@
  ENG_mil_develop_ast_decision:0 "Australische Teilnahme an Militärübungen"
  ENG_mil_develop_canada_decision:0 "Kriegsschiff-Notfallprogramm"
 
- ENG_mil_develop_can_decision_tt:0 "[CAN.GetNameDef] wird §Y§Y 2 Leichte Kreuzer 1934 §!§! zu den Werftlinien bei §G§G 80% Fertigstellung §!§! hinzugefügt .\n"
+ ENG_mil_develop_can_decision_tt:0 "[CAN.GetNameDef] wird §Y§Y 2 Leichte Kreuzer 1934 §!§! zu den Werftlinien bei §G80% Fertigstellung §!§! hinzugefügt .\n"
  ENG_mil_develop_egypt_decision_tt:0 "[EGY.GetNameDef] erhält eine Divisionsvorlage mit besserer Logistik.\n"
- ENG_mil_develop_saf_decision_tt:0 "[SAF.GetNameDef] erhält zwei Expertendivisionen mit §Y§Y 9 Leichte Infanterie §!§! , §B§B Commando §!§! , §Y§Y 1 Panzerabwehr §!§! und §Y§Y 1 Artillerie §!§! Bataillonen.\n"
+ ENG_mil_develop_saf_decision_tt:0 "[SAF.GetNameDef] erhält zwei Expertendivisionen mit §Y§Y 9 Leichte Infanterie §!§! , §BCommando §!§! , §Y§Y 1 Panzerabwehr §!§! und §Y§Y 1 Artillerie §!§! Bataillonen.\n"
 
  uk_india_focus:0 "Entwickelte Industrie"
  hold_chamberlain_speech:0 "Halten Sie die Rede zur Kriegserklärung an Deutschland."
@@ -286,7 +286,7 @@
  luftwaffe_field:0 "Felddivisionen der Luftwaffe bilden"
  ROM_test_the_hungarians:0 "Testen Sie die Ungarn"
  ROM_test_the_hungarians2:0 "Beginnt einen §Y§Y-Grenzkonflikt §!§! "
- ROM_won_bd:0 "§G§G Gewonnen §!§! den §Y§Y-Grenzkonflikt §!§! "
+ ROM_won_bd:0 "§GGewonnen §!§! den §Y§Y-Grenzkonflikt §!§! "
  ROM_lost_bd:0 "§R§R Lost §!§! the §Y§Y Border Conflict §!§! "
 
 
@@ -381,18 +381,18 @@
  USA_south_america_desc:0 "Koloniale Imperien dürfen nie wieder nach Südamerika vordringen können, wir werden die Unabhängigkeit unserer südlichen Brüder garantieren, um sie zu schützen."
  USA_reinforce_monroe_doctrine_tt:0 "Erhöht die Handelsmeinung mit allen amerikanischen Nationen."
  USA_reinforce_monroe_doctrine_ger2:0 "Setzt das Karibik-Embargo gegen Deutschland durch."
- USA_reinforce_monroe_doctrine_jap2:0 "Erzwingt ein Karibik-Embargo gegen Japan. §G§G Führt alle 3 Enforcements durch, um [JAP.GetNameDef] einen schlechteren §!§ zu geben!  §Y§Y Ressourcenkrieg §!§!  §G§G penalty! §!§! "
+ USA_reinforce_monroe_doctrine_jap2:0 "Erzwingt ein Karibik-Embargo gegen Japan. §GFührt alle 3 Enforcements durch, um [JAP.GetNameDef] einen schlechteren §!§ zu geben!  §Y§Y Ressourcenkrieg §!§!  §Gpenalty! §!§! "
  USA_reinforce_monroe_doctrine_ger3:0 "Erzwingt ein mittelamerikanisches Embargo gegen Deutschland."
- USA_reinforce_monroe_doctrine_jap3:0 "Erzwingt ein mittelamerikanisches Embargo gegen Japan. §G§G Mache alle 3 Enforcements, um [JAP.GetNameDef] einen schlechteren §!§ zu geben!  §Y§Y Resource War §!§!  §G§G penalty! §!§! "
+ USA_reinforce_monroe_doctrine_jap3:0 "Erzwingt ein mittelamerikanisches Embargo gegen Japan. §GMache alle 3 Enforcements, um [JAP.GetNameDef] einen schlechteren §!§ zu geben!  §Y§Y Resource War §!§!  §Gpenalty! §!§! "
  USA_reinforce_monroe_doctrine_ger4:0 "Erzwingt ein Südamerika-Embargo gegen Deutschland."
- USA_reinforce_monroe_doctrine_jap4:0 "Erzwingt ein südamerikanisches Embargo gegen Japan. §G§G Mache alle 3 Enforcements, um [JAP.GetNameDef] einen schlechteren §!§ zu geben!  §Y§Y Resource War §!§!  §G§G penalty! §!§! "
+ USA_reinforce_monroe_doctrine_jap4:0 "Erzwingt ein südamerikanisches Embargo gegen Japan. §GMache alle 3 Enforcements, um [JAP.GetNameDef] einen schlechteren §!§ zu geben!  §Y§Y Resource War §!§!  §Gpenalty! §!§! "
  USA_day_of_infamy:0 "Ein Datum, das in Infamie leben wird"
  USA_support_the_finnish:0 "Schickt Hilfe nach Finnland"
  USA_support_the_finnish_desc:0 "Amerikaner finnischer Abstammung gingen nach Finnland, um den Kampf um die finnische Unabhängigkeit zu unterstützen."
  USA_support_sov:0 "Rettung der sowjetischen Wirtschaft"
  USA_support_sov_desc:0 "Entschlossen, die Vereinigten Staaten aus dem Krieg herauszuhalten und gleichzeitig den Verbündeten zu helfen, die bereits in den Krieg verwickelt waren, beschloss der Kongress am 30. Oktober 1941, der Sowjetunion einen kostenlosen Kredit in Höhe von 1 Milliarde Dollar zu gewähren."
- enforce_embargo_on_japan_tt:0 "§G§G Give [JAP.GetNameDef] a worse §!§!  §Y§Y Resource War §!§!  §G§G penalty! §!§! "
- enforce_embargo_on_japan_if_eng_and_usa_tt:0 "§G§G Gib [JAP.GetNameDef] einen schlechteren §!§!  §Y§Y Ressourcenkrieg §!§!  §G§G Strafe, wenn sowohl Großbritannien als auch die USA ein Embargo verhängt haben! §!§! "
+ enforce_embargo_on_japan_tt:0 "§GGive [JAP.GetNameDef] a worse §!§!  §Y§Y Resource War §!§!  §Gpenalty! §!§! "
+ enforce_embargo_on_japan_if_eng_and_usa_tt:0 "§GGib [JAP.GetNameDef] einen schlechteren §!§!  §Y§Y Ressourcenkrieg §!§!  §GStrafe, wenn sowohl Großbritannien als auch die USA ein Embargo verhängt haben! §!§! "
  USA_Depression_Recovery:0 "Erholung von der Depression"
  USA_CCC_mission_1:0 "Civilian Conservation Corps"
  USA_CCC_mission_1_desc:0 "Civilian Conservation Corps (Zivile Schutztruppe)"
@@ -547,7 +547,7 @@
  JAP_border_conflict_escalate_to_war_SHX_desc:0 ""
  JAP_border_conflict_back_out_of_conflict_SHX:0 "Rückzug aus dem Shanxi-Grenzkonflikt"
  JAP_border_conflict_back_out_of_conflict_SHX_desc:0 ""
- boosted_plunder_tt:0 "§G§G Erhalte eine zusätzliche Fabrik bei der Plünderung dieses Staates. §!§! \n"
+ boosted_plunder_tt:0 "§GErhalte eine zusätzliche Fabrik bei der Plünderung dieses Staates. §!§! \n"
  JAP_capture_beijing:0 "Nehmt Peking ein!"
  JAP_capture_nanjing:0 "Nehmt Nanjing ein!"
  JAP_capture_guangzhou:0 "Nehmt Guangzhou ein!"
@@ -569,7 +569,7 @@
  CHI_stalemate_tt:0 "Diese Pattsituation wird es beiden Seiten erschweren, schnelle Vorstöße in China zu erzielen."
  CHI_stalemate_delayed_tt:0 "Wenn wir diese Stadt verlieren, wird sich die Pattsituation um 15 Tage verzögern."
 
- less_rebels_tt:0 "Wird §G§G §!§! die Wahrscheinlichkeit von Rebellenaufständen verringern."
+ less_rebels_tt:0 "Wird §G§!§! die Wahrscheinlichkeit von Rebellenaufständen verringern."
  more_rebels_tt:0 "Erhöht §R§R §!§! die Wahrscheinlichkeit von Rebellenaufständen.\n"
  ###JAP### ""
 
@@ -691,7 +691,7 @@
  GER_waronyugo:0 "Führerbefehl Nr.25"
  GER_waronyugo_desc:0 "Wir müssen den Süden sichern, bevor wir nach Osten ziehen, wir dürfen unsere Ölvorkommen in Rumänien nicht verlieren!"
  anschluss_mefo_bills_tt:0 "Verwendet österreichisches Gold, um die Kosten für §Y§Y MEFO-Rechnungen zu senken §!§! .\n"
- anschluss_mefo_bills_double_reduction:0 "Ändert §Y§Y MEFO-Scheine §!§! um §G§G +0,10 §!§!  Täglicher politischer Machtzuwachs\n"
+ anschluss_mefo_bills_double_reduction:0 "Ändert §Y§Y MEFO-Scheine §!§! um §G+0,10 §!§!  Täglicher politischer Machtzuwachs\n"
  yugoslavia_mefo_bills_tt:0 "Verwendet jugoslawisches Gold, um die Kosten für §Y§Y MEFO Bills §!§! .\n"
  GER_reichskommissariat_croatie:0 "Errichtet das Reichskommissariat Kroatien"
  GER_speeches_category:0 "Öffentliches Reden"
@@ -806,7 +806,7 @@
  ###Scraping for men### ""
  desperate_for_men:0 "Verzweifelte Zeiten"
  desperate_for_men_desc:0 "Stöcke und Steine können ihnen die Knochen brechen."
- we_need_more_men:0 "Reduziert die benötigte Ausrüstung für §Y§Y Milizbataillone §!§! um §G§G 20% §!§! .\n"
+ we_need_more_men:0 "Reduziert die benötigte Ausrüstung für §Y§Y Milizbataillone §!§! um §G20% §!§! .\n"
  ###Scraping for men### ""
 
  ###incompetent industry### ""
@@ -835,7 +835,7 @@
  reclaim_4:0 "Irgendeine Form der Kontrolle im Landesinneren."
  reclaim_4_desc:0 "Das Innere Chinas ist riesig und nicht so dicht besiedelt, aber wir müssen dort die volle Kontrolle zurückgewinnen, um unsere neuen Grenzen zu verteidigen."
 
- men_has_done_main_or_south_tt:0 "Hat abgeschlossen §Y§Y Aufbau der Verwaltung in Guanxi §!§! oder §G§G Marsch in die Festlandsebenen §!§! Entscheidung."
+ men_has_done_main_or_south_tt:0 "Hat abgeschlossen §Y§Y Aufbau der Verwaltung in Guanxi §!§! oder §GMarsch in die Festlandsebenen §!§! Entscheidung."
  men_has_done_central_tt:0 "Hat §Y§Y Entscheidung zum Aufbau unserer Herrschaft in Zentralchina §!§! abgeschlossen."
 
  replace_arms_with_civ_factories:0 "Umstellung der Rüstungsindustrie"
