@@ -417,7 +417,7 @@
  ship_armor_carrier_deck:0 "Deckpanzerung"
  ship_armor_carrier_deck_short:0 "Flugdeck-Panzerung"
  ship_armor_carrier_deck_desc:0 "Schwere Panzerplatten schützen die Hangarräume vor Treffern durch feindliche Bomber auf Kosten von weniger Arbeitsraum."
- SHIP_DESIGNER_MODULE_SELECTION:1 "§HModulsteckplatz: §!§!  $NAME$\nWählen Sie ein Modul:"
+ SHIP_DESIGNER_MODULE_SELECTION:1 "§HModulsteckplatz:§! $NAME$\nWählen Sie ein Modul:"
  ############################### ""
  ### Nation Specific Modules ### ""
  ############################### ""

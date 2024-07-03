@@ -20,7 +20,7 @@
  TECH_SHARNG_COUNTRY_BONUS:0 "Bonus: $WERT|0%Y$\n"
  TECH_SHARNG_FACTOR_EXTRA_DESC:0 "\nEffektiver Technologieaustausch geändert auf $WERT|-%0$ aufgrund von:\n"
  TECH_SHARNG_RESEARCH_OPPORTUNITIES:0 "\nForschungsmöglichkeiten:"
- TECH_SHARNG_COUNTRY_RESEARCH_OPPORTUNITY:0 "\n@$TAG$$COUNTRY|H$: §Y$VALUE$ §!§! Technologien"
+ TECH_SHARNG_COUNTRY_RESEARCH_OPPORTUNITY:0 "\n@$TAG$$COUNTRY|H$: §Y$VALUE$§!Technologien"
  TECH_SHARNG_GROUP_CATEGORIE_LIMIT:0 "\n \nBeschränkt auf: $LIST|Y$."
  TECH_SHARNG_DESCRIPTION_DELAYED:0 "Eine Technology-Sharing-Gruppe wird umso stärker, je mehr Nationen ihr angehören. Für jedes Mitglied, das eine bestimmte Technologie erforscht hat, wird die Erforschung dieser Technologie für jemanden in der Gruppe, dem sie fehlt, beschleunigt."
  TECH_SHARNG_RESEARCH_BONUS_VALUE_DESC:0 "Technologie-Sharing: $WERT|+%0$\n"
