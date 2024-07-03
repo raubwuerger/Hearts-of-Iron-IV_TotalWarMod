@@ -12,7 +12,7 @@
  infiltration_diplomatic:0 "Diplomatenpässe"
  infiltration_diplomatic_desc:0 "Die Agenten werden Diplomatenpässe benutzen, um in das Land einzureisen und sich dort zu bewegen. Wir gehen davon aus, dass die gegnerische Spionageabwehr versuchen wird, sie zu beschatten, aber das lässt sich mit ausreichender Ausbildung umgehen."
  resistance_support_arms_depots:0 "Vorratsverstecke anlegen"
- resistance_support_arms_depots_desc:0 "Unsere Agenten werden eine Reihe von versteckten Verstecken mit Sprengstoff und anderer Ausrüstung anlegen, um einen allgemeinen Aufstand vorzubereiten, sobald der Widerstand stark genug ist."
+ resistance_support_arms_depots_desc:0 "Unsere Agenten werden eine Reihe von versteckten Verstecken mit Sprengstoff und anderer EQUIPMENT anlegen, um einen allgemeinen Aufstand vorzubereiten, sobald der Widerstand stark genug ist."
  resistance_support_distribute_weapons:0 "Verteilen von Waffen"
  resistance_support_distribute_weapons_desc:0 "Unsere Agenten organisieren und koordinieren eine Reihe von Waffenabwürfen. Die Waffen werden dann an vertrauenswürdige Mitglieder des örtlichen Widerstands übergeben."
  resistance_support_organize_training:0 "Trainingscamps organisieren"

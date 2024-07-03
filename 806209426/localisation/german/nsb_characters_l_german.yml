@@ -710,7 +710,7 @@
  HUN_ferenc_feketehalmyczeydner:0 "Ferenc Feketehalmy-Czeydner"
  HUN_istvan_szechenyi:0 "István Széchenyi"
 
- #POLAND ""
+ #POCOUNTRY ""
  POL_anna_andersson:0 "Anastasia Romanov"
  POL_karl_albrecht:0 "Karl Albrecht I"
  POL_friedrich_christian:0 "Friedrich Christian"
@@ -841,7 +841,7 @@
  MEX_dionisio_navarro_anguiano:0 "Dionisio Navarro Anguiano"
  MEX_luis_maria_martinez:0 "Luis María Martínez"
 
- #NETHERLANDS (HOL) ""
+ #NETHERCOUNTRYS (HOL) ""
  HOL_hendrikus_colijn:0 "Hendrikus Colijn"
  HOL_anton_mussert:0 "Anton Mussert"
  HOL_lou_de_visser:0 "Lou de Visser"
@@ -894,7 +894,7 @@
  SAF_george_edwin_brink:0 "George Edwin Brink"
  SAF_guy_hallifax:0 "Guy Hallifax"
 
- #NEW ZEALAND ""
+ #NEW ZEACOUNTRY ""
  NZL_michael_joseph_savage:0 "Michael Joseph Savage"
  NZL_sidney_holland:0 "Sidney Holland"
  NZL_john_ormond:0 "John Ormond"
@@ -905,7 +905,7 @@
  NZL_william_stevens:0 "William Stevens"
  NZL_edmund_rupert_drummond:0 "Edmund Rupert Drummond"
  NZL_peter_phipps:0 "Peter Phipps"
- #FINLAND ""
+ #FINCOUNTRY ""
  FIN_risto_heikki_ryti:0 "Risto Heikki Ryti"
  FIN_aimo_aaltonen:0 "Aimo Aaltonen"
  FIN_vilho_annala:0 "Vilho Annala"
@@ -938,7 +938,7 @@
  PER_dalir_pesyan:0 "Dalir Pesyan"
  PER_sohrab_tahmasebi:0 "Sohrab Tahmasebi"
 
- #SWITZERLAND ""
+ #SWITZERCOUNTRY ""
  SWI_federal_council:0 "Federal Council"
  SWI_federal_assembly:0 "Federal Assembly"
  SWI_ernest_beuin:0 "Ernest Béuin"

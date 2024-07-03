@@ -242,7 +242,7 @@ m4a376_equipment:0 "M4A3(76) "
 m4a376_equipment_short:0 "M4A3(76) Mittlerer Panzer"
 "m4a376_equipment_desc:0 ""Aufgrund der immer stärkeren Panzerung auf dem Schlachtfeld wurde anstelle der 75-mm-Kanone eine 76,2-mm-Kanone (3 Zoll) montiert. Dadurch konnten diese Shermans in Gefechten mit größerer Reichweite effektiver eingesetzt werden, da sie mehr Feuerkraft besaßen, um feindliche Panzer auf größere Entfernungen zu durchbohren.
 
-ENG_m4a3_Ausrüstung:0 Sherman IV """""
+ENG_m4a3_EQUIPMENT:0 Sherman IV """""
 ENG_m4a3_equipment_short:0 "Sherman IV Mittlerer Panzer"
 ENG_m4a3_equipment_desc:0 " "
 

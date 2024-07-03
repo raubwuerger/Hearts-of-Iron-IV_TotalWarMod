@@ -295,7 +295,7 @@
  STAT_COMMON_RELIABILITY_FACTOR:1 "Zuverlässigkeits-Bonus: "
  STAT_COMMON_RELIABILITY_FACTOR_VALUE:0 "$VALUE|H1%$"
  STAT_COMMON_RELIABILITY_FACTOR_DIFF:0 " $VALUE|=+1%$"
- STAT_COMMON_RELIABILITY_FACTOR_DESC:2 "Ein zusätzlicher Zuverlässigkeits-Bonus von Unterstützungsunternehmen. Dieser Bonus wird auf die Zuverlässigkeit eines Ausrüstungstyps angewandt und verringert die Wahrscheinlichkeit von Pannen und Unfällen."
+ STAT_COMMON_RELIABILITY_FACTOR_DESC:2 "Ein zusätzlicher Zuverlässigkeits-Bonus von Unterstützungsunternehmen. Dieser Bonus wird auf die Zuverlässigkeit eines EQUIPMENTstyps angewandt und verringert die Wahrscheinlichkeit von Pannen und Unfällen."
  STAT_COMMON_WEIGHT:0 "Gewicht: "
  STAT_COMMON_WEIGHT_DESC:0 "Wie viel die Einheit wiegen wird. Schwerere Einheiten benötigen mehr Transporte, um sie zu transportieren und Invasionen effektiv durchzuführen."
  STAT_COMMON_WEIGHT_VALUE:0 "$VALUE|H1$"
@@ -345,7 +345,7 @@
  STAT_TOOLTIP_DESIGNER_DIFF:0 "$NAME|H$: $VALUE$"
  STAT_COMMON_BUILD_COST_IC_T_CONVERTING:0 "§TUmwandlungskosten: §!"
  STAT_ARMY_EQUIPMENT_CAPTURE_FACTOR:0 "Eq. Eroberungsquote: "
- STAT_ARMY_EQUIPMENT_CAPTURE_FACTOR_DESC:0 "Prozentsatz der Ausrüstung, die durch feindliche Verluste erbeutet wird."
+ STAT_ARMY_EQUIPMENT_CAPTURE_FACTOR_DESC:0 "Prozentsatz der EQUIPMENT, die durch feindliche Verluste erbeutet wird."
  STAT_ARMY_EQUIPMENT_CAPTURE_FACTOR_VALUE:0 "$VALUE|+0%$"
  STAT_ARMY_EQUIPMENT_CAPTURE_FACTOR_DIFF:0 "$VALUE|+0%$"
 

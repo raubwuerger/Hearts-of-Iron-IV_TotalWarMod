@@ -66,7 +66,7 @@
  GER_Integrate_Slovenia:0 "Heim ins Reich: Krain"
  GER_Integrate_Slovenia_desc:0 "Ein weiteres Stück der befleckten Hinterlassenschaft des Großen Krieges ist beseitigt, das Krain wurde ordnungsgemäß befriedet und ist bereit, ein vollständiger Teil des 3. und letzten Reiches zu werden!"
  GER_support_reichskommissariats:0 "Unterstützung [From.GetNameDef]"
- GER_support_reichskommissariats_desc:0 "Wir müssen die totale Herrschaft über unsere rechtmäßigen Eroberungen im Osten errichten, um die Zukunft des Reiches zu sichern! Wir werden die erforderliche Ausrüstung für die Truppen des Reichskommissars [FROM.GetLeader] schicken, um sicherzustellen, dass jeder Widerstand ausgerottet wird."
+ GER_support_reichskommissariats_desc:0 "Wir müssen die totale Herrschaft über unsere rechtmäßigen Eroberungen im Osten errichten, um die Zukunft des Reiches zu sichern! Wir werden die erforderliche EQUIPMENT für die Truppen des Reichskommissars [FROM.GetLeader] schicken, um sicherzustellen, dass jeder Widerstand ausgerottet wird."
  GER_peace_with_Iran:0 "Das Teheraner Diktat"
  GER_peace_with_Iran_desc:0 "Zwingt den Persern unseren Willen auf: "
  bramja_Per_buffer_tt:0 "§W1.Persien wird zu einem Pufferstaat erklärt, \n 2. Wir garantieren seine Unabhängigkeit, lassen Persien aber ansonsten politisch und militärisch unabhängig (vorerst...), da die Region die Grenzen unseres Einflusses gemäß den mit unseren Mitkriegsparteien im Osten getroffenen Vereinbarungen markiert. \n 3. Wir werden jedoch dafür sorgen, dass sie jede Verbindung zu ihren früheren Unterdrückern kappen, sei es politisch oder wirtschaftlich. Außerdem wird [From.GetNameDef] die Exklusivrechte an den persischen Ölreserven geltend machen. §! "

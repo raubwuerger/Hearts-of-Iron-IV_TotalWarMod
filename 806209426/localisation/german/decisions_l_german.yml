@@ -68,7 +68,7 @@
  ETH_defeat_italy_category:0 "Der zweite italienisch-äthiopische Krieg"
  ETH_defeat_italy_category_desc:0 "Italien versucht erneut, Äthiopien zu einer bloßen Kolonie zu degradieren. Wir haben diese Eindringlinge das letzte Mal besiegt und wir können sie erneut besiegen, wenn wir sie nur für immer von unserer Grenze entfernen können!"
  seize_some_trains_woo:0 "Zivile Züge kommandieren"
- seize_some_trains_woo_desc:0 "Die Handelsbahnen haben die Kontrolle über unsere Infrastruktur. Angesichts des drohenden Krieges ist es unser gutes Recht, Ausrüstung für staatliche Zwecke zu beschlagnahmen."
+ seize_some_trains_woo_desc:0 "Die Handelsbahnen haben die Kontrolle über unsere Infrastruktur. Angesichts des drohenden Krieges ist es unser gutes Recht, EQUIPMENT für staatliche Zwecke zu beschlagnahmen."
  random_general_monarchy_tt:0 "Ein beliebiger [FROM.GetAdjective]-General wird geheime monarchistische Sympathien gewinnen."
  removed_when_cancelled_war_prop:0 "Die Propagandakampagnen sind beendet."
  war_propaganda_casualties:0 "Heldentum anmahnen"

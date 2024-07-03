@@ -70,21 +70,21 @@ tradesmen_culture:0 "Handwerker-Kultur"
 
 #########Custom tool tip ""
 
-importDEN:0 "Antrag auf Ausrüstung für 2 vollständige Divisionen "
+importDEN:0 "Antrag auf EQUIPMENT für 2 vollständige Divisionen "
 
 #####Events ""
 
 allianse.1.t:0 "Kopenhagener Bündnisgespräche"
 
 import.1.t:0 "Anfrage für dänische Polizeitruppen"
-import.1.d:0 "Während dieses Krieges bittet die dänische Regierung uns um Unterstützung bei der Ausbildung von Truppen und Freiwilligen, die in ihrem Namen kämpfen sollen. Dies wird eine verdeckte Operation sein, getarnt als Ausbildungsprogramm für Polizeibeamte. Sie werden eine Menge Ausrüstung benötigen (2000 Gewehre, 200 Unterstützungsgeräte und 50 Artilleriegeschütze). Sollten wir helfen?"
+import.1.d:0 "Während dieses Krieges bittet die dänische Regierung uns um Unterstützung bei der Ausbildung von Truppen und Freiwilligen, die in ihrem Namen kämpfen sollen. Dies wird eine verdeckte Operation sein, getarnt als Ausbildungsprogramm für Polizeibeamte. Sie werden eine Menge EQUIPMENT benötigen (2000 Gewehre, 200 Unterstützungsgeräte und 50 Artilleriegeschütze). Sollten wir helfen?"
 import.1.a:0 "Ja, gebt ihnen, was sie brauchen!"
 import.1.b:0 "Nein, wir werden unparteiisch bleiben."
 
 import.2.t:0 "Die schwedische Regierung nimmt unser Ersuchen an"
-import.2.d:0 "Die schwedische Regierung unterstützt uns bei der Rekrutierung so genannter Polizeitruppen in einer verdeckten Operation und schickt uns die passende Ausrüstung, um uns bei unseren Kriegsanstrengungen zu unterstützen."
+import.2.d:0 "Die schwedische Regierung unterstützt uns bei der Rekrutierung so genannter Polizeitruppen in einer verdeckten Operation und schickt uns die passende EQUIPMENT, um uns bei unseren Kriegsanstrengungen zu unterstützen."
 import.2.a:0 "Eine dringend benötigte Hilfe!"
 
 import.3.t:0 "Die schwedische Regierung lehnt unser Ersuchen ab"
-import.3.d:0 "Leider halten die Schweden es für zu riskant und werden uns weder Truppen noch Ausrüstung schicken."
+import.3.d:0 "Leider halten die Schweden es für zu riskant und werden uns weder Truppen noch EQUIPMENT schicken."
 import.3.a:0 "Sie haben uns verraten!"

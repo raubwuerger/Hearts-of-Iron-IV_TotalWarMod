@@ -60,7 +60,7 @@
  tiny_island:0 "Winzige Insel"
  pastoral:0 "Pastorale Region"
  OCCUPATION_BREAKDOWN:0 "Aufschlüsselung der Berufe:"
- OCCUPATION_BREAKDOWN_ENTRY:0 "\n$LAND|Y$: $BERUF|Y%0$"
+ OCCUPATION_BREAKDOWN_ENTRY:0 "\n$COUNTRY|Y$: $BERUF|Y%0$"
  STATE_OWNER_RESISTANCE_NON_CORE_INFO:0 "$COUNTRY|H$ wird nur Zugang zu $MANPOWER|-%.0$ der Arbeitskräfte des Staates haben."
  STATE_OWNER_RESISTANCE_NON_CORE_INFO_WITH_MODIFIERS:0 "$COUNTRY|H$ wird nur Zugang zu $MANPOWER|-%.0$ der Arbeitskräfte des Staates haben und obendrein wird es aufgrund seines Berufsstatus folgende Modifikatoren erhalten:"
  STATE_OWNER_MODIFIER_INFO:0 "Der Staat erhält aufgrund seines Besatzungsstatus folgende Modifikatoren:"
