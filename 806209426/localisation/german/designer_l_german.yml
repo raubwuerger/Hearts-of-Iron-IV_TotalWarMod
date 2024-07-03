@@ -36,7 +36,7 @@
  DESIGNER_EXPENSIVE: "Entwurf zu teuer"
  DESIGNER_NOT_ENOUGH_SPECIAL_FORCES: "Durch diese Änderung würden wir die Grenze für Spezialeinheiten überschreiten"
  DESIGNER_NOT_ENOUGH_DIVISION_CAP: "Durch diese Änderung würden wir die Grenze für Divisionen überschreiten"
- DESIGNER_NO_CHANGES: "§T§T Keine Änderungen zum Speichern §!§! "
+ DESIGNER_NO_CHANGES: "§TKeine Änderungen zum Speichern §!§! "
  DESIGNER_ARMY_SAVE: "Speichern (£army_experience $VALUE|Y0$)"
  DESIGNER_NAVY_SAVE: "Speichern (£navy_experience $VALUE|Y0$)"
  DESIGNER_AIR_SAVE: "Speichern (£air_experience $VALUE|Y0$)"
