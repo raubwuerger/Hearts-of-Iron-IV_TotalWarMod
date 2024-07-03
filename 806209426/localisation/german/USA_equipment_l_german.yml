@@ -1,1 +1,425 @@
-﻿
+﻿l_german:
+
+########## from equipment_1_english.yml - probably obsolete ############## ""
+
+# ""
+# ""
+# ""
+# ""
+# ""
+USA_light_tank_equipment_1:0 "1"
+USA_light_tank_equipment_1_short:0 ""
+USA_light_tank_equipment_1_desc:0 ""
+
+USA_light_tank_equipment_2:0 "2"
+USA_light_tank_equipment_2_short:0 ""
+USA_light_tank_equipment_2_desc:0 ""
+
+USA_light_tank_equipment_3:0 "3"
+USA_light_tank_equipment_3_short:0 ""
+USA_light_tank_equipment_3_desc:0 ""
+
+USA_medium_tank_equipment_1:0 "M3 Lee Med.TK"
+USA_medium_tank_equipment_1_short:0 "M3 Lee Med.TK"
+USA_medium_tank_equipment_1_desc:0 "Der M3 Lee" (mit dem US-Turm) oder "Grant" (mit dem britischen Turm) war ein 1940 entwickelter und ab 1941 produzierter amerikanischer mittlerer Panzer. Er wog 27 Tonnen und verfügte über zwei Hauptkanonen, eine kurzläufige 75mm L/31 M2 Kanone, die in einer Sponson-Lafette vorne rechts montiert war, und eine 37mm L/53,5 M5 Kanone, die auf einem kleinen Turm oben auf der Wanne montiert war. Das 37mm Geschütz war gegen die meisten Panzer zu dieser Zeit nutzlos, aber das 75mm Geschütz war ein dringend benötigter Panzerkiller, der das Kräfteverhältnis in Nordafrika veränderte, als die Lend-Lease Panzer von den britischen Truppen eingesetzt wurden. Mit 51 mm schräger Frontpanzerung und 38 mm Seiten- und Heckpanzerung war er recht gut gepanzert. Sie wurden an verschiedene Nationen geliefert und von den Australiern, den Briten und sogar der Sowjetarmee eingesetzt. Er war ein recht zuverlässiger Panzer, hatte aber massive Nachteile wie seine Größe und gefährdete die Besatzung durch Abplatzen der genieteten Panzerung im Inneren. Aus diesem Grund wurde er schnell durch den M4 ersetzt.""
+
+USA_medium_tank_equipment_2:0 "M4A1 Sherman Med.TK"
+USA_medium_tank_equipment_2_short:0 "Sherman Med.TK "
+USA_medium_tank_equipment_2_desc:0 ""
+
+USA_medium_tank_equipment_3:0 "T20 M27 Med.TK"
+USA_medium_tank_equipment_3_short:0 "T20 Med.TK2 "
+USA_medium_tank_equipment_3_desc:0 ""
+
+USA_medium_tank_equipment_4:0 "M46 Patton"
+USA_medium_tank_equipment_4_short:0 "Patton"
+USA_medium_tank_equipment_4_desc:0 ""
+
+m26_pershing_equipment:0 "M26 Pershing"
+m26_pershing_equipment_short:0 "M26 Pershing"
+m26_pershing_equipment_desc:0 "Der M26 Pershing war ein mittlerer Panzer der United States Army. Der Panzer wurde nach dem Armeegeneral John J. Pershing benannt, der im Ersten Weltkrieg die American Expeditionary Force in Europa führte. Er wurde in den letzten Monaten des Zweiten Weltkriegs kurzzeitig und im Koreakrieg ausgiebig eingesetzt. Er war als Ersatz für den M4 Sherman gedacht, doch die lange Entwicklungszeit führte dazu, dass nur eine kleine Anzahl von Exemplaren im europäischen Kriegsgebiet zum Einsatz kam, vor allem bei der dramatischen Einnahme der Ludendorff-Brücke durch die 9th Armored Division während der Schlacht von Remagen."
+
+USA_heavy_tank_equipment_2:0 "M6A1 Hv.TK"
+USA_heavy_tank_equipment_2_short:0 "M6A1"
+
+USA_heavy_tank_equipment_1:0 "T1 Hv.TK Hv.TK"
+USA_heavy_tank_equipment_1_short:0 "T1 Schwer Hv.TK"
+
+USA_super_heavy_tank_equipment_1:0 "T95 Super Hv.TK"
+USA_super_heavy_tank_equipment_1_short:0 "T95"
+# ""
+# ""
+# ""
+# ""
+# ""
+# ""
+
+
+
+
+### United States ### ""
+
+# M2A2 Light Tank ""
+american_light_tank_equipment_1:0 "M2A2 Leichter Panzer"
+american_light_tank_equipment_1_short:0 "Leichter Panzer M2A2"
+american_light_tank_equipment_1_desc:0 "Der M2A2 Light Tank war ein leichter Panzer, der vom Rock Island Arsenal entwickelt und gebaut wurde. Er benötigte 4 Mann Besatzung und konnte eine Höchstgeschwindigkeit von 58 km/h erreichen. Mit nur zwei Maschinengewehren vom Kaliber 0,50 und einer Panzerung von 16 mm an der dicksten Stelle war der M2A2 stark untermotorisiert und wurde bald durch spätere Modelle ersetzt."
+
+# M1 Combat Car ""
+american_light_tank_equipment_2:0 "M1 Kampfwagen"
+american_light_tank_equipment_2_short:0 "Leichter Kampfpanzer M1 Combat Car"
+american_light_tank_equipment_2_desc:0 "Der M1 Combat Car war ein 1935 von Rock Island Arsenal für die US-Kavallerie entwickelter Panzer. Er war ein leichtes (9,1 Tonnen) und schnelles Fahrzeug, das bis zu 72 km/h schnell fahren konnte. Diese Geschwindigkeit war seine entscheidende Eigenschaft, denn er war darauf ausgelegt, Linien zu durchbrechen und Schwachstellen auszunutzen, wie es die berittene Kavallerie tun würde. Da sein Turm nur mit 2 Maschinengewehren, einem 0,50 und einem 0,30 Kaliber, bewaffnet war, hatte er kaum eine Chance, gegnerische AFVs zu beschädigen."
+
+# M2A4 Light Tank ""
+american_light_tank_equipment_3:0 "Leichter Panzer M2A4"
+american_light_tank_equipment_3_short:0 "Leichter Panzer M2A4"
+american_light_tank_equipment_3_desc:0 "Der 11,6 Tonnen schwere M2A4 wurde 3 Jahre nach dem M2A2 entwickelt und war deutlich besser als sein Vorgänger. Statt eines 0,50-Kaliber-Maschinengewehrs verfügte er über eine M5 37mm L/53,5 Kanone in einem einzigen Turm als Hauptbewaffnung. Die Frontpanzerung wurde auf 25 mm aufgerüstet, und die Sekundärbewaffnung umfasste 5 Maschinengewehre vom Kaliber 0,30, wenn sie vollständig ausgerüstet war."
+
+# M3 Stuart ""
+american_light_tank_equipment_4:0 "M3 Stuart"
+american_light_tank_equipment_4_short:0 "Leichter Panzer M3 Stuart"
+american_light_tank_equipment_4_desc:0 "Der M3 Stuart, eine Weiterentwicklung des leichten Panzers M2, war der wichtigste leichte Panzer der Vereinigten Staaten im Krieg. Er hatte eine M5 37mm Kanone (eine leicht verkürzte Version der Infanterie-Panzerabwehrkanone) und bis zu 4 x 0,30cal MG's, 38mm Panzerung auf der gestuften Frontplatte und 51mm auf dem Geschützmantel, und war mit 4 Mann Besatzung ausgestattet. Die Panzerung war anfangs genietet und später geschweißt. Er wog 12,7 Tonnen und erreichte mit seinem Continental-Wright W-670 Motor, der 250 PS leistete, eine Höchstgeschwindigkeit von 58 km/h auf der Straße. Mit einer Gesamtstückzahl von fast 23.000 (einschließlich des M5) war er der am zweithäufigsten produzierte amerikanische Panzer im Krieg."
+
+# M5 Stuart ""
+american_light_tank_equipment_5:0 "M5 Stuart"
+american_light_tank_equipment_5_short:0 "Leichter Panzer M5 Stuart"
+american_light_tank_equipment_5_desc:0 "Aufgrund der Nachfrage nach Sternmotoren wurde der M3 Stuart so modifiziert, dass er mit zwei V8-Cadillac-Automotoren mit einer Gesamtleistung von 220 PS ausgestattet war, und wurde in M5 umbenannt. Außerdem erhielt er ein Automatikgetriebe, das die Bedienung und Ausbildung des Fahrzeugs erleichterte. Die vordere Panzerung wurde überarbeitet und erhielt eine schräge Einzelplatte von 29 mm. Wie beim M3 war seine größte Schwäche die kleine Kanone, deren Größe im Vergleich zum M3 nicht verbessert wurde, allerdings erhielt sie einen etwas längeren Lauf (L/53,5), wodurch sie mit der Version der gezogenen Panzerabwehrkanone identisch wurde. Der M5 wog 15,2 Tonnen und seine Höchstgeschwindigkeit auf der Straße betrug 56 km/h."
+
+# M24 Chaffee ""
+american_light_tank_equipment_6:0 "M24 Chaffee"
+american_light_tank_equipment_6_short:0 "Leichter Panzer M24 Chaffee"
+american_light_tank_equipment_6_desc:0 "Der Chaffee wurde 1944 in Dienst gestellt und war als Ersatz für den M3/M5 Stuart gedacht. In Afrika hatte der M3 Stuart mit seiner schwachen 37-mm-Kanone Schwierigkeiten, die Panzerung der Achsenmächte zu durchschlagen. Um dieses Problem zu lösen, wurde der M24 mit einer leistungsstarken M6 75mm L/39 Kanone ausgestattet, die sich als ausreichend gegen die mittlere Panzerung der Achsenmächte erwies. Seine Panzerung war mit 25 mm sehr leicht, um das Geschütz tragen zu können, und aufgrund seines Gewichts von 18,4 Tonnen war er mit einer Höchstgeschwindigkeit von 56 km/h bei gleicher Motorisierung etwa so schnell wie der M5 Stuart."
+
+# M41 Walker Bulldog ""
+american_light_tank_equipment_7:0 "M41 Walker Bulldog"
+american_light_tank_equipment_7_short:0 "Leichter Panzer M41 Walker Bulldog"
+american_light_tank_equipment_7_desc:0 "Der M41 Walker Bulldog oder offiziell 76mm Gun Tank, M41, erfüllte den Bedarf an einem modernen neuen leichten Panzer. Er war mit einer 76mm L/52 M42A1 Hauptkanone bewaffnet, die ausreichte, um die meisten leichten und mittleren AFVs der damaligen Zeit auszuschalten. Die Front- und Seitenpanzerung betrug 25 mm, und die Turmhaube war mit 38 mm gepanzert. Er war wesentlich größer als der M24 und wog 23,5 Tonnen, aber mit seinem leistungsstarken Continental-Motor mit 500 PS konnte er trotzdem eine Höchstgeschwindigkeit von 72 km/h erreichen."
+
+# T48 '57mm' MGC ""
+hellcat_equipment_0:0 "T48 MGC TD"
+hellcat_equipment_0_short:0 "T48 '57mm' MGC TD"
+hellcat_equipment_0_desc:0 "Der T48 57 mm Gun Motor Carriage war eine selbstfahrende Panzerabwehrkanone, die auf dem M3-Halftrack basierte und von der Firma Diamond T für die Vereinigten Staaten hergestellt wurde. Die Konstruktion umfasste eine 57-mm-L/43-Kanone M1, eine US-Produktion des britischen QF 6-Pfünders, die auf einer M3-Halbkette montiert war. Seine maximale Panzerung betrug 16 mm. Das Fahrzeug wog etwa 9,5 Tonnen und erreichte auf der Straße eine Höchstgeschwindigkeit von 72 km/h. Beim Abfeuern des Geschützes wurden die Scheinwerfer des Halbkettenfahrzeugs und die Motorhaube zerstört, was zu Schäden am Motor führte."
+
+# M3 TD - M3 GMC 'M1897 Gun' ""
+hellcat_equipment_1:0 "M3 GMC TD"
+hellcat_equipment_1_short:0 "M3 GMC 'M1897' TD"
+hellcat_equipment_1_desc:0 "Der M3 Panzerzerstörer war ein M3 Halbkettenfahrzeug mit einer angepassten und amerikanisch gebauten 75mm L/36 'M1897 Kanone' französischer Herkunft zur Bekämpfung gepanzerter feindlicher Fahrzeuge. Seine Gesamtsilouette war niedriger als die des T48 GMC, was auf ein kleineres Kanonenschild zurückzuführen war, obwohl seine Kanone wesentlich größer und leistungsfähiger war. Das Fahrzeug wog etwa 9,1 Tonnen und seine Höchstgeschwindigkeit auf der Straße betrug 75 km/h."
+
+# M18 Hellcat ""
+hellcat_equipment_2:0 "M18 Hellcat"
+hellcat_equipment_2_short:0 "M18 Leichter TD"
+hellcat_equipment_2_desc:0 "Der M18 Hellcat (offiziell als 76 mm Gun Motor Carriage M18 oder M18 GMC bezeichnet) war ein amerikanischer Panzerzerstörer auf dem Fahrgestell des leichten Panzers M24. Er war der schnellste U.S. Panzer auf der Straße. Die Geschwindigkeit wurde erreicht, indem man die Panzerung auf maximal 25 mm dünn hielt, das innovative Torqmatic-Automatikgetriebe verwendete und das relativ leichte Fahrzeug von 17,7 Tonnen mit demselben Sternmotor ausstattete, der auch im viel größeren Sherman-Panzer verwendet wurde."
+
+# M38 Hellboy ""
+hellcat_equipment_3:0 "M38 Hellboy"
+hellcat_equipment_3_short:0 "M38 Leichter TD"
+hellcat_equipment_3_desc:0 "Verbesserte Version des Hellcat mit einer größeren 90 mm Kanone und einem Turm, der auch im M36 Jackson verwendet wurde. Der größere Turm und die Kanone verursachten jedoch Probleme mit dem Rückstoß und das Gewicht stieg auf 21 Tonnen, so dass die Mobilität litt und die Aufhängung bei längerem Beschuss beschädigt wurde."
+
+########## Light SP.Arty ""
+# M2A4 Arty - M3 GMC '75mm' ""
+american_light_tank_artillery_equipment_0:0 "M8 '75mm' HMC SP-Art."
+american_light_tank_artillery_equipment_0_short:0 "M8 HMC '75mm' SP-Art."
+american_light_tank_artillery_equipment_0_desc:0 "Der 75 mm Haubitzen-Motorwagen M8 war eine selbstfahrende Haubitze und wog etwa 15,7 Tonnen. Er wurde auf dem Fahrgestell des M5 Stuart Panzers entwickelt und war mit einer M2 75mm L/15,9 Panzerhaubitze in einer M7 Lafette bestückt. Der Turm war nach oben offen und die maximale Panzerung betrug 44 mm. Aufgrund der maximalen Geschützhöhe von 40° konnte er eine 8,3kg schwere Granate indirekt über eine Reichweite von 8800m abfeuern."
+
+# M3 Arty - M3 GMC '105mm' ""
+american_light_tank_artillery_equipment_1:0 "T19 '105mm' GMC SP-Art."
+american_light_tank_artillery_equipment_1_short:0 "T19 GMC '105mm' SP-Art."
+american_light_tank_artillery_equipment_1_desc:0 "Der T19 Haubitzen-Motorwagen ähnelte dem M3 Halbkettenfahrzeug, da er das gleiche Fahrgestell, den gleichen Motor, die gleiche Aufhängung, die gleiche Panzerung und den gleichen Treibstofftank besaß und ein Gewicht von 8,6 Tonnen hatte. Angetrieben wurde er von einem weißen 160AX-Motor mit 147 PS. Er erreichte eine Höchstgeschwindigkeit von 72 km/h auf der Straße. Das Fahrzeug wurde von einer sechsköpfigen Besatzung bedient. Die Bewaffnung bestand aus einer Haubitze M2A1 105 mm L/22 (mit acht Schuss Munition an Bord) und einem einzelnen sekundären M2 Browning-Maschinengewehr vom Kaliber 0,50 (12,7 mm). Das Geschütz konnte eine 19 kg schwere Granate über eine Reichweite von 11160 km abfeuern."
+
+# M37 HMC ( picture shows different SPG but correct one not available yet ) ""
+american_light_tank_artillery_equipment_2:0 "M37 HMC"
+american_light_tank_artillery_equipment_2_short:0 "M37 HMC Leicht SP.Art"
+american_light_tank_artillery_equipment_2_desc:0 " Der 105-mm-HMC M37 basierte auf einem verlängerten Fahrgestell des leichten Panzers M24 Chaffee, und das Fahrzeug wurde ähnlich modifiziert wie der M7 Priest", der das Fahrgestell des mittleren Panzers M3 oder M4 verwendete. Die 105-mm-Haubitze des M4 war dieselbe, die auch im T-19 und in den haubitzenbewaffneten Shermans verwendet wurde, und wurde auf dem M37 rechts von der Mittellinie des Wagens montiert, wo sie den Platz des Beifahrers ersetzte, allerdings hatte sie viel mehr Munition an Bord und ihre Geländegängigkeit sowie der Schutz der Besatzung waren wesentlich besser. Die Ringlafette für das Maschinengewehr .50cal befand sich rechts von der Haubitzenlafette. Sie konnte eine 19 kg schwere Granate über eine Reichweite von 11160 km abfeuern."
+
+# M49 ""
+american_light_tank_artillery_equipment_3:0 "M41 HMC"
+american_light_tank_artillery_equipment_3_short:0 "M41 HMC Light SP.Art"
+american_light_tank_artillery_equipment_3_desc:0 " Die Panzerhaubitze M41 basierte auf einem verlängerten M24 Chaffee-Fahrgestell und wies viele der gleichen Modifikationen auf wie der Rumpf der selbstfahrenden 40-mm-Zwillingsflugabwehrkanone M19. Der Motor des M41 wurde hinter die Fahrerkabine verlegt, und die Lafette der Haubitze M1 155 mm L/23 wurde am Heck des Fahrzeugs angebracht. Die Kanone konnte eine 43-kg-Granate auf eine Reichweite von 14600 m abfeuern."
+
+########## Light SP.AA ""
+
+# M14 GMC ""
+american_light_tank_aa_equipment_0:0 "M13/M16 GMC"
+american_light_tank_aa_equipment_0_short:0 "M13/M16 GMC SP.AA"
+american_light_tank_aa_equipment_0_desc:0 "Der M13 Multiple Gun Motor Carriage (MGMC), auch bekannt als M13 Half-track, war eine selbstfahrende Flugabwehrkanone, die zunächst mit zwei 0,5 Zoll (12,7 mm) schweren M2 Browning-Maschinengewehren auf einer M33 Maxson-Zwillingslafette und später mit vier M2 MGs auf einer M35 Maxson-Vierlingslafette bewaffnet war und als M16 bezeichnet wurde. Die M13-Produktionslinie wurde nahtlos auf das M16 umgestellt und viele M13 wurden zu M16 umgerüstet. Die Maschinengewehre wurden ferngezündet und durch einen kleinen Elektromotor an der Rückseite des Turms angetrieben. Er wurde 1942 als Antwort auf die Forderung nach einem mobilen Flugabwehrfahrzeug (SPAA) entwickelt. Er wurde durch den stärker bewaffneten M15 Gun Motor Carriage ersetzt. Er war nur gegen niedrig fliegende Flugzeuge und Bodenziele einsetzbar (wo er den Spitznamen "Fleischhacker" erhielt)."
+
+# M16 GMC ""
+american_light_tank_aa_equipment_1:0 "M15 GMC"
+american_light_tank_aa_equipment_1_short:0 "M15 GMC SP.AA"
+american_light_tank_aa_equipment_1_desc:0 "Der M15 basierte auf dem M3-Halftrack-Fahrgestell und verfügte zusätzlich über eine koaxial montierte Bewaffnung aus einer vollautomatischen M1 37mm L/54-Kanone und zwei 0,50-Kaliber (12,7 mm) M2 Browning-Maschinengewehren oberhalb der Hauptkanone. Die 37-mm-Kanone ermöglichte eine maximale Flugabwehrhöhe von etwa 4000 m. Bei einer Besatzung von sieben Mann und einem Gewicht von 9,1 Tonnen betrug die Höchstgeschwindigkeit auf der Straße 67 km/h."
+
+# M19 GMC ""
+american_light_tank_aa_equipment_2:0 "M19 GMC"
+american_light_tank_aa_equipment_2_short:0 "M19 GMC Leichte SP.AA"
+american_light_tank_aa_equipment_2_desc:0 "Der M19 MGMC hatte ähnliche Spezifikationen wie der M24 Chaffee. Er wog 17,4 Tonnen und wurde von einem 220 PS starken Twin Cadillac Model 42 angetrieben, der eine Geschwindigkeit von 56 km/h erreichen konnte. Das Fahrzeug wurde mit einer sechsköpfigen Besatzung betrieben. Der M19 entwickelte sich aus dem Projekt des 40-mm-Kanonen-Motorwagens T65, der auf dem Fahrgestell des leichten Panzers M5 basierte. Obwohl die Versuche erfolgreich verliefen, wurde das Projekt eingestellt, da die Produktion des leichten Panzerfahrgestells M5A1 auslief. Da die Panzertruppe immer noch ein modernes leichtes Kettenfahrzeug zur Flugabwehr benötigte, wurde ein neues Projekt (mit der Bezeichnung T65E1) auf der Grundlage des neuen T24-Fahrgestells (ein Prototyp des M24 Chaffee) entwickelt. Der T65E1 hatte den gleichen Aufbau wie der T65 GMC - ein Geschützturm mit zwei 40 mm L/60 Bofors Flakgeschützen am Heck und die Motoren in der Mitte des Fahrgestells. Die Feuerrate betrug 2×120 Schuss pro Minute (U/min) und die praktische maximale Reichweite lag bei 3800 m."
+
+# M42 Duster ""
+american_light_tank_aa_equipment_3:0 "M42 Duster"
+american_light_tank_aa_equipment_3_short:0 "M42 Duster Light SP.AA"
+american_light_tank_aa_equipment_3_desc:0 "Das M42 40 mm Self-Propelled Anti-Aircraft Gun oder Duster" ist ein leichtes selbstfahrendes Luftabwehrgeschütz von General Motors. Es verwendet Komponenten des leichten Panzers M41 und des Turms des M19 und ist ganz aus geschweißtem Stahl gebaut. Das Fahrzeug hat eine Besatzung von sechs Personen und wiegt voll beladen 22,5 Tonnen. Die Höchstgeschwindigkeit beträgt 72 km/h. Die Bewaffnung besteht aus vollautomatischen Zwillingsbofors 40mm L/70 M2A1, mit einer Feuerrate von 2×240 Schuss pro Minute (U/min) und einer sekundären Browning M1919A4 vom Kaliber 0,30. Der 500 PS starke, luftgekühlte Sechszylinder-Benzinmotor von Continental (oder Lycoming Engines) ist im Heck des Fahrzeugs untergebracht. Aufgrund der höheren Feuerrate und der höheren Mündungsgeschwindigkeit liegt die maximale praktische Deckung höher als bei den Bofors-Kanonen des M19 L/60.""
+
+########## Medium tank destroyer ""
+# M9 Badger ""
+american_medium_tank_destroyer_equipment_0:0 "M9 Dachs"
+american_medium_tank_destroyer_equipment_0_short:0 "M9 Medium TD"
+american_medium_tank_destroyer_equipment_0_desc:0 "Der T40 (die Bezeichnung für die Prototypen) und der M9 für die Serienfahrzeuge waren mittlere Panzerjäger, die auf einem turmlosen M3 Lee-Panzer basierten. Die Vorderseite wurde überarbeitet, so dass die Kanone einen besseren Geschützbogen erhielt als zuvor mit der auf dem Sponson montierten 75mm des M3, wobei der Fahrerraum nach links verschoben wurde, so dass der Geschützbogen unsymmetrisch war. Das verwendete Geschütz war das 3inch (76,2mm) AT M1918 L/40. Es hatte eine Besatzung von 5 Mann und wurde von einem Wright R975 EC2 Motor angetrieben, der dem 33 Tonnen schweren Fahrzeug eine Höchstgeschwindigkeit von 40 km/h verlieh. Die Höhe des Fahrzeugs betrug 2,3 m (im Vergleich zu 3,12 m beim M3)."
+
+# M10 Wolverine ""
+american_medium_tank_destroyer_equipment_1:0 "M10 Vielfraß (Wolverine)"
+american_medium_tank_destroyer_equipment_1_short:0 "M10 Medium TD"
+american_medium_tank_destroyer_equipment_1_desc:0 "Der M10 Panzerzerstörer benutzte ein M4A2 Fahrgestell (M10A1s benutzten ein M4A3 Fahrgestell) mit einem nach oben offenen, manuell verfahrbaren Turm, in dem die M7 3-inch (76,2mm) L/50 Kanone in der M5 Lafette montiert war. Aufgrund des Gewichts des Geschützrohrs - das Probleme verursachte, wenn der Boden nicht eben war - musste am hinteren Teil des Turms ein Gegengewicht angebracht werden. Der Turm musste von Hand gekurbelt werden und hatte daher eine langsame Drehgeschwindigkeit. Um Gewicht zu sparen und eine bessere Beweglichkeit zu gewährleisten, war das Fahrgestell mit 19 mm nur sehr leicht gepanzert und die Geschützhülle hatte eine Panzerung von 57 mm. Das Fahrzeug wog etwa 29 Tonnen und erreichte mit seinen General Motors 6046-Doppeldieselmotoren, die 375 PS leisteten, eine Höchstgeschwindigkeit von 51 km/h."
+
+# M10 Achilles (BRITISH ONLY) ""
+american_medium_tank_destroyer_equipment_2:0 "M10 Achilles"
+american_medium_tank_destroyer_equipment_2_short:0 "M10 Mittlerer TD"
+american_medium_tank_destroyer_equipment_2_desc:0 "Auf einem modifizierten M4A2 Sherman-Panzerfahrgestell war eine 3-Zoll (76,2 mm) Kanone M7 in einem drehbaren Turm montiert."
+
+# M36 Jackson ""
+american_medium_tank_destroyer_equipment_3:0 "M36 Jackson"
+"american_medium_tank_destroyer_equipment_3_short:0 ""M36 Medium TD""
+american_medium_tank_destroyer_equipment_3_desc:0 Der M36 Tank Destroyer, vormals 90 mm Gun Motor Carriage, M36, war ein amerikanischer Panzerzerstörer, der im Zweiten Weltkrieg eingesetzt wurde. Der M36 kombinierte die Wanne des M10 Panzerjägers, der das zuverlässige Fahrgestell und den Antriebsstrang des M4 Sherman verwendete, mit einer schrägen Panzerung und einem massiven neuen Turm, in dem die M3 90 mm L/53 Kanone montiert war. """""
+
+# M22 Locust ""
+american_para_tank_equipment_1:0 "M22 Heuschrecke"
+american_para_tank_equipment_1_short:0 "M22"
+american_para_tank_equipment_1_desc:0 " "
+
+# M2 Medium ""
+american_medium_tank_equipment_1:0 "M2 Medium"
+american_medium_tank_equipment_1_short:0 "M2 Medium Panzer"
+american_medium_tank_equipment_1_desc:0 "Der M2 Medium wurde wie viele andere US-Panzer der damaligen Zeit von Rock Island Arsenal entwickelt. Er verfügte über eine 37-mm-Hauptkanone und bis zu neun Maschinengewehre vom Kaliber 0,30 (7,62 mm). Seine 6-köpfige Besatzung war durch eine 32 mm starke Panzerung an der Frontplatte geschützt, die an den Seiten des Panzers auf 20 mm reduziert war. Mit seinem aufgeladenen, luftgekühlten Wright R975 EC2 Sternmotor, der 400 PS leistete, konnte das 19 Tonnen schwere Fahrzeug eine Höchstgeschwindigkeit von 42 km/h erreichen."
+
+# M3 Lee ""
+american_medium_tank_equipment_2:0 "M3 Lee"
+american_medium_tank_equipment_2_short:0 "Mittlerer Panzer M3 Lee"
+american_medium_tank_equipment_2_desc:0 "Der M3 Lee" (mit US-Muster-Turm) war ein 1940 entwickelter und ab 1941 produzierter amerikanischer mittlerer Panzer. Er wog 27 Tonnen und verfügte über einen kurzläufigen 75 mm L/31 M2-Sponsor, der auf der Wanne montiert war, und ein 37 mm L/53,5 M5-Geschütz, das auf einem kleinen Turm montiert war. Das 37mm Geschütz war gegen die meisten Panzer zu dieser Zeit nutzlos, aber das 75mm Geschütz war ein dringend benötigter Panzerkiller, der das Kräfteverhältnis in Nordafrika veränderte, als die Lend-Lease Panzer von den britischen Truppen eingesetzt wurden. Mit 51 mm schräger Frontpanzerung und 38 mm Seiten- und Heckpanzerung war er recht gut gepanzert. Sie wurden hauptsächlich an die Australier und Briten ausgeliehen. Er war ein recht zuverlässiger Panzer, hatte aber massive Nachteile, wie z.B. seine Höhe, das an der Wanne montierte Geschütz, das schwer zu zielen war, und die Gefährdung der Besatzung durch Abplatzen der genieteten Panzerung im Inneren. Aus diesem Grund wurde er schnell durch den M4 ersetzt."
+
+ENG_american_medium_tank_equipment_2:0 "M3 Grant"
+ENG_american_medium_tank_equipment_2_short:0 "Mittlerer Panzer M3 Grant"
+ENG_american_medium_tank_equipment_2_desc:0 "Die britische Variante des M3 Medium, der M3 Grant, hatte ein anderes Turmdesign als der Lee. Wie der Lee hatte er eine 75-mm-Kanone auf der Wanne und eine 37-mm-Kanone auf dem Turm. Die Frontpanzerung betrug etwa 50 mm und die Seitenpanzerung etwa 40 mm."
+
+
+# M4 Sherman ""
+m4_equipment:0 "M4 Sherman"
+m4_equipment_short:0 "Mittlerer Panzer M4"
+m4_equipment_desc:0 "Fast 50.000 Shermans wurden während des Krieges von den Vereinigten Staaten gebaut. Der M4 war ein großer Fortschritt gegenüber dem M3. Er verfügte über einen 350-PS-Benzinmotor, der eine Geschwindigkeit von 30 km/h ermöglichte, eine 51 mm dicke Frontpanzerung (76 mm am Turm) und eine 31 mm starke Seitenpanzerung. Die veraltete 37-mm-Turmkanone wurde durch eine wesentlich stärkere 75-mm-Kanone ersetzt. Der Sherman galt als zuverlässig und war auf Überlebensfähigkeit ausgelegt, mit zahlreichen Luken, durch die die Besatzung bei Bedarf entkommen konnte."
+
+ENG_m4_equipment:0 "Sherman I"
+ENG_m4_equipment_short:0 "Mittlerer Panzer Sherman I"
+ENG_m4_equipment_desc:0 " "
+
+
+# M7 Priest ""
+american_medium_tank_artillery_equipment_1:0 "M7 Priest"
+american_medium_tank_artillery_equipment_1_short:0 "Priest Medium SP.Art"
+american_medium_tank_artillery_equipment_1_desc:0 "Die Beobachter der U.S. Army erkannten, dass sie ein selbstfahrendes Artilleriefahrzeug mit ausreichender Feuerkraft zur Unterstützung gepanzerter Operationen benötigen würden. Die Erfahrungen mit Halbkettenfahrzeugen (wie dem T19 HMC mit einer Haubitze auf dem M3-Halbkettenfahrgestell) zeigten auch, dass dieses Fahrzeug gepanzert und vollständig mit Ketten ausgestattet sein musste. Man entschied sich für das M3-Lee-Fahrgestell mit offenem Aufbau, auf dem eine 105-mm-Haubitze M1A2 L/22 montiert wurde, die nach der Erprobung mit einem Maschinengewehr ergänzt wurde. Die Produktion des M7 begann im April dieses Jahres. Er ähnelte dem Panzerzerstörer T40/M9 sehr. Sein Continental R-975 C1/C4-Motor mit 400 PS ermöglichte dem 23 Tonnen schweren Fahrzeug eine Höchstgeschwindigkeit von 39 km/h. Die Panzerhaubitze war zunächst mit einer Neigung von 40° installiert, was die Reichweite verringerte, aber die Version M7B2 hatte eine Neigung von 65° und konnte eine 15 kg-Granate über eine Reichweite von 11 km abfeuern."
+
+# M4A1 Calliope ""
+american_medium_tank_artillery_equipment_2:0 "M12 HMC"
+american_medium_tank_artillery_equipment_2_short:0 "M12 Medium SP.Art"
+american_medium_tank_artillery_equipment_2_desc:0 "Der M12 wurde auf dem Fahrgestell des M3 Lee-Panzers gebaut. Er war je nach Verfügbarkeit mit einer 155-mm-Kanone M1917, M1917A1 oder M1918 M1 ausgerüstet, einer Waffe, die von der nahezu identischen französischen 155-mm-GPF-Kanone aus dem Ersten Weltkrieg abgeleitet war. Aufgrund des begrenzten Stauraums konnten nur 10 Geschosse und Treibladungen auf dem Fahrzeug mitgeführt werden. Ein Erdspaten (ähnlich einem Bulldozer-Schild) am Heck diente zur Abfederung des Rückstoßes. "
+
+american_medium_tank_artillery_equipment_3:0 "M40 Kardinal"
+american_medium_tank_artillery_equipment_3_short:0 "M40 Medium SP.Art"
+american_medium_tank_artillery_equipment_3_desc:0 "Der 155-mm-Kanonen-Motorwagen M40 war ein selbstfahrendes Artilleriefahrzeug, das auf einem verbreiterten und verlängerten Fahrgestell des mittleren Panzers M4A3 aufgebaut war, jedoch mit einem Continental-Motor und mit HVSS (Horizontal Volute Spring Suspension). Die 155-mm-Haubitze L/55 trug den Spitznamen Long Tom" und konnte eine 45,4 kg schwere Granate über eine Reichweite von 23,7 km abfeuern."
+
+# M4A3R3 Zippo ""
+american_medium_tank_flame_equipment_1:0 "M4A3 SP-AA Sherman"
+american_medium_tank_flame_equipment_1_short:0 "M4A3 SP-AA"
+american_medium_tank_flame_equipment_1_desc:0 "Selbstfahrende Luftabwehrplattform auf dem Sherman-Fahrgestell"
+
+# M17 GMC ""
+american_medium_tank_aa_equipment_1:0 "M4A1 M42 Geschützträger"
+american_medium_tank_aa_equipment_1_short:0 "M42 LSP.AA"
+american_medium_tank_aa_equipment_1_desc:0 " "
+
+# M4A3 Sherman ""
+m4a3_equipment:0 "M4A3 Sherman"
+m4a3_equipment_short:0 "M4A3 Mittlerer Panzer"
+m4a3_equipment_desc:0 "Der M4A3 war eine Variante des M4, die mit einem Ford GAA V8-Motor anstelle eines Sternmotors ausgestattet war, der zu dieser Zeit für die Flugzeugproduktion benötigt wurde. Durch den Wechsel des Motors konnte die verfügbare Leistung der Maschine um etwa 15 % gesteigert werden. Einige Exemplare wurden auch für den Einsatz einer 76-mm-Hauptkanone anstelle einer 75-mm-Kanone umgebaut."
+
+#M4A3 76mm ""
+m4a376_equipment:0 "M4A3(76) "
+m4a376_equipment_short:0 "M4A3(76) Mittlerer Panzer"
+"m4a376_equipment_desc:0 ""Aufgrund der immer stärkeren Panzerung auf dem Schlachtfeld wurde anstelle der 75-mm-Kanone eine 76,2-mm-Kanone (3 Zoll) montiert. Dadurch konnten diese Shermans in Gefechten mit größerer Reichweite effektiver eingesetzt werden, da sie mehr Feuerkraft besaßen, um feindliche Panzer auf größere Entfernungen zu durchbohren.
+
+ENG_m4a3_Ausrüstung:0 Sherman IV """""
+ENG_m4a3_equipment_short:0 "Sherman IV Mittlerer Panzer"
+ENG_m4a3_equipment_desc:0 " "
+
+SOV_m4a3_equipment:0 "M4A2 Emcha"""
+SOV_m4a3_equipment_short:0 "M4A2 Mittlerer Panzer"
+SOV_m4a3_equipment_desc:0 " "
+
+# M4A3(75)W Sherman ""
+m4a3_w_equipment:0 "M4A3(75)W Sherman"
+m4a3_w_equipment_short:0 "M4A3(75)W Mittlerer Panzer"
+m4a3_w_equipment_desc:0 " "
+
+# M4A3(76)W Sherman ""
+m4a3_76_w_equipment:0 "M4A3(76)W Sherman"
+m4a3_76_w_equipment_short:0 "M4A3(76)W Mittlerer Panzer"
+m4a3_76_w_equipment_desc:0 " "
+
+SOV_m4a3_76_w_equipment:0 "M4A2(76)W Emcha"""
+SOV_m4a3_76_w_equipment_short:0 "M4A2(76)W Mittlerer Panzer"
+SOV_m4a3_76_w_equipment_desc:0 " "
+
+# M4A3(76)W HVSS Sherman ""
+m4a3_76_w_hvss_equipment:0 "M4A3(76)W HVSS Sherman"
+m4a3_76_w_hvss_equipment_short:0 "M4A3(76)W HVSS Mittlerer Panzer"
+m4a3_76_w_hvss_equipment_desc:0 " "
+
+# M4A3(105) Sherman ""
+m4a3_105_equipment:0 "M4A3(105) Sherman"
+m4a3_105_equipment_short:0 "M4A3(105) Mittlerer Panzer"
+m4a3_105_equipment_desc:0 " "
+
+ENG_m4a3_105_equipment:0 "Schützenpanzer IVB "
+ENG_m4a3_105_equipment_short:0 "Sherman IVB Mittlerer Panzer"
+ENG_m4a3_105_equipment_desc:0 " "
+
+# M4A3(105) HVSS Sherman ""
+m4a3_105_hvss_equipment:0 "M4A3(105) HVSS Sherman"
+m4a3_105_hvss_equipment_short:0 "M4A3(105) HVSS Mittlerer Panzer"
+m4a3_105_hvss_equipment_desc:0 " "
+
+ENG_m4a3_105_hvss_equipment:0 "Schützenpanzer IVBY"
+ENG_m4a3_105_hvss_equipment_short:0 "Sherman IVBY Mittlerer Panzer"
+ENG_m4a3_105_hvss_equipment_desc:0 " "
+
+# M4A3E2 Jumbo Sherman ""
+m4a3_jumbo_equipment:0 "M4A3E2 Jumbo Schützenpanzer"
+m4a3_jumbo_equipment_short:0 "Mittlerer Panzer M4A3E2 Jumbo"
+m4a3_jumbo_equipment_desc:0 "Der Jumbo wurde als schwere Angriffsvariante des Sherman konzipiert. Er hatte eine zusätzliche 38 mm starke Panzerung an der Front und den Seiten der Wanne. Nach der Anbringung der Platten verfügte der Jumbo über eine beeindruckende Frontpanzerung von 101 mm und eine Seitenpanzerung von 76 mm. Aufgrund des zusätzlichen Gewichts war er jedoch nicht in der Lage, sich so schnell und weit zu bewegen wie normale Shermans"
+
+# M4A3E2(76)W Jumbo Sherman ""
+m4a3_jumbo_76_w_equipment:0 "M4A3E2(76)W Jumbo Sherman"
+m4a3_jumbo_76_w_equipment_short:0 "M4A3E2(76)W Jumbo Mittlerer Panzer"
+m4a3_jumbo_76_w_equipment_desc:0 " "
+
+# Sherman V (BRITISH ONLY - and chinese, aparently) ""
+m4a4_equipment:0 "M4A4 Sherman"
+m4a4_equipment_short:0 "M4A4"
+m4a4_equipment_desc:0 " "
+
+ENG_m4a4_equipment:0 "Schützenpanzer V"
+ENG_m4a4_equipment_short:0 "Schützenpanzer V"
+ENG_m4a4_equipment_desc:0 " "
+
+# Sherman Vc (BRITISH ONLY) ""
+firefly_equipment:0 "M4A4 17pdr Sherman"
+firefly_equipment_short:0 "Firefly"
+firefly_equipment_desc:0 " "
+
+ENG_firefly_equipment:0 "Schützenpanzer Vc"
+ENG_firefly_equipment_short:0 "Leuchtkäfer"
+ENG_firefly_equipment_desc:0 " "
+
+# Sherman V Tulip (BRITISH ONLY) ""
+m4a4_tulip_equipment:0 "M4A4 Sherman Tulip"
+m4a4_tulip_equipment_short:0 "M4A4 Tulpe"
+m4a4_tulip_equipment_desc:0 " "
+
+ENG_m4a4_tulip_equipment:0 "Sherman V Tulip"
+ENG_m4a4_tulip_equipment_short:0 "Schützenpanzer V Tulpe"
+ENG_m4a4_tulip_equipment_desc:0 " "
+
+# Sherman Vc Tulip (BRITISH ONLY) ""
+firefly_tulip_equipment:0 "M4A4 17pdr Sherman Tulip"
+firefly_tulip_equipment_short:0 "Firefly Tulip"
+firefly_tulip_equipment_desc:0 " "
+
+ENG_firefly_tulip_equipment:0 "Schützenpanzer Vc Tulpe"
+ENG_firefly_tulip_equipment_short:0 "Leuchtkäfer Tulpe"
+ENG_firefly_tulip_equipment_desc:0 " "
+
+# M6 Heavy Tank ""
+american_heavy_tank_equipment_1:0 "M6"
+american_heavy_tank_equipment_1_short:0 "M6 Schwerer Panzer"
+american_heavy_tank_equipment_1_desc:0 "Der M6 Heavy war mit einer 76,2 mm (3 Zoll) Kanone bewaffnet. Er benötigte 6 Mann Besatzung und wog fast 60 Tonnen. Er verfügte über einen 9-Zylinder-Benzin-Sternmotor, der ihn auf eine Geschwindigkeit von 32 km/h bringen konnte."
+
+# Heavy Tank Destroyer 1 ""
+american_heavy_tank_td_equipment_0:0 "Schwerer Panzerzerstörer"
+american_heavy_tank_td_equipment_0_short:0 "H. TD"
+american_heavy_tank_td_equipment_0_desc:0 "Um die schwersten feindlichen Panzer zerstören zu können, konnte der M6 mit einer noch größeren Kanone ausgestattet werden, die die meisten feindlichen Panzer durchschlagen konnte."
+
+# Heavy SPG 1 ""
+american_heavy_tank_art_equipment_0:0 "Schwere Artillerie mit Eigenantrieb"
+american_heavy_tank_art_equipment_0_short:0 "H. SPG"
+american_heavy_tank_art_equipment_0_desc:0 "Um eine größere Sprengkraft zu erreichen, kann der M6 mit einer größeren Artilleriekanone ausgerüstet werden."
+
+# Heavy Tank Destroyer 2 ""
+american_heavy_tank_td_equipment_1:0 "Schwerer Panzerzerstörer 2"
+american_heavy_tank_td_equipment_1_short:0 "H. TD 2"
+american_heavy_tank_td_equipment_1_desc:0 "Um die schwersten feindlichen Panzer zu zerstören, kann der Super Pershing mit einer noch größeren Kanone ausgerüstet werden, die die meisten feindlichen Panzer durchbohren kann."
+
+# M26 Pershing ""
+american_heavy_tank_equipment_2:0 "M26 Pershing"
+american_heavy_tank_equipment_2_short:0 "M26 Schwerer Panzer"
+american_heavy_tank_equipment_2_desc:0 " "
+
+# M103 ""
+american_heavy_tank_equipment_3:0 "M103"
+american_heavy_tank_equipment_3_short:0 "M103 Schwerer Panzer"
+american_heavy_tank_equipment_3_desc:0 " "
+
+# M6 Heavy Tank ""
+american_heavy_tank_art_equipment_1:0 "M52 Fat Joe"
+american_heavy_tank_art_equipment_1_short:0 "M52 Heavy Sp.Art"
+american_heavy_tank_art_equipment_1_desc:0 "Schwere 240-mm-Haubitze 'Black Dragon' mit langem Rohr, montiert auf einem verlängerten M26-Pershing-Fahrgestell."
+
+
+# T-28 ""
+t28_equipment_1:0 "T-28"
+t28_equipment_1_short:0 "T-28"
+t28_equipment_1_desc:0 " "
+
+# M46 Patton ""
+american_mbt_equipment_1:0 "M46 Patton"
+american_mbt_equipment_1_short:0 "M46"
+american_mbt_equipment_1_desc:0 " "
+
+# M47 Patton ""
+american_mbt_equipment_2:0 "M47 Patton"
+american_mbt_equipment_2_short:0 "M47"
+american_mbt_equipment_2_desc:0 " "
+
+# M48 Patton ""
+american_mbt_equipment_3:0 "M48 Patton"
+american_mbt_equipment_3_short:0 "M48"
+american_mbt_equipment_3_desc:0 " "
+
+# M60 Patton ""
+american_mbt_equipment_4:0 "M60 Patton"
+american_mbt_equipment_4_short:0 "M60"
+american_mbt_equipment_4_desc:0 " "
+
+#Square Techs ""
+tech_105mm:0 "105mm M4 Haubitze"
+tech_105mm_short:0 "105mm M4 Haubitze"
+tech_105mm_desc:0 " "
+tech_hvss:0 "HVSS"
+tech_hvss_short:0 "HVSS"
+tech_hvss_desc:0 "Horizontale Spiralfederung."
+tech_wet_stowage:0 "Nasses Munitionslager"
+tech_wet_stowage_short:0 "Nasses Munitionslager"
+tech_wet_stowage_desc:0 "Nasses Munitionslager"
+tech_76mm:0 "76-mm-Kanone M1"
+tech_76mm_short:0 "76-mm-Kanone M1"
+tech_76mm_desc:0 " "
+
+
+
+
+american_mbt_equipment:0 "Hauptkampfpanzer"
+american_mbt_equipment_desc:0 " "
+
+##NATION TECH## ""
+
+american_tech_1:0 "Vereinigte Staaten von Amerika"
+american_tech_2:0 "Vereinigte Staaten von Amerika"
+american_tech_3:0 "Vereinigte Staaten von Amerika"
+american_tech_4:0 "Vereinigte Staaten von Amerika"
+american_tech_5:0 "Vereinigte Staaten von Amerika"
+american_tech_6:0 "Vereinigte Staaten von Amerika"
+american_tech_7:0 "Vereinigte Staaten von Amerika"
