@@ -107,7 +107,7 @@
 #  # #  #   #  #  #  # #   #     #    #  #  #  #  #  #       #  #  # #  # #    #   #  #      #  ""
  ##   ##  ##   #   ##  #   #     #     ##  ### #  #  #       #   ##   ##  ###  #  ### #    ##   ""
 
- loses_political_support_points_15:0 "Verliert §R§R 15 §!§!  §H§H Politische Unterstützungspunkte §!§! .\n"
+ loses_political_support_points_15:0 "Verliert §R15 §!§!  §H§H Politische Unterstützungspunkte §!§! .\n"
  has_politcal_support_points_30:0 "Has at least §G30 §!§!  §H§H Politische Unterstützungspunkte §!§! . Wir haben derzeit [?Root.total_political_support_points|+0]."
  has_politcal_support_points_17:0 "Hat mindestens §G17 §!§!  §H§H Politische Unterstützungspunkte §!§! . Wir haben derzeit [?Root.total_political_support_points|+0]."
  is_current_leader_of_china:0 "Ist derzeitiger Staatschef von China"
@@ -136,7 +136,7 @@
  remove_support_in_state_5:0 "§H§H Local Support §!§!  §Y§Y -5 §!§! \n"
  remove_support_in_state_6:0 "§H§H Local Support §!§!  §Y§Y -6 §!§! \n"
  empty_key:0 ""
- other_political_support_down_1:0 "Dauerhaft verlieren §R§R 1 §!§!  §H§H Political Support Point §!§! "
+ other_political_support_down_1:0 "Dauerhaft verlieren §R1 §!§!  §H§H Political Support Point §!§! "
 
  WTT_seek_support_from_warlord:0 "Verhandeln um Unterstützung von [From.GetNameDef]"
  WTT_seek_support_from_warlord_cost_tt:0 "Die Kosten, um [Von.GetNameDef] dazu zu bringen, uns zu unterstützen, hängen von der Ideologie und ihrer Meinung über uns ab.\n"
@@ -333,7 +333,7 @@
  WTT_build_support_in_guangxi:0 "Unterstützung in Guangxi aufbauen §G([?599.state_political_support_value|+0]) §!§! "
  WTT_build_support_in_guangxi_desc:0 "§W§H§H [599.GetStateMajorityCountryName] §!§! hat §H§H State Majority §!§! und erhält [?599.state_political_support_value|+0] §H§H Political Support Points §!§! bis ein anderes Land eine höhere §H§H Local Support §!§! \n\n§H§H Lokale Unterstützung §!§! :\n[599.GetLocalStateSupport_CHI][599.GetLocalStateSupport_PRC][599.GetLocalStateSupport_GXC][599.GetLocalStateSupport_YUN][599.GetLocalStateSupport_SHX][599.GetLocalStateSupport_XSM][599.GetLocalStateSupport_SIK] §!§! "
  pp_per_day_neg_075:0 "£pol_power §Y§Y -0.75/Tag ($DAYS$) §!§! "
- pp_per_day_neg_075_blocked:0 "£pol_power §R§R -0.75/Tag §!§! "
+ pp_per_day_neg_075_blocked:0 "£pol_power §R-0.75/Tag §!§! "
 
  WTT_remove_opposition_in_fujian:0 "Opposition in Fujian beseitigen"
  WTT_remove_opposition_in_zhejiang:0 "Widerstand in Zhejiang aufheben"

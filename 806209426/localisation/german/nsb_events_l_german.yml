@@ -750,9 +750,9 @@
  NSB_soviet_paranoia_system_events.49.a:0 "Sie müssen zur Rechenschaft gezogen werden."
  NSB_soviet_paranoia_system_events.49.b:0 "Sie haben nur ihre Arbeit gemacht."
 
- NSB_soviet_paranoia_system_events.24_paranoia_accused_increase_tt:0 "£SOV_paranoia_text_icon Die politische Paranoia nimmt mit der Ebene des getilgten Truppenführers zu: §R§R [?SOV.SOV_angeklagter_Einheitsleiter_level] §!§! "
+ NSB_soviet_paranoia_system_events.24_paranoia_accused_increase_tt:0 "£SOV_paranoia_text_icon Die politische Paranoia nimmt mit der Ebene des getilgten Truppenführers zu: §R[?SOV.SOV_angeklagter_Einheitsleiter_level] §!§! "
  NSB_soviet_paranoia_system_events.24_paranoia_accused_decrease_tt:0 "£SOV_paranoia_text_icon Politische Paranoia nimmt mit der Stufe des bereinigten Anführers ab: §G[?SOV.SOV_accused_unit_leader_level] §!§! "
- NSB_soviet_paranoia_system_events.24_paranoia_both_increase_tt:0 "£SOV_paranoia_text_icon Politische Paranoia steigt mit der Stufe der nicht gesäuberten Anführer der Einheit: §R§R [?SOV.SOV_combined_unit_leader_level] §!§! "
+ NSB_soviet_paranoia_system_events.24_paranoia_both_increase_tt:0 "£SOV_paranoia_text_icon Politische Paranoia steigt mit der Stufe der nicht gesäuberten Anführer der Einheit: §R[?SOV.SOV_combined_unit_leader_level] §!§! "
  NSB_soviet_paranoia_system_events.24_paranoia_both_decrease_tt:0 "£SOV_paranoia_text_icon Politische Paranoia nimmt mit der Stufe der gesäuberten Truppenführer ab: §G[?SOV.SOV_combined_unit_leader_level] §!§! "
  SOV_purge_event_not_enough_pp_to_avoid_regular_tt:0 "\nDiese Säuberung kann nicht vermieden werden, da £GFX_pol_power §Y§Y $POLITICAL_POWER$ §!§! zum Zeitpunkt des Auslösens dieses Ereignisses positiv sein muss."
  SOV_purge_event_not_enough_pp_to_avoid_great_tt:0 "\nDiese große Säuberung kann nicht umgeleitet werden, weil £GFX_pol_power §Y§Y $POLITICAL_POWER$ §!§! zum Zeitpunkt des Auslösens dieses Ereignisses positiv sein muss."
@@ -765,7 +765,7 @@
  SOV_retire_purged_character_tt:0 "Ziehe §Y§Y [?ROOT.SOV_gesäuberte_Zeichen_für_Ort.GetName] §!§! aus §Y§Y [ROOT.GetName] §!§! ."
  SOV_retire_accused_character_tt:0 "Retire §Y§Y [?ROOT.SOV_accused_character_for_loc.GetName] §!§! from §Y§Y [ROOT.GetName] §!§! ."
  SOV_retire_accuser_character_tt:0 "Retire §Y§Y [?ROOT.SOV_accuser_character_for_loc.GetName] §!§! from §Y§Y [ROOT.GetName] §!§! ."
- SOV_characters_will_be_purged_tt:0 "§R§R Die folgenden Charaktere werden bereinigt und aus dem Spiel entfernt: §!§! "
+ SOV_characters_will_be_purged_tt:0 "§RDie folgenden Charaktere werden bereinigt und aus dem Spiel entfernt: §!§! "
 
  NSB_soviet_five_year_plan.01.t:0 "Dritter Fünfjahresplan gestoppt"
  NSB_soviet_five_year_plan.01.desc:0 "Mit dem gegenwärtigen Angriff auf das Mutterland ist es klar, dass unsere früheren Pläne für wirtschaftliches Wachstum nicht mehr durchführbar sind. Wir werden sie vielleicht wieder aufgreifen, sobald der Frieden wiederhergestellt ist, aber im Moment müssen wir uns auf die militärische Produktion konzentrieren."

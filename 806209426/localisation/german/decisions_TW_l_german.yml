@@ -1,7 +1,7 @@
 ﻿l_german:
 
  SOV_PCDI:0 "Volkskommissariat für die Verteidigungsindustrie"
- SOV_PCDI_desc:0 "\Mit der Westerweiterung der Union fordert das §R§R Volkskommissariat für Verteidigung §!§! die §GKonsolidierung und Reorganisation §!§! unserer in den westlichen Regionen stationierten Streitkräfte. Dies würde die Einrichtung eines neuen Militärbezirks in den wiedergewonnenen Gebieten und die Erweiterung der bestehenden Zone nach Westen einschließen.\n\n Weitere Maßnahmen werden den Bau einer neuen §g§g-Verteidigungslinie §!§! entlang der Grenze und die Verlegung der Truppen, die derzeit die Stalinlinie besetzen, nach Westen umfassen. Übungen, überarbeitete militärische Pläne und die Aufstellung zusätzlicher Divisionen sorgen für die Verstärkung unserer Bereitschaft und Stärke."
+ SOV_PCDI_desc:0 "\Mit der Westerweiterung der Union fordert das §RVolkskommissariat für Verteidigung §!§! die §GKonsolidierung und Reorganisation §!§! unserer in den westlichen Regionen stationierten Streitkräfte. Dies würde die Einrichtung eines neuen Militärbezirks in den wiedergewonnenen Gebieten und die Erweiterung der bestehenden Zone nach Westen einschließen.\n\n Weitere Maßnahmen werden den Bau einer neuen §g§g-Verteidigungslinie §!§! entlang der Grenze und die Verlegung der Truppen, die derzeit die Stalinlinie besetzen, nach Westen umfassen. Übungen, überarbeitete militärische Pläne und die Aufstellung zusätzlicher Divisionen sorgen für die Verstärkung unserer Bereitschaft und Stärke."
  molotov_line:0 "Bau der Molotow-Linie"
  dniper_forts:0 "Befestigung des südlichen Dnjepr"
  maginot_construction2:0 "Bau von §Y§Y-Befestigungen §!§! "
@@ -10,7 +10,7 @@
  free_workforce_pcdi:0 "Arbeitslose in der Kriegsindustrie"
  plan_ready:0 "Der Plan für §Y§Y Invasion von Deutschland §!§! ist fertig"
  may_1941_plan:0 "Der Plan vom Mai 1941"
- plan_ready_tt:0 "Erlaubt Ihnen §R§R Kriegserklärung §!§! an §Y§Y Deutschland §!§! "
+ plan_ready_tt:0 "Erlaubt Ihnen §RKriegserklärung §!§! an §Y§Y Deutschland §!§! "
 
  tolkach_mission:0 "Ziele des Fünfjahresplans"
  SOV_tolkach2:0 "Tolkach"
@@ -37,8 +37,8 @@
  GER_cause_this_is_afrika:0 "Bildung des Afrikakorps"
  SOV_armistice:0 "Waffenstillstand mit Deutschland"
 
- SOV_relocate_industry_from_ukraine_tt:0 "§R§R Diese Effekte erfordern die Kontrolle von Cherkasy, Dnipropetrovsk, Kharkov und Stalino, wenn die Entscheidung ausläuft §!§! "
- SOV_relocate_industry_from_riga_tt:0 "§R§R Diese Effekte erfordern die Kontrolle über Riga, wenn die Entscheidung ausläuft §!§! "
+ SOV_relocate_industry_from_ukraine_tt:0 "§RDiese Effekte erfordern die Kontrolle von Cherkasy, Dnipropetrovsk, Kharkov und Stalino, wenn die Entscheidung ausläuft §!§! "
+ SOV_relocate_industry_from_riga_tt:0 "§RDiese Effekte erfordern die Kontrolle über Riga, wenn die Entscheidung ausläuft §!§! "
  SOV_relocate_industry_from_ukraine:0 "Verlagerung der Industrie aus dem Gebiet Ukraine"
  SOV_relocate_industry_from_riga:0 "Verlagerung der Industrie aus Riga"
 
@@ -51,7 +51,7 @@
 
 
  FRA_forts:0 "Beendigung der Maginot-Linie"
- FRA_forts_desc:0 "§Y§Y Die Maginot-Linie §!§! Die Maginot-Linie §!§!, benannt nach dem großen französischen Kriegsminister André Maginot, ist eine Linie von Betonbefestigungen sowie Hindernissen und Waffenanlagen, die wir noch fertigstellen müssen, um §R§R §!§! die §Y§Y Deutschen §!§! daran zu hindern, im Falle einer Invasion in den §Gfranzösischen Boden einzudringen, werden diese Befestigungen dazu dienen, einen großen Teil unserer Arbeitskräfte einzusparen, während unsere stärkeren Verbündeten ihre industriellen Kräfte wecken, so dass wir in die Offensive gehen können!\n\n"
+ FRA_forts_desc:0 "§Y§Y Die Maginot-Linie §!§! Die Maginot-Linie §!§!, benannt nach dem großen französischen Kriegsminister André Maginot, ist eine Linie von Betonbefestigungen sowie Hindernissen und Waffenanlagen, die wir noch fertigstellen müssen, um §R§!§! die §Y§Y Deutschen §!§! daran zu hindern, im Falle einer Invasion in den §Gfranzösischen Boden einzudringen, werden diese Befestigungen dazu dienen, einen großen Teil unserer Arbeitskräfte einzusparen, während unsere stärkeren Verbündeten ihre industriellen Kräfte wecken, so dass wir in die Offensive gehen können!\n\n"
  abandon_maginot_idea:0 "Verwerfen Sie die Maginot-Idee"
  buildup_anti_air:0 "Baue §Y§Y Anti-Luft-Türme §!§! "
  buildup_turrets:0 "Bauen Sie §Y§Y Einziehbare Geschütztürme §!§! "
@@ -90,7 +90,7 @@
  ENG_develop_india_mic2:0 "Investieren Sie in die indische Armee"
  ITA_send_navs:0 "Schicken Sie Marinebomber nach Äthiopien"
 
- FIN_fascism_election:0 "§R§R Lapua-Bewegung §!§! gewinnt die §Y§Y Volksabstimmung §!§! "
+ FIN_fascism_election:0 "§RLapua-Bewegung §!§! gewinnt die §Y§Y Volksabstimmung §!§! "
  FIN_democratic_win:0 "§GAgrarische Liga §!§! gewann die §Y§Y-Wahl §!§! "
 
  CZE_sudetenland:0 "Entwicklung der Grenzbefestigungen"
@@ -287,7 +287,7 @@
  ROM_test_the_hungarians:0 "Testen Sie die Ungarn"
  ROM_test_the_hungarians2:0 "Beginnt einen §Y§Y-Grenzkonflikt §!§! "
  ROM_won_bd:0 "§GGewonnen §!§! den §Y§Y-Grenzkonflikt §!§! "
- ROM_lost_bd:0 "§R§R Lost §!§! the §Y§Y Border Conflict §!§! "
+ ROM_lost_bd:0 "§RLost §!§! the §Y§Y Border Conflict §!§! "
 
 
  elite_2_units:0 "Du erhältst §Y§Y 2 Elite-Infanterie §!§!  Divisionen"
@@ -305,7 +305,7 @@
  winter_offensive_decision_4_desc:0 "Operation Bagration"
  SOV_scorched_earth_caucasus_oil:0 "Verbrennen Sie die Ölfelder im Kaukasus"
  SOV_scorched_earth_caucasus_oil_desc:0 "Führen Sie Verbrannte Erde auf den Ölfeldern aus, indem Sie sie in Brand setzen. Sie werden 120 Tage lang brennen und der Großteil der Produktion wird zerstört."
- caucasus_oil_fields_burning_tt:0 "Die §R§R Deutschen §!§! werden nicht in der Lage sein, mit dem Wiederaufbau der Ölquellen zu beginnen, bis sie nach 120 Tagen ausgebrannt sind, es wird 180 Tage dauern, während sie 12 §Y§Y Zivile Fabriken §!§! zum Wiederaufbau verwenden."
+ caucasus_oil_fields_burning_tt:0 "Die §RDeutschen §!§! werden nicht in der Lage sein, mit dem Wiederaufbau der Ölquellen zu beginnen, bis sie nach 120 Tagen ausgebrannt sind, es wird 180 Tage dauern, während sie 12 §Y§Y Zivile Fabriken §!§! zum Wiederaufbau verwenden."
  SOV_order_227:0 "Befehl 227"
  SOV_order_227_desc:0 ""Es ist an der Zeit, den Rückzug zu beenden. Nicht einen Schritt zurück!"  SOV_verbrannte_Erde:0 "Taktik der verbrannten Erde umsetzen"
  SOV_scorched_earth_baltics:0 "Führen Sie Verbrannte Erde in Litauen aus"
@@ -521,13 +521,13 @@
  JAP_wargoal_for_china:0 "Krieg in China"
  JAP_wargoal_for_china_desc:0 "Wir werden China erobern, während wir nach anderen Möglichkeiten Ausschau halten"
  JAP_reorginized_china_instatement2:0 "Aufbau eines reorganisierten nationalistischen Chinas"
- JAP_reorginized_china_instatement2_desc:0 "Gründung des reorganisierten nationalistischen Chinas, um die lokalen Angelegenheiten in den neu erworbenen chinesischen Staaten zu regeln. Dies wird die Wirkung von Partisanenaktivitäten stark reduzieren und Japan dazu bringen, den Nationalen Geist zu vermeiden §R§R Lure-Them-In Guerillas. §!§! "
+ JAP_reorginized_china_instatement2_desc:0 "Gründung des reorganisierten nationalistischen Chinas, um die lokalen Angelegenheiten in den neu erworbenen chinesischen Staaten zu regeln. Dies wird die Wirkung von Partisanenaktivitäten stark reduzieren und Japan dazu bringen, den Nationalen Geist zu vermeiden §RLure-Them-In Guerillas. §!§! "
  JAP_reorginized_china_instatement3:0 "Übergabe des Territoriums an das reorganisierte nationalistische China"
  JAP_reorginized_china_instatement3_desc:0 "Übergabe der neu erworbenen Gebiete an die lokale Besatzungsregierung. Unsere Soldaten sprechen nicht einmal Chinesisch; um das Gebiet zu nutzen, müssen wir den Weg für ein chinesisches Marionettenregime ebnen."
  JAP_install_philip_puppet:0 "Entfachen Sie einen Bürgerkrieg auf den Philippinen"
  JAP_install_Indonesia_puppet:0 "Entfachen Sie einen Bürgerkrieg in Indonesien"
  JAP_install_Indonesia_puppet_desc:0 "Teilen und erobern"
- JAP_walkout_tooltip:0 "Dies wird uns aus dem Völkerbund herausdrängen §R§R (-5 Stabilität) §!§! "
+ JAP_walkout_tooltip:0 "Dies wird uns aus dem Völkerbund herausdrängen §R(-5 Stabilität) §!§! "
  JAP_walkout_tooltip_desc:0 "Wir haben die anderen Mitgliedsnationen zu sehr verärgert, indem wir Verträge gebrochen und die Spannungen in der Region verschärft haben."
  JAP_border_conflict_SHX_start:0 "Grenzkonflikt in Shanxi"
  JAP_border_conflict_SHX_start_desc:0 "Die Kriegsherren, aus denen China besteht, sind einer nach dem anderen schwach. Shanxi wird nicht in der Lage sein, ein Grenzscharmützel abzuwehren, bei dem wir wichtige Erkenntnisse über die Stärke der Chinesen gewinnen können. Unsere Marionettentruppen werden die Drecksarbeit erledigen, um vor dem Völkerbund nicht zu sehr unter Beschuss zu geraten."
@@ -570,7 +570,7 @@
  CHI_stalemate_delayed_tt:0 "Wenn wir diese Stadt verlieren, wird sich die Pattsituation um 15 Tage verzögern."
 
  less_rebels_tt:0 "Wird §G§!§! die Wahrscheinlichkeit von Rebellenaufständen verringern."
- more_rebels_tt:0 "Erhöht §R§R §!§! die Wahrscheinlichkeit von Rebellenaufständen.\n"
+ more_rebels_tt:0 "Erhöht §R§!§! die Wahrscheinlichkeit von Rebellenaufständen.\n"
  ###JAP### ""
 
 
@@ -683,7 +683,7 @@
  GER_setup_salo:0 "Operation Eiche"
  GER_setup_salo_desc:0 "Italien bricht zusammen und wir müssen die Kontrolle über das, was noch übrig ist, sichern! Die Operation Eiche" war die Befreiung des italienischen Diktators Benito Mussolini durch deutsche Fallschirmjäger unter der Führung von Major Otto-Harald Mors und Kommandos der Waffen-SS im September 1943 während des Zweiten Weltkriegs. Die Luftlandeoperation wurde von Adolf Hitler persönlich angeordnet, von Major Harald Mors geplant und durchgeführt und von General Kurt Student genehmigt."
  GER_winterclothing:0 "Schickt Winterkleidung!"
- GER_winterclothing1:0 "§R§R senkt die Strafe vom russischen Winter§"
+ GER_winterclothing1:0 "§Rsenkt die Strafe vom russischen Winter§"
  battle_of_bulge:0 "Unternehmen Wacht am Rhein"
  battle_of_bulge_desc:0 "Gewinnt die Initiative zurück, drängt die Alliierten zurück!"
  GER_margarette:0 "Unternehmen Margarethe"
@@ -737,7 +737,7 @@
  POL_warsawuprising:0 "Powstanie Warszawskie"
  POL_operationtempest:0 "Operacja Burza"
  POL_lithuania2:0 "Krieg gegen Litauen"
- POL_refuse:0 "§R§R Litauen verweigert§W"
+ POL_refuse:0 "§RLitauen verweigert§W"
  POL_resistance:0 "Leistet Widerstand!"
  POL_destruction:0 "Zerstöre die deutsche Kriegsmaschinerie!"
  GER_destroypol:0 "Zerstört ihren Untergrundstaat!"
@@ -768,7 +768,7 @@
  FIN_agriculture:0 "Agrarreformen und -gesetze"
  FIN_agriculture_desc:0 "Landwirtschaftliche Gesetze und Reformen, die Finnland in dieser Zeit durchführt"
 
- FIN_military3:0 "§R§R Wir werden kleine Heeresboni erhalten, wenn Deutschland den Herbst Blau§Weinleitet "
+ FIN_military3:0 "§RWir werden kleine Heeresboni erhalten, wenn Deutschland den Herbst Blau§Weinleitet "
  winterwar:0 "§Y§Y Der Winterkrieg§Wist §Y§Y vorbei§W"
 
  ###Speeches### ""

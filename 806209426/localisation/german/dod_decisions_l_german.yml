@@ -19,7 +19,7 @@
  YUG_abandon_communist_effort: "Unsere Bemühungen in [YUG_communist_coup_target.GetNameDef] aufgeben"
  YUG_abandon_communist_effort_desc: "Ganz offensichtlich sind die Menschen in [YUG_communist_coup_target.GetNameDef] noch nicht bereit dafür, sich von den Fesseln ihrer Regierung zu befreien. Wir müssen unsere Bemühungen aufgeben, dort einen kommunistischen Staatsstreich anzuzetteln."
  YUG_uprising_strength_tt: "Bei ihrer aktuellen Unterstützung beträgt die Stärke der §Y§Y Kommunisten §!§!  [YUG_communist_coup_target.Get_Yugo_Uprising_strength].\nDas basiert auf ihrer momentanen §Y§Y kommunistischen §!§!  Unterstützung und darauf, wie oft die Bauern bisher bewaffnet wurden."
- YUG_weak_communists: "§R§R Schwach §!§! "
+ YUG_weak_communists: "§RSchwach §!§! "
  YUG_average_communists: "§H§H Durchschnitt §!§! "
  YUG_strong_communists: "§GStark §!§! "
  YUG_very_strong_communists: "§GSehr stark §!§! "

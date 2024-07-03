@@ -47,7 +47,7 @@
  EAI_diplomacy_cancel_ignore_borders_DECISION_desc:0 "Erlaubt Ihren KI-gesteuerten Verbündeten, Truppen an die von Ihnen kontrollierten Grenzen zu schicken."
  CATEGORY_COLLAPSE_DESC:0 "§GKlicken Sie auf §!§! zum Zusammenbruch"
  CATEGORY_EXPAND_DESC:0 "§GZum Erweitern §!§! anklicken"
- DECISION_KEEP_NOTIFIED:1 "§H§H Benachrichtigen Sie §!§! \n\n§GKlicken Sie auf §!§! um §R§R nicht zu benachrichtigen §!§! wenn es möglich ist, diese Entscheidung zu treffen.\n"
+ DECISION_KEEP_NOTIFIED:1 "§H§H Benachrichtigen Sie §!§! \n\n§GKlicken Sie auf §!§! um §Rnicht zu benachrichtigen §!§! wenn es möglich ist, diese Entscheidung zu treffen.\n"
  DECISION_NOT_KEEP_NOTIFIED:1 "§H§H Benachrichtigen §!§! \n\n§GKlicken Sie §!§! bis §Gbenachrichtigt werden §!§! wenn es möglich ist, diese Entscheidung zu treffen.\n"
  TAKE_DECISION_HEADER:0 "§H§H Entscheidung treffen §!§! \n\n"
  DECISION_COST_DESC:0 "Es kostet £pol_power $VAL|H0$, die Entscheidung zu treffen"
