@@ -12,4 +12,4 @@
  WAR_TAKE_CLAIM_NAME:0 "$Order$$Erste$ Aggression für $Staat$"
  WAR_NAME_ITA_ETH:0 "Italienischer Krieg gegen Äthiopien"
  INDEPENDENCE_WAR_NAME:0 "$ORDER$$$FIRST$ Unabhängigkeitskrieg"
- create_puppet_wargoal_usa:0 "§H§H Marionette (Fokus) §!§! Kriegsziel erlangt durch §Y[ROOT.GetNameDef] §!§! "
+ create_puppet_wargoal_usa:0 "§HMarionette (Fokus) §!§! Kriegsziel erlangt durch §Y[ROOT.GetNameDef] §!§! "

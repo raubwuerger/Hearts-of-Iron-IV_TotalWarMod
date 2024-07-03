@@ -13,7 +13,7 @@
  PERMISSION_NOT_FRIENDLY_DESC: "Erforderlich für freundschaftliche Beziehungen"
  PERMISSION_NOT_NEUTRAL_DESC: "Erforderlich für neutrale Beziehungen"
  PERMISSION_HEADER: "Erlaubnisart $PERMISSION|H$:"
- PERMISSION_CURRENT_HEADER: "Erlaubnisart $PERMISSION|H$ (§H§H Aktuell §!§! ):"
+ PERMISSION_CURRENT_HEADER: "Erlaubnisart $PERMISSION|H$ (§HAktuell §!§! ):"
  PERMISSION_BLOCKED_DUE_TO: "Erlaubnis blockiert. Grund: $REASON$"
  PERMISSION_BLOCKED: "Erlaubnis blockiert.\n"
  PERMISSION_DESC: " - Armeen können passieren: $ARMY$\n - Flotten können passieren: $NAVY$\n - U-Boote können passieren: $SUBMARINES$\n - Handel kann passieren: $TRADE$"

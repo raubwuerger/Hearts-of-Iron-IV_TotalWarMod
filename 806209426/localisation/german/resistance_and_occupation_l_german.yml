@@ -10,7 +10,7 @@
  RESISTANCE_TARGET_MODIFIER_PER_STABILITY_LOSS:0 "Geringe Stabilität: $WERT|-%0$"
  RESISTANCE_TARGET_MODIFIER_PER_COMPLIANCE:0 "Einhaltung: $WERT|-%0$"
  RESISTANCE_TARGET_MODIFIER_STATE_VP:0 "Staatliche Siegpunkte £victory_points£: $WERT|-%0$"
- RESISTANCE_TARGET_CAP_FOR_NON_COMPLIANCE:0 "Das Widerstandsziel ist von $CUR_TARGET|%0H$ auf $CAP|%0H$ gedeckelt und §H§H Compliance §!§! wird benötigt, um es weiter zu reduzieren"
+ RESISTANCE_TARGET_CAP_FOR_NON_COMPLIANCE:0 "Das Widerstandsziel ist von $CUR_TARGET|%0H$ auf $CAP|%0H$ gedeckelt und §HCompliance §!§! wird benötigt, um es weiter zu reduzieren"
 
  RESISTANCE_DECAY_MODIFIER_HAS_CLAIM:0 "Controller hat Anspruch: $VALUE|+%0$"
  RESISTANCE_DECAY_MODIFIER_LOW_RESISTANCE:0 "Niedriger Widerstand: $VALUE|+%0$"
@@ -49,7 +49,7 @@
  RECRUITABLE_POPULATION_ENTRY:0 "Faktor für rekrutierbare Bevölkerung: $VALUE|+%0$"
 
  RESISTANCE_TARGET_FLOW:0 "Ausbreitung des Widerstands von $STATE|H$: $FLOW|-%1$"
- RESISTANCE_DISABLED_INFO:1 "Der Widerstand wird derzeit erfolgreich unterdrückt und kann erst dann weiter wachsen, wenn §H§H Resistance Target §!§! den $LIMIT|%0H$ erreicht"
+ RESISTANCE_DISABLED_INFO:1 "Der Widerstand wird derzeit erfolgreich unterdrückt und kann erst dann weiter wachsen, wenn §HResistance Target §!§! den $LIMIT|%0H$ erreicht"
 
  OCCUPATION_POLICY_AVAILABLE:0 "Verfügbar:"
  OCCUPATION_POLICY_STATE_MODIFIER:0 "Zustandsmodifikator:"
@@ -115,18 +115,18 @@
  OCCUPATION_CHANGE_GARRISON_STATE_TEMPLATE_TOOLTIP:0 "$SELECTED_TEMPLATE|H$\nGarnisonsteilungsvorlage für $OCCUPIED_STATE|H$ ändern"
  OCCUPATION_GARRISON_STRENGTH_TOOLTIP:2 "Wir brauchen $NUMBER|H$ Divisionen von $SELECTED_TEMPLATE|H$ als Garnison zum Schutz gegen den aktuellen Widerstand.\nDiese Garnison ist derzeit $PERCENTAGE|H0%$ effizient."
  OCCUPATION_GARRISON_STRENGTH_VARIOUS_TOOLTIP:2 "Wir benötigen $NUMBER|H$ Abteilungen verschiedener Vorlagen als Garnison, um uns gegen den aktuellen Widerstand zu schützen.\nDiese Garnison ist derzeit $PERCENTAGE|H0%$ effizient."
- OCCUPATION_USE_DEFAULT_TEMPLATE:0 "§H§H Standardvorlage verwenden §!§! "
+ OCCUPATION_USE_DEFAULT_TEMPLATE:0 "§HStandardvorlage verwenden §!§! "
  OCCUPATION_BAD_GARRISON_SPECIAL_FORCES:1 "§RDiese Vorlage kann nicht gewählt werden, da sie entweder Spezialeinheiten enthält oder diese Vorlage nicht als Garnison verwendet werden kann. §!§! "
- OCCUPATION_BAD_GARRISON_NO_SUPPRESSION:0 "§RSie können diese Vorlage nicht wählen, weil ihr Unterdrückungswert §H§H 0 ist §!§! . §!§! "
+ OCCUPATION_BAD_GARRISON_NO_SUPPRESSION:0 "§RSie können diese Vorlage nicht wählen, weil ihr Unterdrückungswert §H0 ist §!§! . §!§! "
  OCCUPATION_NO_GARRISON_NEEDED:0 "Keine Garnison benötigt"
- OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION:0 "§RDer Unterdrückungswert einer Garnisonsvorlage ist §H§H 0 §!§! . Bitte wählen Sie einen anderen Wert. §!§! "
+ OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION:0 "§RDer Unterdrückungswert einer Garnisonsvorlage ist §H0 §!§! . Bitte wählen Sie einen anderen Wert. §!§! "
  GARRISON_ENTRY_MANPOWER_TOOLTIP:0 "Mannstärke pro Unterdrückung: $MANPOWER|*H$\nMannstärke pro Division: $MANPOWERDIV|*H$"
  GARRISON_ENTRY_IC_TOOLTIP:0 "Produktionskosten pro Unterdrückung: £production_cost£$IC|*H$\nProduktionskosten pro Abteilung: £production_cost£$ICDIV|*H$"
- GARRISON_HARDNESS_TOOLTIP:0 "§H§H Härte §!§! \nDie Härte einer Vorlage verringert die Verluste bei der Widerstandsaktivität."
+ GARRISON_HARDNESS_TOOLTIP:0 "§HHärte §!§! \nDie Härte einer Vorlage verringert die Verluste bei der Widerstandsaktivität."
  LAW_BONUS_SCALED:0 "§RDieses Gesetz entfaltet seine volle Wirkung erst, wenn der Bedarf der Garnison vollständig gedeckt ist. §!§! "
 
  GARRISON_LOG:0 "Garnisonslogbuch"
- GARRISON_LOG_LOSSES_IN_IC:0 "§H§H Verlorene Ausrüstung: §!§!  £production_cost£$NUM|*$"
+ GARRISON_LOG_LOSSES_IN_IC:0 "§HVerlorene Ausrüstung: §!§!  £production_cost£$NUM|*$"
  GARRISON_LOG_RESISTANCE_ACTIVITY:0 "Aktivitäten des Widerstands"
  GARRISON_LOG_EMPTY_ACTIVITY:0 "Keine Aktivität in $TIME$."
  GARRISON_LOG_ACTIVITY_STOPPED:0 "Aktivität durch die Garnison gestoppt"
@@ -134,7 +134,7 @@
 
  OCCUPATION_CHANGE_DEFAULT_LAW_TOOLTIP:0 "Standard-Garrison-Gesetz ändern"
  OCCUPATION_RESISTANCE_TAB_TOOLTIP:0 "Zeige §H§H-Widerstand §!§! auf der Karte."
- OCCUPATION_COMPLIANCE_TAB_TOOLTIP:0 "Zeige §H§H Compliance §!§! auf der Karte."
+ OCCUPATION_COMPLIANCE_TAB_TOOLTIP:0 "Zeige §HCompliance §!§! auf der Karte."
  OCCUPATION_ZOOM_TO_STATE_TOOLTIP:0 "§GKlicken Sie auf §!§!, um in den/die besetzten Staat(en) zu zoomen"
 
  resistance_25:0 "Organisierter Widerstand"
