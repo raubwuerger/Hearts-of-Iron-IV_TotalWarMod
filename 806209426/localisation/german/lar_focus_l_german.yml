@@ -659,7 +659,7 @@
  FRA_division_cuirassee:0 "Division Cuirassée"
  FRA_division_cuirassee_desc:0 "Ein unternehmungslustiger Offizier namens de Gaulle hat eine neue Art von Division vorgeschlagen, bei der schwere Panzer mit Infanterie und mittleren Panzern kombiniert werden, um als ein gemeinsames Ganzes zu kämpfen."
  FRA_division_cuirassee_tt:0 "\nGewinnen Sie zwei gut ausgebildete §Y§Y-Panzer-Divisionen §!§! mit 4 Panzerbataillonen, 4 semi-motorisierten, 3 mot-Artillerie und einer mot-Panzerabwehrkompanie.\n"
- FRA_division_cuirassee2_tt:0 "Erhalte §G§G Verbesserte Vorlage §!§! indem du die beiden folgenden Techs hast: §C§C Char-B1-Bis §!§! und §C§C Samua S35 §!§! \n Upgrade auf §G§G Vollmotorisiert §!§! mit der §Y§Y De Gaulle Strategie §!§! ."
+ FRA_division_cuirassee2_tt:0 "Erhalte §G§G Verbesserte Vorlage §!§! indem du die beiden folgenden Techs hast: §CChar-B1-Bis §!§! und §CSamua S35 §!§! \n Upgrade auf §G§G Vollmotorisiert §!§! mit der §Y§Y De Gaulle Strategie §!§! ."
  FRA_char_b1_bis:0 "Char B1 Suprême"
  FRA_char_b1_bis_desc:0 "Unser schwerer Panzer 'Char B1' hat großes Potenzial gezeigt, wir müssen in die Entwicklung einer besseren, verbesserten Version investieren."
  FRA_infantry_tanks:0 "Infanterie-Panzer"

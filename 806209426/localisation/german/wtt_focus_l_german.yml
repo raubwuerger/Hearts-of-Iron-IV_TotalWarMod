@@ -881,7 +881,7 @@
  JAP_torpedo_cruisers:0 "Torpedokreuzer"
  JAP_torpedo_cruisers_desc:0 "Wir werden eine ganze Klasse von Schiffen mit einer großen Anzahl unserer neuen Torpedos ausstatten, damit sie der feindlichen Flotte Schaden zufügen können."
  JAP_yamato_tt:0 "Fügt zwei Superschlachtschiffe der Yamato-Klasse §Y§Y §!§! in die Produktionswarteschlange ein, die zu §Y§Y 40% §!§! bzw. zu §Y§Y 30% §!§! fertiggestellt sind."
- JAP_yamato_tt2:0 "Erhalte §G§G Verbessertes Design §!§! durch die folgenden Techs: §C§C Verbessertes Katapult für Flugzeuge §!§! , §C§C Typ 93 13,2mm AA §!§! , und §C§C 20cm/50 Tp No3 Improved Medium Battery §!§! "
+ JAP_yamato_tt2:0 "Erhalte §G§G Verbessertes Design §!§! durch die folgenden Techs: §CVerbessertes Katapult für Flugzeuge §!§! , §CTyp 93 13,2mm AA §!§! , und §C20cm/50 Tp No3 Improved Medium Battery §!§! "
  cost_reduced_last_stand:1 "Ermöglicht den Einsatz der Kommandofähigkeit §Y§Y Last Stand §!§! zu stark reduzierten Kosten.\n"
  MAN_pacify_the_countryside:0 "Befriedet das Land"
  MAN_pacify_the_countryside_desc:0 "Seit wir an der Macht sind, haben Geächtete und Rebellen versucht, unsere Herrschaft in den entlegeneren Gebieten des Landes anzufechten. Wenn wir als Regierung ernst genommen werden wollen, müssen wir diese Terroristen ausrotten und der Bevölkerung zeigen, dass wir unsere Herrschaft durchsetzen können."
