@@ -38,7 +38,7 @@
  LL_TO_OVERLORD_FREEDOM_EFFECT:0 "Subjekt leiht Leasing an Overlord"
  LL_TO_PUPPET_FREEDOM_EFFECT:0 "Overlord leiht Leasing an Subjekt"
  MONTHLY_LL_FREEDOM_TO_PUPPET:0 "$FLAG$ $VALUE|-2$"
- MONTHLY_LL_FREEDOM_TO_MASTER:0 "$WERT|+2$"
+ MONTHLY_LL_FREEDOM_TO_MASTER:0 "$VALUE|+2$"
  MONTHLY_LL_FREEDOM_VALUE_DESC:0 "Monatliche Auswirkung auf die Autonomie im Falle einer vollständigen Lieferung"
  MONTHLY_LL_FREEDOM_DESC:0 "Monatlich nach Vollablieferung $COUNTRY|H$ erhält £autonomy_texticon $VALUE|+=2$ "
  MONTHLY_REQUEST_LL_TO_MASTER:0 "§RDie Beantragung eines Leihvertrags bei Puppet kann ihnen mehr Autonomie geben§!"

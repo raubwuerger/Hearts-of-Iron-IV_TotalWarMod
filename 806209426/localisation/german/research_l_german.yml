@@ -27,7 +27,7 @@
  RESEARCH_EXCLUSIVE_INFO_ENTRY:0 "$TECH|Y$"
  RESEARCH_YEAR_AHEAD_PENALTY_NO_VALUE:0 "§RDie Technologie ist $YEARS|2$ Jahre der Zeit voraus. Je weiter sie der Zeit voraus ist, desto größer ist der Zeitnachteil.§!"
  RESEARCH_YEAR_AHEAD_PENALTY:1 "§RTechnologie ist $YEARS|2$ Jahre der Zeit voraus (+$VALUE|%0$). Die Strafe wird mit der Zeit abnehmen.§!"
- RESEARCH_YEAR_AHEAD_PENALTY_RED:2 "§RDie Technologie ist der Zeit $JAHRE|2$ Jahre voraus (+$WERT|%0$), aber der Zeitvorsprung wurde aufgrund nationaler Schwerpunkte um $REDUZIERTE_JAHRE|.1$ Jahre (+$RED|%0$) reduziert. Die Strafe wird mit der Zeit abnehmen.§!"
+ RESEARCH_YEAR_AHEAD_PENALTY_RED:2 "§RDie Technologie ist der Zeit $JAHRE|2$ Jahre voraus (+$VALUE|%0$), aber der Zeitvorsprung wurde aufgrund nationaler Schwerpunkte um $REDUZIERTE_JAHRE|.1$ Jahre (+$RED|%0$) reduziert. Die Strafe wird mit der Zeit abnehmen.§!"
  RESEARCH_TECH_UNUSED:1 "§GKlicken Sie, um zu recherchieren§!\nSie können innerhalb von 50 Tagen ein neues Forschungsgebiet wählen, ohne dass Sie Forschungszeit verlieren."
  RESEARCH_NO_LONGER_AVAILABLE:0 "$RESEARCH|H$\n§RNicht mehr verfügbar - Wird am nächsten Tag entfernt§!"
  RESEARCH_EQUIPMENT_HEADER:0 "Ausrüstung"

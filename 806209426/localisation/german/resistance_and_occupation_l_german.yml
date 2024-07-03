@@ -1,24 +1,24 @@
 ﻿l_german:
  RESISTANCE_TARGET_VALUE:0 "Widerstandsziel: $VALUE|H%0$"
  RESISTANCE_TARGET_VALUE_CAPPED:0 "Widerstandsziel: $VALUE|H%0$ (Gekappt von $VALUE_NON_CAPPED|H%0$)"
- RESISTANCE_TARGET_MODIFIER_HAS_CLAIM:0 "Controller hat Anspruch: $WERT|-%0$"
+ RESISTANCE_TARGET_MODIFIER_HAS_CLAIM:0 "Controller hat Anspruch: $VALUE|-%0$"
  RESISTANCE_TARGET_MODIFIER_IS_AT_PEACE:0 "Kontrolleur hat Frieden: $VALUE|-%0$"
  RESISTANCE_TARGET_MODIFIER_OCCUPIED_CAPITULATED:1 "Besetzt ist kapituliert: $VALUE|-%0$"
  RESISTANCE_TARGET_MODIFIER_OCCUPIED_IS_EXILE:1 "Besetzt ist im Exil: $VALUE|-%0$"
  RESISTANCE_TARGET_MODIFIER_POP_LOW:0 "Staat mit geringer Bevölkerungszahl: $VALUE|-%0$"
  RESISTANCE_TARGET_MODIFIER_POP_VERY_LOW:0 "Sehr bevölkerungsarmer Staat: $VALUE|-%0$"
- RESISTANCE_TARGET_MODIFIER_PER_STABILITY_LOSS:0 "Geringe Stabilität: $WERT|-%0$"
- RESISTANCE_TARGET_MODIFIER_PER_COMPLIANCE:0 "Einhaltung: $WERT|-%0$"
- RESISTANCE_TARGET_MODIFIER_STATE_VP:0 "Staatliche Siegpunkte £victory_points£: $WERT|-%0$"
+ RESISTANCE_TARGET_MODIFIER_PER_STABILITY_LOSS:0 "Geringe Stabilität: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_PER_COMPLIANCE:0 "Einhaltung: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_STATE_VP:0 "Staatliche Siegpunkte £victory_points£: $VALUE|-%0$"
  RESISTANCE_TARGET_CAP_FOR_NON_COMPLIANCE:0 "Das Widerstandsziel ist von $CUR_TARGET|%0H$ auf $CAP|%0H$ gedeckelt und §HCompliance§!wird benötigt, um es weiter zu reduzieren"
 
  RESISTANCE_DECAY_MODIFIER_HAS_CLAIM:0 "Controller hat Anspruch: $VALUE|+%0$"
  RESISTANCE_DECAY_MODIFIER_LOW_RESISTANCE:0 "Niedriger Widerstand: $VALUE|+%0$"
- RESISTANCE_DECAY_VALUE:0 "Widerstandsabfall: §G$WERT|3$%§!"
- RESISTANCE_DECAY_VALUE_CAPPED:0 "Widerstand Verfall: §G$WERT|3$%§! (Gekappt von §G$VALUE_NON_CAPPED|3$%§!)"
+ RESISTANCE_DECAY_VALUE:0 "Widerstandsabfall: §G$VALUE|3$%§!"
+ RESISTANCE_DECAY_VALUE_CAPPED:0 "Widerstand Verfall: §G$VALUE|3$%§! (Gekappt von §G$VALUE_NON_CAPPED|3$%§!)"
 
- RESISTANCE_GROWTH_VALUE:0 "Wachstum des Widerstands: §R$WERT|3$%§!"
- RESISTANCE_GROWTH_VALUE_CAPPED:0 "Widerstandswachstum: §R$WERT|3$%§! (Gekappt von §R$VALUE_NON_CAPPED|3$%§!)"
+ RESISTANCE_GROWTH_VALUE:0 "Wachstum des Widerstands: §R$VALUE|3$%§!"
+ RESISTANCE_GROWTH_VALUE_CAPPED:0 "Widerstandswachstum: §R$VALUE|3$%§! (Gekappt von §R$VALUE_NON_CAPPED|3$%§!)"
 
  RESISTANCE_STRENGTH:1 "Widerstand Stärke: $TOT|%2-$"
  RESISTANCE_EFFECTS:1 "Widerstands-Effekte:"
@@ -26,18 +26,18 @@
 
  COMPLIANCE_STRENGTH:0 "Einhaltung Stärke: $TOT|%2+$"
 
- COMPLIANCE_GROWTH_VALUE:0 "Compliance Wachstum: §G$WERT|3$%§!"
- COMPLIANCE_GROWTH_VALUE_CAPPED:0 "Konformitäts-Wachstum: §G$WERT|3$%§! (Gekappt von §G$WERT_NON_CAPPED|3$%§!)"
+ COMPLIANCE_GROWTH_VALUE:0 "Compliance Wachstum: §G$VALUE|3$%§!"
+ COMPLIANCE_GROWTH_VALUE_CAPPED:0 "Konformitäts-Wachstum: §G$VALUE|3$%§! (Gekappt von §G$VALUE_NON_CAPPED|3$%§!)"
 
- COMPLIANCE_DECAY_VALUE:0 "Einhaltung Wachstum: §R$WERT|3$%§!"
- COMPLIANCE_DECAY_VALUE_CAPPED:0 "Einhaltung Wachstum: §R$WERT|3$%§! (Gekappt von §R$WERT_NON_CAPPED|3$%§!)"
+ COMPLIANCE_DECAY_VALUE:0 "Einhaltung Wachstum: §R$VALUE|3$%§!"
+ COMPLIANCE_DECAY_VALUE_CAPPED:0 "Einhaltung Wachstum: §R$VALUE|3$%§! (Gekappt von §R$VALUE_NON_CAPPED|3$%§!)"
 
  COMPLIANCE_GROWTH_HAS_CLAIM:0 "Kontrolleur hat Anspruch: $VALUE|+%0$"
  COMPLIANCE_GROWTH_IS_AT_PEACE:0 "Kontrolleur ist in Frieden: $VALUE|+%0$"
 
  COMPLIANCE_DECAY_INFO:0 "Zusätzliche Compilance-Änderung:"
- COMPLIANCE_DECAY_DUE_TO_COMPLIANCE:0 "Hohe Übereinstimmung: §R$WERT|3$%§!"
- COMPLIANCE_DECAY_PER_EXILE_LEGITIMACY:1 "Besetzt ist im Exil: §R$WERT|3$%§!"
+ COMPLIANCE_DECAY_DUE_TO_COMPLIANCE:0 "Hohe Übereinstimmung: §R$VALUE|3$%§!"
+ COMPLIANCE_DECAY_PER_EXILE_LEGITIMACY:1 "Besetzt ist im Exil: §R$VALUE|3$%§!"
  reconciliation:0 "Versöhnung"
  RESISTANCE:0 "Widerstand"
  COMPLIANCE:0 "Einhaltung"
