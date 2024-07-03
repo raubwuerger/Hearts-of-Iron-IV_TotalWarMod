@@ -137,7 +137,7 @@
  POL_authoritarianism_focus:0 "Autoritarismus"
  POL_polish_revanchism_focus:0 "Polnischer Revanchismus"
  POL_internationalism_focus:0 "Internationalismus"
- POL_invite_to_faction_tooltip:0 "ist eingeladen, [Root.GetFlag]§Y§Y [Root.GetName] §!§! 's Fraktion.\n"
+ POL_invite_to_faction_tooltip:0 "ist eingeladen, [Root.GetFlag]§Y[Root.GetName] §!§! 's Fraktion.\n"
  POL_determination:0 "Polnische Entschlossenheit"
  POL_determination_desc:0 "Wir müssen entschlossen sein und wir werden gegen unsere stärkeren und mächtigeren Feinde gewinnen"
  POL_election:0 "Wahl abhalten"
