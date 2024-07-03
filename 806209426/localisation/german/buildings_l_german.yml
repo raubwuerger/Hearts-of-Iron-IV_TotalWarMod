@@ -83,7 +83,7 @@
  BUILDING_SLOT_REMOVE_BUILDING_LEVEL: "Gebäude um eine Stufe zurückbauen."
  BUILDING_SLOT_REMOVE_CONSTRUCTION_LEVEL: "Gebäude um eine Baustufe zurückbauen."
  BUILDING_SLOT_REMOVE_CONVERSION_LEVEL: "Gebäudeumwandlung rückgängig machen."
- BUILDING_SLOT_REMOVE_COOLDOWN: "In Kriegszeiten können Gebäude nur einmal alle $DAYS|Y$ Tage entfernt werden. Das nächste Gebäude kann am $DATE|Y$ entfernt werden."
+ BUILDING_SLOT_REMOVE_COOLDOWN: "In Kriegszeiten können Gebäude nur einmal alle $DAYS|Y$ DAYSe entfernt werden. Das nächste Gebäude kann am $DATE|Y$ entfernt werden."
  CLICK_TO_CONVERT: "§GKlicken§!, um in $BUILDING|Y$ umzuwandeln"
  INSERT_CONVERSION: "§GStrg + Klicken§!, um umzuwandeln und an die Spitze der Warteliste zu setzen."
  INSERT_CONSTRUCTION: "§GStrg + Klicken§!, um zu bauen und an die Spitze der Warteliste zu setzen."

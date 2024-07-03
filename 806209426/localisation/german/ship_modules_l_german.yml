@@ -191,7 +191,7 @@
  ship_torpedo_sub_1_desc:0 "Ein einfacher Satz Torpedorohre, die vom Inneren des U-Boots aus nachgeladen werden können."
  ship_torpedo_sub_2:0 "6x 450-mm-Torpedorohre"
  ship_torpedo_sub_2_short:0 "Torpedorohre II"
- ship_torpedo_sub_2_desc:0 "Ein größerer Torpedoraum ermöglicht die Montage von mehr Torpedoro-Rohren. Außerdem bietet er etwas mehr Lebensraum für die Besatzung."
+ ship_torpedo_sub_2_desc:0 "Ein größerer Torpedoraum ermöglicht die MonDAYSe von mehr Torpedoro-Rohren. Außerdem bietet er etwas mehr Lebensraum für die Besatzung."
  ship_torpedo_sub_3:0 "4x 533mm Torpedorohre"
  ship_torpedo_sub_3_short:0 "Torpedorohre III"
  ship_torpedo_sub_3_desc:0 "Ein Satz größerer Torpedorohre ermöglicht es den U-Booten, größere Torpedos abzuschießen."

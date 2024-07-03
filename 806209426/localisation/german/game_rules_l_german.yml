@@ -281,7 +281,7 @@
  RULE_OPTION_OBEDIENCE_MAN_AI_DESC:0 "Die Mandschu-KI wird versuchen, so weit wie möglich loyal zu bleiben und dem entsprechenden Zweig des nationalen Fokusbaums zu folgen."
  RULE_OPTION_INDEPENDENCE_MAN_AI_DESC:0 "Die Mandschu-KI wird versuchen, sich zu befreien und ganz China zu übernehmen, indem sie der entsprechenden Verzweigung des nationalen Fokusbaums folgt."
  RULE_ALLOW_GUARANTEES_SAME_IDEOLOGY_TOOLTIP:0 "Spielregel: §RLänder können nur Länder garantieren, die ihre herrschende Ideologie teilen.§!"
- RULE_ALLOW_GUARANTEES_BLOCKED_TOOLTIP:0 "Spielregel: §R§R-Länder können niemals für andere Länder bürgen.§!"
+ RULE_ALLOW_GUARANTEES_BLOCKED_TOOLTIP:0 "Spielregel: §R-Länder können niemals für andere Länder bürgen.§!"
  RULE_ALLOW_MILITARY_ACCESS_SAME_IDEOLOGY_TT:0 "Spielregel: §RLänder können militärischen Zugang und Andockrechte von Ländern erhalten, die dieselbe herrschende Ideologie teilen.§!"
  RULE_ALLOW_MILITARY_ACCESS_BLOCKED_TT:0 "Spielregel: §RLänder können niemals militärischen Zugang und Andockrechte von einem anderen Land außerhalb einer Fraktion erhalten.§!"
  RULE_ALLOW_LEND_LEASE_SAME_IDEOLOGY_TT:0 "Spielregel: §RLänder dürfen EQUIPMENT nur an Länder der gleichen herrschenden Ideologie verleihen.§!"

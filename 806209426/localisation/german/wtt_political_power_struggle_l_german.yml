@@ -205,7 +205,7 @@
  wtt_political_organisation.11.desc:0 "Unsere Kampagne zur Unterdrückung der Unterstützung für [majority_country.GetLeader] scheint bei weitem nicht erfolgreich gewesen zu sein. Trotz unserer besten Bemühungen unterstützt eine Mehrheit der Bürger in [Staat.Name] immer noch [Mehrheit_Land.Führer_holen]."
  wtt_political_organisation.11.a:0 "Möglicherweise müssen wir die Botschaft mit Nachdruck vermitteln."
  wtt_political_organisation.12.t:0 "Die Unterdrückung in [Staat.GetName]"
- wtt_political_organisation.12.desc_not_majority:0 "[Staat.Name] erlebt eine noch nie dagewesene Welle politischer Gewalt. Straßenschlachten zwischen Anhängern von [Von.GetLeader] und [Mehrheit_Land.GetLeader] sind an der Tagesordnung. Im Moment sieht es so aus, als ob [Mehrheit_Land.GetLeader] immer noch die Mehrheit der Bevölkerung hinter sich hat."
+ wtt_political_organisation.12.desc_not_majority:0 "[Staat.Name] erlebt eine noch nie dagewesene Welle politischer Gewalt. Straßenschlachten zwischen Anhängern von [Von.GetLeader] und [Mehrheit_Land.GetLeader] sind an der DAYSesordnung. Im Moment sieht es so aus, als ob [Mehrheit_Land.GetLeader] immer noch die Mehrheit der Bevölkerung hinter sich hat."
  wtt_political_organisation.12.desc_has_majority:0 "Agenten von [Von.GetLeader] in [Staat.GetName] haben eine Kampagne der Einschüchterung und des politischen Terrors gestartet. Es liegen Berichte vor, dass Bürger, die uns unterstützen, öffentlich schikaniert und als Verräter gebrandmarkt werden. Parteifunktionäre wurden verprügelt und einige unserer Büros wurden niedergebrannt. Trotz alledem weigert sich die Mehrheit der lokalen Bevölkerung, sich dem Terror zu beugen und unterstützt uns weiterhin."
  wtt_political_organisation.12.a:0 "Wir werden siegen."
 
@@ -332,8 +332,8 @@
  WTT_build_support_in_nanning_desc:0 "§W§H[594.GetStateMajorityCountryName]§!hat §HState Majority§!und erhält [?594.state_political_support_value|+0] §HPolitical Support Points§!bis ein anderes Land eine höhere §HLocal Support§!\n\n§HLokale Unterstützung§!:\n[594.GetLocalStateSupport_CHI][594.GetLocalStateSupport_PRC][594.GetLocalStateSupport_GXC][594.GetLocalStateSupport_YUN][594.GetLocalStateSupport_SHX][594.GetLocalStateSupport_XSM][594.GetLocalStateSupport_SIK]§!"
  WTT_build_support_in_guangxi:0 "Unterstützung in Guangxi aufbauen §G([?599.state_political_support_value|+0])§!"
  WTT_build_support_in_guangxi_desc:0 "§W§H[599.GetStateMajorityCountryName]§!hat §HState Majority§!und erhält [?599.state_political_support_value|+0] §HPolitical Support Points§!bis ein anderes Land eine höhere §HLocal Support§!\n\n§HLokale Unterstützung§!:\n[599.GetLocalStateSupport_CHI][599.GetLocalStateSupport_PRC][599.GetLocalStateSupport_GXC][599.GetLocalStateSupport_YUN][599.GetLocalStateSupport_SHX][599.GetLocalStateSupport_XSM][599.GetLocalStateSupport_SIK]§!"
- pp_per_day_neg_075:0 "£pol_power §Y-0.75/Tag ($DAYS$)§!"
- pp_per_day_neg_075_blocked:0 "£pol_power §R-0.75/Tag§!"
+ pp_per_day_neg_075:0 "£pol_power §Y-0.75/DAYS ($DAYS$)§!"
+ pp_per_day_neg_075_blocked:0 "£pol_power §R-0.75/DAYS§!"
 
  WTT_remove_opposition_in_fujian:0 "Opposition in Fujian beseitigen"
  WTT_remove_opposition_in_zhejiang:0 "Widerstand in Zhejiang aufheben"

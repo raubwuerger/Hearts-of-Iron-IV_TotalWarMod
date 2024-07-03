@@ -274,7 +274,7 @@
  ITA_motorized_AC_equipment_08_desc:0 "Die Autoblinda 41 war eine Weiterentwicklung der maschinengewehrbewaffneten AB 40. Der AB 41 war komplett genietet, hatte einen Vierradantrieb und eine Vierradlenkung, die sich als problematisch erwies, und verfügte über eine neue Bewaffnung mit einer 20-mm-Hochgeschwindigkeits-Panzerabwehrkanone, einer koaxialen 8-mm-Maschinenkanone vom Typ Breda Modell 1938 und einer weiteren im hinteren Teil der Wanne. Ein neuer SPA-Motor war erforderlich, um das zusätzliche Gewicht des Turms (der vom L6/40 übernommen wurde) von insgesamt 7,5 Tonnen zu bewältigen und erreichte mit seinen 120 PS eine Höchstgeschwindigkeit von 71 km/h. Dieser Motor hatte auch ein höheres Drehmoment, um eine bessere Geländegängigkeit zu gewährleisten. Das komplizierte System mit Allradantrieb und Vierradlenkung erforderte einen Hintermann, der die sechs Vorwärts- und vier Rückwärtsgänge bediente. Das war im Betrieb nie wirklich praktisch. Außerdem gab es eine ganze Reihe von Mängeln."
  ITA_motorized_AC_equipment_09:0 "SPA-Viberti AS.42"
  ITA_motorized_AC_equipment_09_short:0 "SPA-Viberti AS.42"
- ITA_motorized_AC_equipment_09_desc:0 "Dies war ein - zunächst - unbewaffneter Spähwagen, der aber bald eine schwere Bewaffnung erhielt. Der SPA-Viberti AS 42 wurde schnell entwickelt und 1942 produziert. Das Fahrgestell des AB 41 wurde im Wesentlichen beibehalten, aber die Wanne wurde komplett umgestaltet und nahm eine Form an, die an den deutschen Kübelwagen erinnerte. Die Vorderseite war abgeschrägt und beherbergte ein massives Reserverad, die Kotflügel wurden neu gestaltet, und der offene Mittelraum wurde durch einen Rahmen verstärkt. Der Motor war der FIAT-SPA 8-Zylinder-Benzinmotor mit 120 PS. Das Gesamtgewicht verringerte sich um 2 Tonnen, so dass die Fahrleistungen erheblich verbessert wurden. Der große offene Mittelraum ermöglichte die Montage einer beachtlichen Bewaffnung, die eine AA Breda 20 mm Autokanone modello 1935, Breda 13 mm Maschinengewehre, 20 mm oder andere Maschinengewehre umfassen konnte."
+ ITA_motorized_AC_equipment_09_desc:0 "Dies war ein - zunächst - unbewaffneter Spähwagen, der aber bald eine schwere Bewaffnung erhielt. Der SPA-Viberti AS 42 wurde schnell entwickelt und 1942 produziert. Das Fahrgestell des AB 41 wurde im Wesentlichen beibehalten, aber die Wanne wurde komplett umgestaltet und nahm eine Form an, die an den deutschen Kübelwagen erinnerte. Die Vorderseite war abgeschrägt und beherbergte ein massives Reserverad, die Kotflügel wurden neu gestaltet, und der offene Mittelraum wurde durch einen Rahmen verstärkt. Der Motor war der FIAT-SPA 8-Zylinder-Benzinmotor mit 120 PS. Das Gesamtgewicht verringerte sich um 2 Tonnen, so dass die Fahrleistungen erheblich verbessert wurden. Der große offene Mittelraum ermöglichte die MonDAYSe einer beachtlichen Bewaffnung, die eine AA Breda 20 mm Autokanone modello 1935, Breda 13 mm Maschinengewehre, 20 mm oder andere Maschinengewehre umfassen konnte."
  ITA_motorized_AC_equipment_099:0 "Autoblinda Lince"
  ITA_motorized_AC_equipment_099_short:0 "Autoblinda Lince"
  ITA_motorized_AC_equipment_099_desc:0 "Die Details der gepanzerten Karosserie, die Neigung und die Abmessungen des Lince wurden vom britischen Dingo kopiert, der die Italiener beeindruckte, mit einigen Änderungen für das hintere Deck, wo sich der neue Motor befand. Im Vergleich zu den bis dahin in Italien hergestellten traditionellen Panzerwagen war die 8 mm starke Panzerung vollständig geschweißt und nicht genietet. Er hatte eine Vierradlenkung für bessere Wendigkeit. Für seine drei Tonnen erhielt der Lince einen Astura tipo 86 V-8-Zylinder-Motor mit 60 PS, der genug Leistung für eine Höchstgeschwindigkeit von 86 km/h bot. Als Bewaffnung erhielt er eine rechte Seitenlafette und ein Panzergehäuse für ein Breda-Maschinengewehr Mod. 38, Kaliber 8 mm."
@@ -556,7 +556,7 @@
  ############### UK Lt.TK Artillery ""
  light_uk_tank_artillery_equipment_1:0 "Geschützträger Lloyd"
  light_uk_tank_artillery_equipment_1_short:0 "Lloyd Geschützträger"
- light_uk_tank_artillery_equipment_1_desc:0 "Der Loyd Gun Carriage war ein Vorschlag für die britische Armee, ein QF 13 pdr Mk.III (76,2 mm L/23) Geschütz auf das Fahrgestell des Loyd Carrier Artillerie-LKW zu montieren. Das Mk.III-Geschütz hatte eine Hochwinkelmontage und seine maximale Reichweite für die 5,7 kg schwere Granate betrug 5,4 km. Der Loyd Carrier basierte auf der Mechanik (Motor, Getriebe und Kraftübertragung) eines 15 cwt 4x2 Fordson 7V-LKW mit einer Karosserie aus Baustahl, auf die je nach Einsatzzweck Panzerplatten (an der Front und den Oberseiten) geschraubt wurden. Sein 85 PS starker Ford V8-221-Motor ermöglichte eine Höchstgeschwindigkeit von 48 km/h auf der Straße."
+ light_uk_tank_artillery_equipment_1_desc:0 "Der Loyd Gun Carriage war ein Vorschlag für die britische Armee, ein QF 13 pdr Mk.III (76,2 mm L/23) Geschütz auf das Fahrgestell des Loyd Carrier Artillerie-LKW zu montieren. Das Mk.III-Geschütz hatte eine HochwinkelmonDAYSe und seine maximale Reichweite für die 5,7 kg schwere Granate betrug 5,4 km. Der Loyd Carrier basierte auf der Mechanik (Motor, Getriebe und Kraftübertragung) eines 15 cwt 4x2 Fordson 7V-LKW mit einer Karosserie aus Baustahl, auf die je nach Einsatzzweck Panzerplatten (an der Front und den Oberseiten) geschraubt wurden. Sein 85 PS starker Ford V8-221-Motor ermöglichte eine Höchstgeschwindigkeit von 48 km/h auf der Straße."
 
  light_uk_tank_artillery_equipment_2:0 "Lt.TK Mk VII Tetrarch CS"
  light_uk_tank_artillery_equipment_2_short:0 "Tetrarch CS"
@@ -598,7 +598,7 @@
 
  light_uk_tank_aa_equipment_3:0 "H.Hopkins AA"
  light_uk_tank_aa_equipment_3_short:0 "H.Hopkins AA"
- light_uk_tank_aa_equipment_3_desc:0 "Das modifizierte Fahrgestell eines H.Hopkins-Panzers war mit einer Marine-Zwillingswaffe 40mm L/39 Bofors Mk.XV Pompon-Flugabwehrsockelmontage im Panzer anstelle eines Turms ausgestattet. Das Geschütz/die Lafette sollte von der Marine verschrottet werden, erlebte aber eine zweite Karriere bei der Armee. Bei jeder Feuerpause musste ein vierfaches Rungensystem abgesenkt werden, um den Rückstoß abzufangen, da sonst die Aufhängung des Panzers nach dem ersten Schuss der schweren Sockellafette beschädigt worden wäre. Das Geschütz konnte gegen Bodenziele eingesetzt werden, aber die Besatzung war nur durch ein Geschützschild geschützt und die gesamte Anlage war sehr hoch. Die maximale effektive Reichweite des Geschützes betrug 4 km."
+ light_uk_tank_aa_equipment_3_desc:0 "Das modifizierte Fahrgestell eines H.Hopkins-Panzers war mit einer Marine-Zwillingswaffe 40mm L/39 Bofors Mk.XV Pompon-FlugabwehrsockelmonDAYSe im Panzer anstelle eines Turms ausgestattet. Das Geschütz/die Lafette sollte von der Marine verschrottet werden, erlebte aber eine zweite Karriere bei der Armee. Bei jeder Feuerpause musste ein vierfaches Rungensystem abgesenkt werden, um den Rückstoß abzufangen, da sonst die Aufhängung des Panzers nach dem ersten Schuss der schweren Sockellafette beschädigt worden wäre. Das Geschütz konnte gegen Bodenziele eingesetzt werden, aber die Besatzung war nur durch ein Geschützschild geschützt und die gesamte Anlage war sehr hoch. Die maximale effektive Reichweite des Geschützes betrug 4 km."
 
  light_uk_tank_aa_equipment_4:0 "AEC AA Skink"
  light_uk_tank_aa_equipment_4_short:0 "AEC AA Skink"
@@ -660,15 +660,15 @@
 
  medium_uk_tank_destroyer_equipment_2:0 "Archer AT 17-Pdr."
  medium_uk_tank_destroyer_equipment_2_short:0 "Archer"
- medium_uk_tank_destroyer_equipment_2_desc:0 "Der Self Propelled 17pdr, Valentine, Mk I, Archer war ein Panzerzerstörer, der auf dem Valentine-Fahrgestell basierte und mit einer Ordnance QF 17-Pfünder-Kanone ausgestattet war. Die 17-Pfünder-Panzerabwehrkanone (76,2 mm L/55) war sehr leistungsfähig, aber auch sehr groß und schwer und konnte nur von einem Fahrzeug bewegt werden, wodurch die Kanone in der Verteidigung effektiver war als im Angriff. Der Motor des Archer hatte eine höhere Leistung als der des Valentine. Da die Valentine zu klein war, wurde das Geschütz in einem einfachen, niedrigen, nach oben offenen Panzerkasten montiert, ähnlich wie bei den frühen deutschen Panzerjägern, mit dem Geschütz nach hinten, wodurch die Gesamtlänge des Archer kurz gehalten wurde. Beim Abfeuern des Geschützes prallte der Verschluss in den Fahrerraum zurück, wobei der Fahrer in gebückter Haltung verharrte, falls das Fahrzeug schnell bewegt werden musste. Die Heckmontage in Verbindung mit der niedrigen Silhouette machte den Archer zu einer ausgezeichneten Waffe für den Hinterhalt, da seine Besatzung feuern und dann wegfahren konnte, ohne sich umzudrehen."
+ medium_uk_tank_destroyer_equipment_2_desc:0 "Der Self Propelled 17pdr, Valentine, Mk I, Archer war ein Panzerzerstörer, der auf dem Valentine-Fahrgestell basierte und mit einer Ordnance QF 17-Pfünder-Kanone ausgestattet war. Die 17-Pfünder-Panzerabwehrkanone (76,2 mm L/55) war sehr leistungsfähig, aber auch sehr groß und schwer und konnte nur von einem Fahrzeug bewegt werden, wodurch die Kanone in der Verteidigung effektiver war als im Angriff. Der Motor des Archer hatte eine höhere Leistung als der des Valentine. Da die Valentine zu klein war, wurde das Geschütz in einem einfachen, niedrigen, nach oben offenen Panzerkasten montiert, ähnlich wie bei den frühen deutschen Panzerjägern, mit dem Geschütz nach hinten, wodurch die Gesamtlänge des Archer kurz gehalten wurde. Beim Abfeuern des Geschützes prallte der Verschluss in den Fahrerraum zurück, wobei der Fahrer in gebückter Haltung verharrte, falls das Fahrzeug schnell bewegt werden musste. Die HeckmonDAYSe in Verbindung mit der niedrigen Silhouette machte den Archer zu einer ausgezeichneten Waffe für den Hinterhalt, da seine Besatzung feuern und dann wegfahren konnte, ohne sich umzudrehen."
 
  medium_uk_tank_destroyer_equipment_3:0 "Kreuzerpanzer Mk VIII (A30) Challenger"
  medium_uk_tank_destroyer_equipment_3_short:0 "Challenger"
- medium_uk_tank_destroyer_equipment_3_desc:0 "Der Panzerkreuzer Challenger (A30) war ein ab 1942 entwickelter Panzerzerstörer. Auf einem Cromwell-Fahrgestell war die 17-Pfünder-Panzerabwehrkanone QF montiert, um den Panzerkreuzern zusätzliche Feuerkraft zu verleihen. Die konstruktiven Kompromisse, die bei der Montage der großen Kanone auf das Cromwell-Fahrgestell eingegangen wurden, führten zu einem Panzer mit einer starken Waffe, aber einer geringeren Panzerung. Um die größere Waffe und die zusätzliche Besatzung im Turm unterbringen zu können, wurde ein wesentlich größerer Turm als der des Cromwell separat entwickelt. Aufgrund des Gewichts des 17-Pfünders wurden eine zusätzliche Radstation und ein zusätzlicher Aufhängungsarm benötigt, wodurch sich die Wanne verlängerte. Durch diese Längenänderung wurde die Mobilität im Vergleich zum Cromwell eingeschränkt, obwohl die Geschwindigkeit mit 50 km/h hoch blieb. Um das Gewicht zu verringern, wurde die Panzerung des Turms reduziert, 63 mm an der Turmfront und 40 mm an den Seiten. Da die Basis des Turms ungeschützt war, wurde eine Aufbockvorrichtung eingebaut, um Ladehemmungen zu beseitigen. "
+ medium_uk_tank_destroyer_equipment_3_desc:0 "Der Panzerkreuzer Challenger (A30) war ein ab 1942 entwickelter Panzerzerstörer. Auf einem Cromwell-Fahrgestell war die 17-Pfünder-Panzerabwehrkanone QF montiert, um den Panzerkreuzern zusätzliche Feuerkraft zu verleihen. Die konstruktiven Kompromisse, die bei der MonDAYSe der großen Kanone auf das Cromwell-Fahrgestell eingegangen wurden, führten zu einem Panzer mit einer starken Waffe, aber einer geringeren Panzerung. Um die größere Waffe und die zusätzliche Besatzung im Turm unterbringen zu können, wurde ein wesentlich größerer Turm als der des Cromwell separat entwickelt. Aufgrund des Gewichts des 17-Pfünders wurden eine zusätzliche Radstation und ein zusätzlicher Aufhängungsarm benötigt, wodurch sich die Wanne verlängerte. Durch diese Längenänderung wurde die Mobilität im Vergleich zum Cromwell eingeschränkt, obwohl die Geschwindigkeit mit 50 km/h hoch blieb. Um das Gewicht zu verringern, wurde die Panzerung des Turms reduziert, 63 mm an der Turmfront und 40 mm an den Seiten. Da die Basis des Turms ungeschützt war, wurde eine Aufbockvorrichtung eingebaut, um Ladehemmungen zu beseitigen. "
 
  medium_uk_tank_destroyer_equipment_4:0 "FV 4101 Wagenlenker"
  medium_uk_tank_destroyer_equipment_4_short:0 "Charioteer"
- medium_uk_tank_destroyer_equipment_4_desc:0 "Der Charioteer Tank, oder FV4101 Tank, Medium Gun, Charioteer war ein britischer Panzerjäger auf einem Cromwell-Fahrgestell. Die Montage der Kanone erforderte die Entwicklung eines neuen Zwei-Mann-Turms. Das daraus resultierende Fahrzeug trug zunächst die Bezeichnung FV4101 Cromwell Heavy AT Gun, wurde aber vor seiner Indienststellung in Charioteer umbenannt. Der leicht gepanzerte (30 mm) und hohe Turm verwendete das größere Ordnance QF 20-Pfünder-Geschütz (84 mm L/66,7). Diese war mit einem koaxialen 7,62-mm-M1919-Browning-Maschinengewehr bestückt. An beiden Seiten des Turms waren Rauchgranatenwerfer angebracht. Eine Klappe am Turmheck ermöglichte das Auswerfen von verbrauchten Geschosshülsen aus dem Fahrzeug."
+ medium_uk_tank_destroyer_equipment_4_desc:0 "Der Charioteer Tank, oder FV4101 Tank, Medium Gun, Charioteer war ein britischer Panzerjäger auf einem Cromwell-Fahrgestell. Die MonDAYSe der Kanone erforderte die Entwicklung eines neuen Zwei-Mann-Turms. Das daraus resultierende Fahrzeug trug zunächst die Bezeichnung FV4101 Cromwell Heavy AT Gun, wurde aber vor seiner Indienststellung in Charioteer umbenannt. Der leicht gepanzerte (30 mm) und hohe Turm verwendete das größere Ordnance QF 20-Pfünder-Geschütz (84 mm L/66,7). Diese war mit einem koaxialen 7,62-mm-M1919-Browning-Maschinengewehr bestückt. An beiden Seiten des Turms waren Rauchgranatenwerfer angebracht. Eine Klappe am Turmheck ermöglichte das Auswerfen von verbrauchten Geschosshülsen aus dem Fahrzeug."
 
  ############### UK Med.TK AA ""
  medium_uk_tank_aa_equipment_1:0 "Kreuzer Mk.I AA"
@@ -731,7 +731,7 @@
 
  heavy_uk_tank_artillery_equipment_4:0 "Kardinal-SPG FV 3805"
  heavy_uk_tank_artillery_equipment_4_short:0 "FV 3805"
- heavy_uk_tank_artillery_equipment_4_desc:0 "Die FV 3805 "Cardinal" war eine selbstfahrende Artillerie, die auf dem Centurion-Fahrgestell basierte, wobei sich der Motor jedoch vorne befand und der Fahrer über dem Kettenschutz. Im Gegensatz zum Archer, der eine ähnliche Kanonenanordnung hatte, war alles andere umgekehrt, so dass die 40 km/h in der nach vorne gerichteten Kanonenrichtung erreicht wurden. Ursprünglich war die Montage der 5.5in (140mm L/30) geplant, aber dann entdeckte man, dass das Fahrgestell auch die 7,2in Haubitze BL (183mm L/22,4) aufnehmen konnte, die in der Mk.I, der Serienversion, eingebaut wurde. Da er mit 50 mm leicht gepanzert war, wog er nur 50 Tonnen und hatte eine Höchstgeschwindigkeit von 40 km/h. Er konnte eine 92 kg schwere Granate über 15,5 km weit schießen."
+ heavy_uk_tank_artillery_equipment_4_desc:0 "Die FV 3805 "Cardinal" war eine selbstfahrende Artillerie, die auf dem Centurion-Fahrgestell basierte, wobei sich der Motor jedoch vorne befand und der Fahrer über dem Kettenschutz. Im Gegensatz zum Archer, der eine ähnliche Kanonenanordnung hatte, war alles andere umgekehrt, so dass die 40 km/h in der nach vorne gerichteten Kanonenrichtung erreicht wurden. Ursprünglich war die MonDAYSe der 5.5in (140mm L/30) geplant, aber dann entdeckte man, dass das Fahrgestell auch die 7,2in Haubitze BL (183mm L/22,4) aufnehmen konnte, die in der Mk.I, der Serienversion, eingebaut wurde. Da er mit 50 mm leicht gepanzert war, wog er nur 50 Tonnen und hatte eine Höchstgeschwindigkeit von 40 km/h. Er konnte eine 92 kg schwere Granate über 15,5 km weit schießen."
 
  ############### UK Hv.TK Destroyer ""
  #heavy_uk_tank_destroyer_equipment_1:0 "Infanteriepanzer Mk II (A12-27) Matilda II 6-Pdr"
@@ -803,7 +803,7 @@
 
  infantry_tank_equipment_6:0 "Infanteriepanzer Black Prince"
  infantry_tank_equipment_6_short:0 "Schwarzer Prinz"
- infantry_tank_equipment_6_desc:0 "1943 wurde ein Versuch unternommen, einen 17-Pfünder-Panzer auf dem Churchill-Fahrgestell für den A43 zu bauen, da die Arbeiten am Centurion-Kreuzer erst begonnen hatten. Wegen des erforderlichen breiteren Turms musste Vauxhall die Wanne neu entwerfen, wobei so viel wie möglich vom Churchill Mark VII verwendet wurde. Aufgrund des höheren Gewichts wurden das Fahrwerk und die Wanne drastisch verstärkt. Der gleiche Bedford-Motor in einem Panzer, der 10 Tonnen schwerer war, führte dazu, dass er noch leistungsschwächer und langsamer war als der normale Churchill. Das Ergebnis war eine miserable Höchstgeschwindigkeit von 16,8 km/h, und das, obwohl er die Steigfähigkeit des Churchill beibehielt. Die Panzerung an der Turmfront und der Wanne betrug 152 mm. Die wichtigste Verbesserung, die dieses Fahrzeug gegenüber dem Churchill erfuhr, war die Montage der Ordnance QF 17-Pounder Mk. VI Kanone in einem neuen, größeren fünfeckigen Turm. Bei der Mk. VI handelte es sich um eine verbesserte Version des Geschützes mit einer verkürzten Bresche, die mehr Bewegungsfreiheit im Turm des Panzers ermöglichte.  "
+ infantry_tank_equipment_6_desc:0 "1943 wurde ein Versuch unternommen, einen 17-Pfünder-Panzer auf dem Churchill-Fahrgestell für den A43 zu bauen, da die Arbeiten am Centurion-Kreuzer erst begonnen hatten. Wegen des erforderlichen breiteren Turms musste Vauxhall die Wanne neu entwerfen, wobei so viel wie möglich vom Churchill Mark VII verwendet wurde. Aufgrund des höheren Gewichts wurden das Fahrwerk und die Wanne drastisch verstärkt. Der gleiche Bedford-Motor in einem Panzer, der 10 Tonnen schwerer war, führte dazu, dass er noch leistungsschwächer und langsamer war als der normale Churchill. Das Ergebnis war eine miserable Höchstgeschwindigkeit von 16,8 km/h, und das, obwohl er die Steigfähigkeit des Churchill beibehielt. Die Panzerung an der Turmfront und der Wanne betrug 152 mm. Die wichtigste Verbesserung, die dieses Fahrzeug gegenüber dem Churchill erfuhr, war die MonDAYSe der Ordnance QF 17-Pounder Mk. VI Kanone in einem neuen, größeren fünfeckigen Turm. Bei der Mk. VI handelte es sich um eine verbesserte Version des Geschützes mit einer verkürzten Bresche, die mehr Bewegungsfreiheit im Turm des Panzers ermöglichte.  "
 
  ############### UK Amphibious Tanks ""
  light_uk_amph_tank_equipment_0:0 "Vickers (A4E3) Amphibischer Panzer Mk III"
@@ -853,16 +853,16 @@
  light_tank_destroyer_chassis_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone, die anstelle eines Turms fest montiert ist. Lt.TK Destroyer basieren auf dem Fahrgestell von Lt.TKs, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
  light_tank_destroyer_equipment_1:0 "Lt.TK Zerstörer I"
  light_tank_destroyer_equipment_1_short:0 "L. TD I"
- light_tank_destroyer_equipment_1_desc:0 "Panzerzerstörer sind Panzer mit einer größeren als der normalen Kanone in einer festen Montage anstelle eines Turms. Lt.TK Destroyer basieren auf dem Fahrgestell von Lt.TKs, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
+ light_tank_destroyer_equipment_1_desc:0 "Panzerzerstörer sind Panzer mit einer größeren als der normalen Kanone in einer festen MonDAYSe anstelle eines Turms. Lt.TK Destroyer basieren auf dem Fahrgestell von Lt.TKs, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
  light_tank_destroyer_equipment_2:0 "Lt.TK Zerstörer II"
  light_tank_destroyer_equipment_2_short:0 "L. TD II"
  light_tank_destroyer_equipment_2_desc:0 "Panzerzerstörer sind Panzer mit einer größeren als der normalen Kanone in einer festen Halterung anstelle eines Turms. Lt.TK Destroyer basieren auf dem Fahrgestell von Lt.TKs, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
  light_tank_destroyer_equipment_3:0 "Leutnant-TK-Zerstörer III"
  light_tank_destroyer_equipment_3_short:0 "L. TD III"
- light_tank_destroyer_equipment_3_desc:0 "Panzerzerstörer sind Panzer mit einer größeren als der normalen Kanone in einer festen Montage anstelle eines Turms. Lt.TK Destroyer basieren auf dem Fahrgestell von Lt.TKs, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
+ light_tank_destroyer_equipment_3_desc:0 "Panzerzerstörer sind Panzer mit einer größeren als der normalen Kanone in einer festen MonDAYSe anstelle eines Turms. Lt.TK Destroyer basieren auf dem Fahrgestell von Lt.TKs, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
  light_tank_destroyer_equipment_4:0 "Leutnant-TK-Zerstörer IV"
  light_tank_destroyer_equipment_4_short:0 "L. TD IV"
- light_tank_destroyer_equipment_4_desc:0 "Panzerzerstörer sind Panzer mit einer größeren als der normalen Kanone in einer festen Montage anstelle eines Turms. Lt.TK Destroyer basieren auf dem Fahrgestell von Lt.TKs, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
+ light_tank_destroyer_equipment_4_desc:0 "Panzerzerstörer sind Panzer mit einer größeren als der normalen Kanone in einer festen MonDAYSe anstelle eines Turms. Lt.TK Destroyer basieren auf dem Fahrgestell von Lt.TKs, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu schwereren TDs keine besonders starken Geschütze tragen."
 
  light_tank_aa_chassis:0 "Leichte SP Anti-Air"
  light_tank_aa_chassis_desc:0 "Die Luftabwehrartillerie ist in erster Linie dazu gedacht, feindliche Flugzeuge abzuschießen, obwohl die Schnellfeuerkanonen auch gegen Bodenziele wirksam sein können. Dieses Modell ist auf dem Fahrgestell eines Lt.TK montiert."
@@ -937,13 +937,13 @@
  medium_tank_destroyer_chassis_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone, die anstelle eines Turms fest montiert ist. Mittlere Panzerzerstörer basieren auf den Fahrgestellen mittlerer Panzer, d.h. sie sind recht mobil und verfügen über eine beachtliche Feuerkraft."
  medium_tank_destroyer_equipment_1:0 "Med.TK Zerstörer I"
  medium_tank_destroyer_equipment_1_short:0 "Med. TD I"
- medium_tank_destroyer_equipment_1_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester Montage anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell eines mittleren Panzers, sind also recht mobil und verfügen über eine respektable Feuerkraft."
+ medium_tank_destroyer_equipment_1_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester MonDAYSe anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell eines mittleren Panzers, sind also recht mobil und verfügen über eine respektable Feuerkraft."
  medium_tank_destroyer_equipment_2:0 "Med.TK Zerstörer II"
  medium_tank_destroyer_equipment_2_short:0 "Med. TD II"
- medium_tank_destroyer_equipment_2_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester Montage anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell eines mittleren Panzers, sind also relativ mobil und verfügen über eine respektable Feuerkraft."
+ medium_tank_destroyer_equipment_2_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester MonDAYSe anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell eines mittleren Panzers, sind also relativ mobil und verfügen über eine respektable Feuerkraft."
  medium_tank_destroyer_equipment_3:0 "Med.TK Zerstörer III"
  medium_tank_destroyer_equipment_3_short:0 "Med. TD III"
- medium_tank_destroyer_equipment_3_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester Montage anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell mittlerer Panzer, sind also relativ mobil und verfügen über eine beachtliche Feuerkraft."
+ medium_tank_destroyer_equipment_3_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester MonDAYSe anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell mittlerer Panzer, sind also relativ mobil und verfügen über eine beachtliche Feuerkraft."
  SOV_medium_tank_destroyer_equipment_1:0 "SU-85-32"
  SOV_medium_tank_destroyer_equipment_1_short:0 "SU-85-32"
  #SOV_medium_tank_destroyer_equipment_1_desc:0 ""
@@ -1017,10 +1017,10 @@
  heavy_tank_destroyer_equipment_2_desc:0 "Auf 100 mm aufgestockt und neu gestaltete Schrägpanzerung, die gesamte Front des Fahrzeugs besteht aus einer dicken Schrägpanzerung."
  heavy_tank_destroyer_equipment_3:0 "Hv.TK Zerstörer III"
  heavy_tank_destroyer_equipment_3_short:0 "Hvy. TD III"
- heavy_tank_destroyer_equipment_3_desc:0 "Ein Hv.TK, bei dem der Turm entfernt wurde, um eine noch größere Kanone in einer festen Montage zu tragen."
+ heavy_tank_destroyer_equipment_3_desc:0 "Ein Hv.TK, bei dem der Turm entfernt wurde, um eine noch größere Kanone in einer festen MonDAYSe zu tragen."
  heavy_tank_destroyer_equipment_4:0 "Hv.TK Zerstörer IV"
  heavy_tank_destroyer_equipment_4_short:0 "Hvy. TD IV"
- heavy_tank_destroyer_equipment_4_desc:0 "Ein Hv.TK, bei dem der Turm entfernt wurde, um ein noch größeres Geschütz in einer festen Montage zu tragen."
+ heavy_tank_destroyer_equipment_4_desc:0 "Ein Hv.TK, bei dem der Turm entfernt wurde, um ein noch größeres Geschütz in einer festen MonDAYSe zu tragen."
  SOV_heavy_tank_aa_equipment_1:0 "ZSU-12.7-4"
  SOV_heavy_tank_aa_equipment_1_short:0 "ZSU-12.7-4"
  #SOV_heavy_tank_aa_equipment_1_desc:0 ""
@@ -1390,8 +1390,8 @@
  SOV_mountain_artillery_equipment_0:0 "76-mm-Gebirgsgeschütz M1938 Pack Artillery"
  SOV_mountain_artillery_equipment_0_short:0 "76-mm-Gebirgsgeschütz M1938"
  SOV_mountain_artillery_equipment_0_desc:0 "Unter Artillerie versteht man leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Bergen spezialisiert."
- FRA_mountain_artillery_equipment_0:0 "Canon de 75 montagne modele 1928 Pack Artillery"
- FRA_mountain_artillery_equipment_0_short:0 "Canon de 75 montagne M1928 Pack-Art"
+ FRA_mountain_artillery_equipment_0:0 "Canon de 75 monDAYSne modele 1928 Pack Artillery"
+ FRA_mountain_artillery_equipment_0_short:0 "Canon de 75 monDAYSne M1928 Pack-Art"
  FRA_mountain_artillery_equipment_0_desc:0 "Pack Artillery bezieht sich auf leichtkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können. Sie sind für den Einsatz in Hügeln und Gebirgen spezialisiert."
  JAP_mountain_artillery_equipment_0:0 "75-mm-Gebirgsgeschütz Typ 94"
  JAP_mountain_artillery_equipment_0_short:0 "Typ 94 75mm Gebirgsgeschütz"
@@ -5034,7 +5034,7 @@
  close_defence_upgrade:0 "Maschinengewehr-Verteidigung"
  close_defence_upgrade_desc:0 "Die EQUIPMENT unserer Hauptquartiere mit zusätzlichen Waffen macht sie weniger anfällig für feindliche Angriffe in den hinteren Reihen."
  uniform_quality_upgrade:0 "Bessere Uniformen"
- uniform_quality_upgrade_desc:0 "Die Herstellung von Uniformen aus höherwertigem Material macht sie zuverlässiger, allerdings auf Kosten höherer Produktionskosten."
+ uniform_quality_upgrade_desc:0 "Die Herstellung von Uniformen aus höherwertigem Material macht sie zuverlässiger, allerdings auf Kosten höherer VALUE."
  cheap_uniforms_upgrade:0 "Billige Uniformen"
  cheap_uniforms_upgrade_desc:0 "Die Herstellung von Uniformen aus minderwertigem Material macht sie billiger, geht aber auf Kosten der Zuverlässigkeit."
  camo_upgrade:0 "Tarnungs-Upgrade"
@@ -5156,10 +5156,10 @@
  REQUESTED_REINFORCEMENT_COLLECTING_ENTRY:0 "   - $NUM|Y0$/$MAX|Y0$ von $NAME|Y$"
  REQUESTED_REINFORCEMENT_DELIVERY_ENTRY:0 "   - $NUM|Y0$ von $NAME|Y$"
  REQUESTED_TIMED_ACTIVITY_COLLECTING_ENTRY:0 "   - $NUM|Y0$/$MAX|Y0$ von $NAME|Y$"
- REQUESTED_MANPOWER_DETAILS:0 "Die nächsten $NUM|Y$ Arbeitskräfte werden in $HR|Y$ Stunden eintreffen.\nVollständige Verstärkung ungefähr in $D|Y$ Tagen."
+ REQUESTED_MANPOWER_DETAILS:0 "Die nächsten $NUM|Y$ Arbeitskräfte werden in $HR|Y$ Stunden eintreffen.\nVollständige Verstärkung ungefähr in $D|Y$ DAYSen."
  NOT_ENOUGH_MANPOWER_TO_REINFORCE:0 "Nicht genug Arbeitskräfte zur Verstärkung."
  MANPOWER_REINFORCEMENT_NOT_POSSIBLE:0 "§RMannschaftsverstärkung ist am aktuellen Standort nicht möglich!"
- ARCHETYPE_DESC_ENTRY:0 "    - $ZAHL|0$ $NAME|H$"
+ ARCHETYPE_DESC_ENTRY:0 "    - $COUNT|0$ $NAME|H$"
  OUTDATED_EQ:0 "Veraltete EQUIPMENT anzeigen"
  guided_missile_equipment:0 "Lenkwaffe"
  guided_missile_equipment_1:0 "Basis-Lenkwaffe"
@@ -5364,7 +5364,7 @@
 
  RAJ_transport_plane_equipment_1:0 "Vickers-Armstrong Wellington Mk.XVI Transportflugzeug"
  RAJ_transport_plane_equipment_1_short:0 "Mk.XVI (T.P)"
- RAJ_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ RAJ_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
  RAJ_transport_plane_equipment_2:0 "Handley-Page HP-71 'Halifax' Transportflugzeug"
  RAJ_transport_plane_equipment_2_short:0 "HP-71 'Halifax' (T.P)"
@@ -5376,7 +5376,7 @@
 
  CAN_transport_plane_equipment_1:0 "Vickers-Armstrong Wellington Mk.XVI Transportflugzeug"
  CAN_transport_plane_equipment_1_short:0 "Mk.XVI (T.P)"
- CAN_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ CAN_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
  CAN_transport_plane_equipment_2:0 "Handley-Page HP-71 'Halifax' Transportflugzeug"
  CAN_transport_plane_equipment_2_short:0 "HP-71 'Halifax' (T.P)"
@@ -5388,7 +5388,7 @@
 
  SAF_transport_plane_equipment_1:0 "Vickers-Armstrong Wellington Mk.XVI Transportflugzeug"
  SAF_transport_plane_equipment_1_short:0 "Mk.XVI (T.P)"
- SAF_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ SAF_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
  SAF_transport_plane_equipment_2:0 "Handley-Page HP-71 'Halifax' Transportflugzeug"
  SAF_transport_plane_equipment_2_short:0 "HP-71 'Halifax' (T.P)"
@@ -5400,7 +5400,7 @@
 
  AST_transport_plane_equipment_1:0 "Vickers-Armstrong Wellington Mk.XVI Transportflugzeug"
  AST_transport_plane_equipment_1_short:0 "Mk.XVI (T.P)"
- AST_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ AST_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
  AST_transport_plane_equipment_2:0 "Handley-Page HP-71 'Halifax' Transportflugzeug"
  AST_transport_plane_equipment_2_short:0 "HP-71 'Halifax' (T.P)"
@@ -5412,7 +5412,7 @@
 
  NZL_transport_plane_equipment_1:0 "Vickers-Armstrong Wellington Mk.XVI Transportflugzeug"
  NZL_transport_plane_equipment_1_short:0 "Mk.XVI (T.P)"
- NZL_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ NZL_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
  NZL_transport_plane_equipment_2:0 "Handley-Page HP-71 'Halifax' Transportflugzeug"
  NZL_transport_plane_equipment_2_short:0 "HP-71 'Halifax' (T.P)"
@@ -5424,7 +5424,7 @@
    ""
  EGY_transport_plane_equipment_1:0 "Vickers-Armstrong Wellington Mk.XVI Transportflugzeug"
  EGY_transport_plane_equipment_1_short:0 "Mk.XVI (T.P)"
- EGY_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ EGY_transport_plane_equipment_1_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
  EGY_transport_plane_equipment_2:0 "Handley-Page HP-71 'Halifax' Transportflugzeug"
  EGY_transport_plane_equipment_2_short:0 "HP-71 'Halifax' (T.P)"
@@ -5432,7 +5432,7 @@
 
  EGY_transport_plane_equipment_3:0 "AVRO Typ 685 'York' Transportflugzeug"
  EGY_transport_plane_equipment_3_short:0 "Typ 685 'York' (T.P)"
- EGY_transport_plane_equipment_3_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ EGY_transport_plane_equipment_3_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
  ###GERMANY### ""
  # Anti_tank # ""
@@ -5547,7 +5547,7 @@
 
  panzer_iii_td_equipment_1:0 "StuG III Ausf.F"
  panzer_iii_td_equipment_1_short:0 "StuG III F M.TD"
- panzer_iii_td_equipment_1_desc:0 "Panzerzerstörer auf der Basis des StuG III. Durch die Montage der 75mm StuK40/L43 Kanone mit panzerbrechenden Geschossen auf das StuG III mit niedriger Silhouette entsteht ein tödlicher Panzerjäger, der später zur Version F/8 mit der längeren 75mm StuK40/L48 und besserer Panzerung aufgerüstet wurde."
+ panzer_iii_td_equipment_1_desc:0 "Panzerzerstörer auf der Basis des StuG III. Durch die MonDAYSe der 75mm StuK40/L43 Kanone mit panzerbrechenden Geschossen auf das StuG III mit niedriger Silhouette entsteht ein tödlicher Panzerjäger, der später zur Version F/8 mit der längeren 75mm StuK40/L48 und besserer Panzerung aufgerüstet wurde."
 
  panzer_iii_td_equipment_2:0 "StuG III Ausf.G"
  panzer_iii_td_equipment_2_short:0 "StuG III G M.TD"
@@ -5788,7 +5788,7 @@
 
  transport_plane_equipment_3:0 "Fortgeschrittenes Transportflugzeug"
  transport_plane_equipment_3_short:0 "Adv. Transport (T.P)"
- transport_plane_equipment_3_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ transport_plane_equipment_3_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
  ###German Air ### ""
  ########Air Units############ ""
@@ -5868,7 +5868,7 @@
  fw_190_fighter_equipment_desc:0 "Die Hauptproduktionsversion der Fw 190. Sie ist schwer bewaffnet und sehr schnell."
  fw_190_fighter_equipment_1:0 "Focke-Wulf 190 A"
  fw_190_fighter_equipment_1_short:0 "Fw 190 A Jagdflugzeug"
- fw_190_fighter_equipment_1_desc:0 "Die Focke-Wulf Fw 190 Würger ist ein einsitziges, einmotoriges Jagdflugzeug, das von Kurt Tank in den späten 1930er Jahren entwickelt wurde. Der luftgekühlte BMW 801-Motor, der die meisten Versionen antrieb, ermöglichte es der Fw 190, größere Lasten als die Bf 109 zu heben, was den Einsatz als Tagjäger, Jagdbomber, Bodenangriffsflugzeug und, in geringerem Maße, als Nachtjäger ermöglichte. Die Fw 190 A-1 verfügte mit ihren 4 x 7,92 mm MG17 und 2 x 20 mm MG FF/M über eine größere Feuerkraft als die Bf 109 und war nach Meinung deutscher Piloten, die beide Jäger flogen, in niedriger bis mittlerer Höhe besser manövrierbar. Die Fw 190A-Serie war kein Abfangjäger für große Höhen, da ihre Leistung oberhalb von 6000 m litt. Die Bewaffnung wurde später von A-1 bis -10 aufgerüstet, indem die 7,92mm MGs durch 13mm MG131 ersetzt wurden, die 20mm schließlich durch 30mm MK108. Mit ihrem BMW 801C Motor mit 1560 PS hatte sie eine Höchstgeschwindigkeit von 656 km/h. Das breite Fahrwerk - anders als bei der 109 - machte Landungen auf unwegsamen Pisten deutlich weniger gefährlich."
+ fw_190_fighter_equipment_1_desc:0 "Die Focke-Wulf Fw 190 Würger ist ein einsitziges, einmotoriges Jagdflugzeug, das von Kurt Tank in den späten 1930er Jahren entwickelt wurde. Der luftgekühlte BMW 801-Motor, der die meisten Versionen antrieb, ermöglichte es der Fw 190, größere Lasten als die Bf 109 zu heben, was den Einsatz als DAYSjäger, Jagdbomber, Bodenangriffsflugzeug und, in geringerem Maße, als Nachtjäger ermöglichte. Die Fw 190 A-1 verfügte mit ihren 4 x 7,92 mm MG17 und 2 x 20 mm MG FF/M über eine größere Feuerkraft als die Bf 109 und war nach Meinung deutscher Piloten, die beide Jäger flogen, in niedriger bis mittlerer Höhe besser manövrierbar. Die Fw 190A-Serie war kein Abfangjäger für große Höhen, da ihre Leistung oberhalb von 6000 m litt. Die Bewaffnung wurde später von A-1 bis -10 aufgerüstet, indem die 7,92mm MGs durch 13mm MG131 ersetzt wurden, die 20mm schließlich durch 30mm MK108. Mit ihrem BMW 801C Motor mit 1560 PS hatte sie eine Höchstgeschwindigkeit von 656 km/h. Das breite Fahrwerk - anders als bei der 109 - machte Landungen auf unwegsamen Pisten deutlich weniger gefährlich."
  fw_190_fighter_equipment_d:0 "Focke-Wulf 190 D"
  fw_190_fighter_equipment_d_short:0 "Jagdflugzeug Fw 190 D"
  fw_190_fighter_equipment_d_desc:0 "Die Hauptproduktionsversion der Fw 190. Sie ist schwer bewaffnet und sehr schnell."
@@ -6043,7 +6043,7 @@
  subtech_ju_87_cv_equipment_1:0 "Ju 87 Tr(C) Cv-Bomber"
  GER_cv_nav_bomber_equipment_2:0 "Junkers 87 Tr(C) 'Stuka'"
  GER_cv_nav_bomber_equipment_2_short:0 "Ju 87 Tr(C) Cv-Bomber"
- GER_cv_nav_bomber_equipment_2_desc:0 "Die Ju 87 Tr(C) Tr für 'Träger' war als Sturzkampf- und Torpedobomber für die Kriegsmarine gedacht. 915 Landungen auf dem Trockenen wurden bis zum 15. Dezember 1939 mit mehreren Prototypen erprobt. Zur "besonderen" EQUIPMENT der Ju 87 C gehörte ein zweisitziges Schlauchboot mit Signalmunition und Notversorgung. Ein Schnellablassmechanismus und zwei aufblasbare 750-Liter-Säcke in jeder Tragfläche sowie zwei weitere 500-Liter-Säcke im Rumpf ermöglichten es der Ju 87 C, bei ruhiger See bis zu drei Tage lang schwimmfähig zu bleiben. Die Ju 87 C hatte ein Startgewicht von 5.300 kg und eine Geschwindigkeit von 133 km/h beim Abheben. Die Ju 87 konnte mit einer 500 kg-Bombe und vier SC-Bomben von 50 kg unter dem Rumpf gestartet werden. Die C-1 hatte zwei MG 17 in den Tragflächen und ein MG 15, das vom Heckschützen bedient wurde."
+ GER_cv_nav_bomber_equipment_2_desc:0 "Die Ju 87 Tr(C) Tr für 'Träger' war als Sturzkampf- und Torpedobomber für die Kriegsmarine gedacht. 915 Landungen auf dem Trockenen wurden bis zum 15. Dezember 1939 mit mehreren Prototypen erprobt. Zur "besonderen" EQUIPMENT der Ju 87 C gehörte ein zweisitziges Schlauchboot mit Signalmunition und Notversorgung. Ein Schnellablassmechanismus und zwei aufblasbare 750-Liter-Säcke in jeder Tragfläche sowie zwei weitere 500-Liter-Säcke im Rumpf ermöglichten es der Ju 87 C, bei ruhiger See bis zu drei DAYSe lang schwimmfähig zu bleiben. Die Ju 87 C hatte ein Startgewicht von 5.300 kg und eine Geschwindigkeit von 133 km/h beim Abheben. Die Ju 87 konnte mit einer 500 kg-Bombe und vier SC-Bomben von 50 kg unter dem Rumpf gestartet werden. Die C-1 hatte zwei MG 17 in den Tragflächen und ein MG 15, das vom Heckschützen bedient wurde."
 
  subtech_ju_87_cv_equipment_2:0 "Ju 87 D-4 Cv-Bomber"
  GER_cv_nav_bomber_equipment_3:0 "Ju 87 C 'Stuka'"
@@ -6144,7 +6144,7 @@
  do_217_bomber_equipment_3:0 "Dornier 317 B"
  do_217_bomber_equipment_3_short:0 "Do 317B Mittelstreckenbomber"
  do_217_bomber_equipment_3_desc:0 "Die Do 317A war den späteren Untertypen Do 217K und -M äußerlich sehr ähnlich, mit einer optisch überarbeiteten leichten Variante des "stufenlosen Cockpits" mit mehreren verglasten Scheiben, einer vollverglasten Bugkonstruktion, die eine Druckkabine beherbergte, und dreieckigen Leitwerken. Die Erprobung der Do 317A ergab keinen wirklichen Leistungsvorsprung gegenüber der Do 217, doch die Do 317B mit ihren 1,5 Tonnen schweren, gegenläufigen DB 610A/B "Power System"-Motoren mit 2950 PS, ferngesteuerten Geschütztürmen im Stil der Fernbedienbaren Drehlafette (FDL), einer schwereren Bombenlast und einem verlängerten Flügel hatte erhebliche Vorteile. Sie konnte eine Bombenlast von 3000 kg im Inneren und 9200 kg insgesamt tragen und erreichte eine Höchstgeschwindigkeit von 670 km/h.   "
- #217P doesnt fit well as a payload reduced recon bomber: A high-altitude reconnaisance/bomber version of the Do 217, with dramatically increased performance. Prior to the Do 217 production phase-out late in 1943, Dornier had adapted the basic airframe for operation at extreme altitudes as both a bomber and reconnaissance aircraft under the designation Do 217 P. Retaining the wing, tail assembly, basic fuselage structure and undercarriage of the Do 217 E-2, the Do 217 P was powered by two supercharged Daimler-Benz DB 603B twelve-cylinder liquid-cooled engines.Instead of using a normal turbo- or supercharger, for the Do 217P the Höhen-Zentrale Anlage (Central Elevation System) was used. The HZ-Anlage consisted of an in the fuselage installed Daimler-Benz DB 605T aircraft engine, which drove a two-stage supercharger that provided high pressure air to the main engines on the wings. Although it could reach  a maximum speed of 785 km/h unloaded, an outer bomb load of 2 x 500kg( no internal bomb bays ) reduced it ""
+ #217P doesnt fit well as a payload reduced recon bomber: A high-altitude reconnaisance/bomber version of the Do 217, with dramatically increased performance. Prior to the Do 217 production phase-out late in 1943, Dornier had adapted the basic airframe for operation at extreme altitudes as both a bomber and reconnaissance aircraft under the designation Do 217 P. Retaining the wing, tail assembly, basic fuselage structure and undercarriage of the Do 217 E-2, the Do 217 P was powered by two supercharged Daimler-Benz DB 603B twelve-cylinder liquid-cooled engines.Instead of using a normal turbo- or supercharger, for the Do 217P the Höhen-Zentrale Anlage (Central Elevation System) was used. The HZ-Anlage consisted of an in the fuselage installed Daimler-Benz DB 605T aircraft engine, which drove a two-sDAYSe supercharger that provided high pressure air to the main engines on the wings. Although it could reach  a maximum speed of 785 km/h unloaded, an outer bomb load of 2 x 500kg( no internal bomb bays ) reduced it ""
  tech_do_217_bomber_equipment_3:0 "Do 217 P"
  tech_do_217_bomber_equipment_3_desc:0 "Durch den Einbau eines dritten Triebwerks, das wie ein Turbolader für Arme wirkt, kann eine Höhenversion der Do 217 mit einer um 250 km/h höheren Geschwindigkeit entwickelt werden."
 
@@ -6332,7 +6332,7 @@
 
  GER_transport_plane_equipment_2:0 "Junkers Ju-252 Transportflugzeug"
  GER_transport_plane_equipment_2_short:0 "Ju-252 (T.P)"
- GER_transport_plane_equipment_2_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ GER_transport_plane_equipment_2_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
  GER_transport_plane_equipment_3:0 "Junkers Ju-290 Transportflugzeug"
  GER_transport_plane_equipment_3_short:0 "Ju-290 (T.P)"
@@ -6865,7 +6865,7 @@
 
  light_soviet_tank_td_2:0 "SU-76M Lt.TK Zerstörer"
  light_soviet_tank_td_2_short:0 "SU-76M Leichter TD"
- light_soviet_tank_td_2_desc:0 "Die Konstruktion des SU-76 begann im November 1942. Für die Montage der ZiS-3-Kanone wurde das Fahrgestell des T-70 gewählt, das verlängert und um ein Laufrad pro Seite erweitert wurde, um die Montage der Kanone zu erleichtern. Das Gesamtgewicht betrug 9,9 Tonnen. Das ZiS-3 war im Heck untergebracht, geschützt durch eine geschlossene, 10-35 mm dicke, schräg gepanzerte Kasematte. Das Fahrzeug war jedoch nicht vollständig von der Panzerung umschlossen, das hintere Dach und die hintere Oberseite lagen frei. Seine einfache Konstruktion machte ihn zum zweitmeistproduzierten sowjetischen Panzerfahrzeug des Zweiten Weltkriegs, nach dem T-34.  Wegen seiner sehr leichten Panzerung und seiner dem deutschen 65-Tonnen-Panzer Ferdinand ähnlichen Silhouette erhielt er auch den Spitznamen "Golozhopiy Ferdinand" ("Ferdinand mit bloßen Ohren").  Das Geschütz hatte ein koaxiales DT-Maschinengewehr und die dreiköpfige Besatzung trug auch persönliche Schusswaffen. Bis 1945 lieferten die Fabriken nicht weniger als 13.932 Fahrzeuge aus. Er hatte die stärkeren GAZ-203-Zwillingsmotoren mit einer Gesamtleistung von 170 PS, die eine Höchstgeschwindigkeit von 45 km/h ermöglichten."
+ light_soviet_tank_td_2_desc:0 "Die Konstruktion des SU-76 begann im November 1942. Für die MonDAYSe der ZiS-3-Kanone wurde das Fahrgestell des T-70 gewählt, das verlängert und um ein Laufrad pro Seite erweitert wurde, um die MonDAYSe der Kanone zu erleichtern. Das Gesamtgewicht betrug 9,9 Tonnen. Das ZiS-3 war im Heck untergebracht, geschützt durch eine geschlossene, 10-35 mm dicke, schräg gepanzerte Kasematte. Das Fahrzeug war jedoch nicht vollständig von der Panzerung umschlossen, das hintere Dach und die hintere Oberseite lagen frei. Seine einfache Konstruktion machte ihn zum zweitmeistproduzierten sowjetischen Panzerfahrzeug des Zweiten Weltkriegs, nach dem T-34.  Wegen seiner sehr leichten Panzerung und seiner dem deutschen 65-Tonnen-Panzer Ferdinand ähnlichen Silhouette erhielt er auch den Spitznamen "Golozhopiy Ferdinand" ("Ferdinand mit bloßen Ohren").  Das Geschütz hatte ein koaxiales DT-Maschinengewehr und die dreiköpfige Besatzung trug auch persönliche Schusswaffen. Bis 1945 lieferten die Fabriken nicht weniger als 13.932 Fahrzeuge aus. Er hatte die stärkeren GAZ-203-Zwillingsmotoren mit einer Gesamtleistung von 170 PS, die eine Höchstgeschwindigkeit von 45 km/h ermöglichten."
 
  light_soviet_tank_art_3:0 "SU-71 Leichte SP-Art"
  light_soviet_tank_art_3_short:0 "SU-71 Leichte SP-Art"
@@ -6936,7 +6936,7 @@
 
  t_34_art_2:0 "SU-122 Mittleres Selbstfahrergeschütz"
  t_34_art_2_short:0 "SU-122 Med.SPG"
- t_34_art_2_desc:0 "Die SU-122 war eine 122-mm-Selbstfahrlafette, die auf dem Fahrgestell des mittleren Panzers T-34 gebaut wurde, um die Infanterie im Nahbereich zu unterstützen. Sie wurde gemäß einer Anforderung aus dem Jahr 1942 hergestellt, die eine vollständig gepanzerte, selbstfahrende Lafette für eine Kanone verlangte, die in der Lage war, stärkere hochexplosive Granaten zu verschießen als die aktuelle Generation sowjetischer Panzer. Die Front wurde durch eine Verlängerung der schrägen Panzerung des T-34 nach oben und eine leichte Verringerung des Neigungswinkels auf 50° hergestellt, um den verfügbaren Raum zu vergrößern. Die frontale Geschützmontage ermöglichte eine vertikale Bewegung von -3 bis +26 Grad und zehn Grad nach beiden Seiten. Das Geschütz konnte einen feindlichen Panzer im Notfall durch die Wucht seines großen Kalibers ernsthaft beschädigen oder mit HEAT zerstören, aber das war nicht seine Aufgabe als Angriffskanone, und Versuche haben gezeigt, dass das Geschütz nichts Panzerähnliches treffen konnte, es sei denn, es wurde aus nächster Nähe abgeschossen."
+ t_34_art_2_desc:0 "Die SU-122 war eine 122-mm-Selbstfahrlafette, die auf dem Fahrgestell des mittleren Panzers T-34 gebaut wurde, um die Infanterie im Nahbereich zu unterstützen. Sie wurde gemäß einer Anforderung aus dem Jahr 1942 hergestellt, die eine vollständig gepanzerte, selbstfahrende Lafette für eine Kanone verlangte, die in der Lage war, stärkere hochexplosive Granaten zu verschießen als die aktuelle Generation sowjetischer Panzer. Die Front wurde durch eine Verlängerung der schrägen Panzerung des T-34 nach oben und eine leichte Verringerung des Neigungswinkels auf 50° hergestellt, um den verfügbaren Raum zu vergrößern. Die frontale GeschützmonDAYSe ermöglichte eine vertikale Bewegung von -3 bis +26 Grad und zehn Grad nach beiden Seiten. Das Geschütz konnte einen feindlichen Panzer im Notfall durch die Wucht seines großen Kalibers ernsthaft beschädigen oder mit HEAT zerstören, aber das war nicht seine Aufgabe als Angriffskanone, und Versuche haben gezeigt, dass das Geschütz nichts Panzerähnliches treffen konnte, es sei denn, es wurde aus nächster Nähe abgeschossen."
 
  #t_34_ag_2:0 "T-34-Z37 Medium Self-Propelled Anti-Air"
  #t_34_ag_2_short:0 "T-34-Z37 Med.SPAA"
@@ -6960,7 +6960,7 @@
 
  t_54_equipment_1:0 "T-54 Mittlerer Panzer"
  t_54_equipment_1_short:0 "T-54 Med.TK"
- t_54_equipment_1_desc:0 "Der erste Prototyp des T-54 wurde Ende 1945 in Nischni Tagil fertiggestellt. Die für 1947 in Nischni Tagil und 1948 in Charkow geplanten Produktionsanläufe wurden gestoppt und gekürzt, da viele Probleme aufgedeckt wurden; der T-34-85 machte in den 50er Jahren noch 88 Prozent der Produktion aus. Die Hauptbewaffnung war ein 100-mm-Geschütz D-10T. Die Panzerung war ziemlich schwer und gut geneigt, sie betrug 205 mm an der Turmfront und 120 mm an der Wannenfront, die um 60° geneigt war. Sein Gewicht betrug 36 Tonnen und sein Dieselmotor vom Typ V-54/55, der in späteren Versionen bis zu 800 PS leistete, ermöglichte eine Höchstgeschwindigkeit von 48 km/h. Die geschätzten Produktionszahlen für diese Serie liegen zwischen 86.000 und 100.000."
+ t_54_equipment_1_desc:0 "Der erste Prototyp des T-54 wurde Ende 1945 in Nischni DAYSil fertiggestellt. Die für 1947 in Nischni DAYSil und 1948 in Charkow geplanten Produktionsanläufe wurden gestoppt und gekürzt, da viele Probleme aufgedeckt wurden; der T-34-85 machte in den 50er Jahren noch 88 Prozent der Produktion aus. Die Hauptbewaffnung war ein 100-mm-Geschütz D-10T. Die Panzerung war ziemlich schwer und gut geneigt, sie betrug 205 mm an der Turmfront und 120 mm an der Wannenfront, die um 60° geneigt war. Sein Gewicht betrug 36 Tonnen und sein Dieselmotor vom Typ V-54/55, der in späteren Versionen bis zu 800 PS leistete, ermöglichte eine Höchstgeschwindigkeit von 48 km/h. Die geschätzten Produktionszahlen für diese Serie liegen zwischen 86.000 und 100.000."
 
  t_34_td_4:0 "SU-100-54 Mittlerer Panzerzerstörer"
  t_34_td_4_short:0 "SU-100-54 Med.TD"
@@ -7072,7 +7072,7 @@
 
  SOV_super_heavy_tank_equipment_0:0 "SMK M.1940 'Oktober Revolution'"
  SOV_super_heavy_tank_equipment_0_short:0 "SMK M'40 S.Hvy.Tank"
- SOV_super_heavy_tank_equipment_0_desc:0 "Es wurden mehrere Versuche unternommen, die unzuverlässigen und kaum kampffähigen T-35-Panzer zu ersetzen. Projekte wie der T-1000 erreichten nur den Status eines Prototyps und die erste Iteration des T-42 von Eduard Grotte verließ nicht einmal das Zeichenbrett. Der SMK - benannt nach Sergej Mironowitsch Kirow, einem 1934 ermordeten Funktionär der Kommunistischen Partei - wurde dagegen im Winterkrieg eingesetzt, bis er auf eine Mine lief, fand aber dennoch einige Interessenten. Der ursprüngliche Prototyp galt als zu leicht gepanzert (vor allem das Heck) für sein schweres Fahrgestell und als keine wirkliche Alternative zum KV-1. Daher wurde er auf 100 mm Frontpanzerung mit einem Neigungswinkel von 45° und 100 mm für die Geschütztürme aufgerüstet, was ein Gesamtgewicht von 65 Tonnen ergab. Das Layout des SMK war ein 2-Turm-Zwei-Etagen-Design und beherbergte einen verbesserten 122mm M-30 M.1938-L/22,7 Hauptgeschützturm auf der oberen Etage und der sekundäre Turm hatte ein 57mm ZiS-4 L/69,3 auf der unteren Etage. Die Leistung des GAM-34BT-Motors mit 850 PS reichte aufgrund des höheren Gewichts nicht mehr aus und das Getriebe musste geändert werden, wodurch das Fahrzeug eine Höchstgeschwindigkeit von 20 km/h erreichte. "
+ SOV_super_heavy_tank_equipment_0_desc:0 "Es wurden mehrere Versuche unternommen, die unzuverlässigen und kaum kampffähigen T-35-Panzer zu ersetzen. Projekte wie der T-1000 erreichten nur den Status eines Prototyps und die erste Iteration des T-42 von Eduard Grotte verließ nicht einmal das Zeichenbrett. Der SMK - benannt nach Sergej Mironowitsch Kirow, einem 1934 ermordeten Funktionär der Kommunistischen Partei - wurde dagegen im Winterkrieg eingesetzt, bis er auf eine Mine lief, fand aber dennoch einige Interessenten. Der ursprüngliche Prototyp galt als zu leicht gepanzert (vor allem das Heck) für sein schweres Fahrgestell und als keine wirkliche Alternative zum KV-1. Daher wurde er auf 100 mm Frontpanzerung mit einem Neigungswinkel von 45° und 100 mm für die Geschütztürme aufgerüstet, was ein Gesamtgewicht von 65 Tonnen ergab. Das Layout des SMK war ein 2-Turm-Zwei-EDAYSen-Design und beherbergte einen verbesserten 122mm M-30 M.1938-L/22,7 Hauptgeschützturm auf der oberen EDAYSe und der sekundäre Turm hatte ein 57mm ZiS-4 L/69,3 auf der unteren EDAYSe. Die Leistung des GAM-34BT-Motors mit 850 PS reichte aufgrund des höheren Gewichts nicht mehr aus und das Getriebe musste geändert werden, wodurch das Fahrzeug eine Höchstgeschwindigkeit von 20 km/h erreichte. "
 
  SOV_super_heavy_tank_artillery_equipment_1:0 "KV-5 'Potemkin'"
  SOV_super_heavy_tank_artillery_equipment_1_short:0 "KV-5 SPG'43"
@@ -7598,7 +7598,7 @@
  tu_2_bomber_equipment_desc:0 "Die Tupolew Tu-2 ist ein leichter Bomber."
  tu_2_bomber_equipment_1:0 "Petljakow Pe-2"
  tu_2_bomber_equipment_1_short:0 "Pe-2 Lt-Bomber"
- tu_2_bomber_equipment_1_desc:0 "Die Petljakow Pe-2 war ein leichter Bomber. Sie galt als eines der besten Bodenangriffsflugzeuge des frühen Krieges und ihre Varianten waren auch als schwere Jäger, Aufklärer und Nachtjäger erfolgreich. Sie ähnelte in vielerlei Hinsicht der hölzernen britischen de Havilland Mosquito. Gerade als die Produktion anlief, gab die Luftwaffe eine Neukonstruktion des Flugzeugs als Sturzkampfbomber in Auftrag. Petljakows Team hatte 45 Tage Zeit, das Flugzeug neu zu entwerfen. Der Kabinendruckausgleich und die Turbolader wurden gestrichen, Sturzflugbremsen und ein Bombenschützenplatz wurden hinzugefügt. Der Rumpf erhielt einen Bombenschacht sowie kleinere Schächte in jeder Triebwerksgondel. Das erste Flugzeug flog am 15. Dezember 1940, die Produktion wurde ohne Prototyp durchlaufen und die Auslieferung an die Kampfeinheiten begann im folgenden Frühjahr. Ihre Verteidigungsbewaffnung bestand aus zwei feststehenden 7,62-mm-ShKAS-Maschinengewehren im Bug und nach hinten feuernden 7,62-mm-ShKAS. 1600 kg Bomben konnten bei einer Höchstgeschwindigkeit von 580 km/h mitgeführt werden."
+ tu_2_bomber_equipment_1_desc:0 "Die Petljakow Pe-2 war ein leichter Bomber. Sie galt als eines der besten Bodenangriffsflugzeuge des frühen Krieges und ihre Varianten waren auch als schwere Jäger, Aufklärer und Nachtjäger erfolgreich. Sie ähnelte in vielerlei Hinsicht der hölzernen britischen de Havilland Mosquito. Gerade als die Produktion anlief, gab die Luftwaffe eine Neukonstruktion des Flugzeugs als Sturzkampfbomber in Auftrag. Petljakows Team hatte 45 DAYSe Zeit, das Flugzeug neu zu entwerfen. Der Kabinendruckausgleich und die Turbolader wurden gestrichen, Sturzflugbremsen und ein Bombenschützenplatz wurden hinzugefügt. Der Rumpf erhielt einen Bombenschacht sowie kleinere Schächte in jeder Triebwerksgondel. Das erste Flugzeug flog am 15. Dezember 1940, die Produktion wurde ohne Prototyp durchlaufen und die Auslieferung an die Kampfeinheiten begann im folgenden Frühjahr. Ihre Verteidigungsbewaffnung bestand aus zwei feststehenden 7,62-mm-ShKAS-Maschinengewehren im Bug und nach hinten feuernden 7,62-mm-ShKAS. 1600 kg Bomben konnten bei einer Höchstgeschwindigkeit von 580 km/h mitgeführt werden."
  tech_tu_2_bomber_equipment_1:0 "Tu-2"
  tech_tu_2_bomber_equipment_1_desc:0 "Die Tupolev Tu-2 ist ein leichter Bomber."
  tu_2_rocket_upgrade:0 "Raketen"
@@ -7681,11 +7681,11 @@
 
  SOV_transport_plane_equipment_2:0 "Yakovlev Yak-6 Transportflugzeug"
  SOV_transport_plane_equipment_2_short:0 "Yak-6 (T.P)"
- SOV_transport_plane_equipment_2_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ SOV_transport_plane_equipment_2_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
  SOV_transport_plane_equipment_3:0 "Petljakow Pe-8-ON Transportflugzeug"
  SOV_transport_plane_equipment_3_short:0 "Pe-8-ON (T.P)"
- SOV_transport_plane_equipment_3_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen §!"
+ SOV_transport_plane_equipment_3_desc:0 "§Flugzeuge für den Truppentransport bei Paradrop-Einsätzen§!"
 
 
  SOV_flying_boat_equipment_1:0 "Beriev 6 Flugboot"
@@ -7709,7 +7709,7 @@
  light_soviet_tank_equipment:0 "Lt.TK der T-Serie"
  light_soviet_tank_equipment_desc:0 "Lt.TKs sind kleine, wendige Panzer, die sowohl zur Aufklärung als auch zur Bekämpfung leicht gepanzerter Gegner geeignet sind."
  light_soviet_tank_td:0 "SU-76"
- light_soviet_tank_td_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester Montage anstelle eines Turms. Lt.TK Destroyers basieren auf dem Fahrgestell von Lt.TKs, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu den schwereren TDs keine besonders starken Geschütze tragen."
+ light_soviet_tank_td_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester MonDAYSe anstelle eines Turms. Lt.TK Destroyers basieren auf dem Fahrgestell von Lt.TKs, was bedeutet, dass sie ziemlich mobil sind, aber im Vergleich zu den schwereren TDs keine besonders starken Geschütze tragen."
  bt_tank_equipment:0 "BT-Panzer"
  bt_tank_equipment_desc:0 "Lt.TKs sind kleine, wendige Panzer, die sowohl als Aufklärer als auch zur Bekämpfung leicht gepanzerter Gegner geeignet sind."
  t_34_equipment:0 "T-34"
@@ -7733,7 +7733,7 @@
  is_tank_equipment:0 "Josef Stalin"
  is_tank_equipment_desc:0 "Schwere Panzer sind große, gepanzerte Ungetüme, die gegnerische Panzer und Befestigungen zerstören sollen."
  is_tank_td:0 "ISU-122"
- is_tank_td_desc:0 "Ein Hv.TK, bei dem der Turm entfernt wurde, um eine noch größere Kanone in einer festen Montage zu tragen."
+ is_tank_td_desc:0 "Ein Hv.TK, bei dem der Turm entfernt wurde, um eine noch größere Kanone in einer festen MonDAYSe zu tragen."
  is_tank_art:0 "ISU-152"
  is_tank_art_desc:0 "Ein großes Artilleriegeschütz, das auf einem schweren Fahrgestell montiert ist. Diese Selbstfahrlafetten haben eine große Feuerkraft."
 
@@ -7806,7 +7806,7 @@
 
  USA_jet_fighter_equipment_1:0 "Lockheed P-80 'Shootingstar' Düsenjäger"
  USA_jet_fighter_equipment_1_short:0 "P-80 (J.F)"
- USA_jet_fighter_equipment_1_desc:0 "Die Lockheed P-80 Shooting Star war das erste Düsenjagdflugzeug, das von der USAAF eingesetzt wurde. Die Konzeptionsarbeit für die XP-80 begann 1943 mit einem Entwurf, der auf den Blaupausen eines britischen Halford H-1 B-Turbotriebwerks (später de Havilland Goblin genannt) basierte, ein Triebwerk, zu dem das Entwicklungsteam keinen tatsächlichen Zugang hatte. Die von Lockheed entworfenen und gebauten Modelle wurden nur 143 Tage nach Beginn des Entwurfsprozesses ausgeliefert und flogen mit dem britischen Triebwerk. Mit geraden Flügeln und einem einzelnen Allison J33-A-35 Zentrifugalkompressor-Turbotriebwerk mit 20 kN Schub erreichte sie eine Höchstgeschwindigkeit von 707 km/h. Ihre Bewaffnung bestand aus sechs 12,7 mm M3-Maschinengewehren. Die P-80 hatte eine konventionelle Ganzmetall-Zelle mit einem schlanken, niedrigen Flügel und einem Dreiradfahrwerk."
+ USA_jet_fighter_equipment_1_desc:0 "Die Lockheed P-80 Shooting Star war das erste Düsenjagdflugzeug, das von der USAAF eingesetzt wurde. Die Konzeptionsarbeit für die XP-80 begann 1943 mit einem Entwurf, der auf den Blaupausen eines britischen Halford H-1 B-Turbotriebwerks (später de Havilland Goblin genannt) basierte, ein Triebwerk, zu dem das Entwicklungsteam keinen tatsächlichen Zugang hatte. Die von Lockheed entworfenen und gebauten Modelle wurden nur 143 DAYSe nach Beginn des Entwurfsprozesses ausgeliefert und flogen mit dem britischen Triebwerk. Mit geraden Flügeln und einem einzelnen Allison J33-A-35 Zentrifugalkompressor-Turbotriebwerk mit 20 kN Schub erreichte sie eine Höchstgeschwindigkeit von 707 km/h. Ihre Bewaffnung bestand aus sechs 12,7 mm M3-Maschinengewehren. Die P-80 hatte eine konventionelle Ganzmetall-Zelle mit einem schlanken, niedrigen Flügel und einem Dreiradfahrwerk."
 
  USA_jet_fighter_equipment_2:0 "North American F-86 'Sabre' Düsenjäger"
  USA_jet_fighter_equipment_2_short:0 "F-86 'Sabre' (J.F)"
@@ -8126,7 +8126,7 @@
 
  us_heavy_bomber_equipment_2_c:0 "Consolidated B-24 D 'Liberator' Schwerer Bomber"
  us_heavy_bomber_equipment_2_c_short:0 "B-24 D (Hv.B)"
- us_heavy_bomber_equipment_2_c_desc:0 "Die B-24D war das erste in großem Maßstab produzierte Modell; sie wurde ab 1940 als B-24C mit besseren Motoren (R-1830-43 Kompressormotoren) bestellt. Das D-Modell war zunächst mit einem ferngesteuerten und periskopischen Bendix-Bauchturm ausgestattet, der sich jedoch im Einsatz als unzureichend erwies und nach der 287sten Maschine eingestellt wurde. Die Produktionsflugzeuge kehrten zur früheren handbetätigten "Tunnel"-Montage mit einer einzelnen 12,7-mm-Maschine zurück. Die Tunnelkanone wurde schließlich durch den Sperry-Kugelturm ersetzt, der auch von den späteren B-17E Fortresses übernommen worden war, aber für die Liberator einklappbar gemacht wurde, wenn sie nicht in Gebrauch war, da der Bauchbereich ihres Rumpfes bei der Landung sehr nahe am Boden lag. Bei den späten B-24D wurden "Wangen"-Kanonen auf beiden Seiten der vorderen Nase, direkt hinter der gerahmten "Treibhaus"-Nasenverglasung, angebracht."
+ us_heavy_bomber_equipment_2_c_desc:0 "Die B-24D war das erste in großem Maßstab produzierte Modell; sie wurde ab 1940 als B-24C mit besseren Motoren (R-1830-43 Kompressormotoren) bestellt. Das D-Modell war zunächst mit einem ferngesteuerten und periskopischen Bendix-Bauchturm ausgestattet, der sich jedoch im Einsatz als unzureichend erwies und nach der 287sten Maschine eingestellt wurde. Die Produktionsflugzeuge kehrten zur früheren handbetätigten "Tunnel"-MonDAYSe mit einer einzelnen 12,7-mm-Maschine zurück. Die Tunnelkanone wurde schließlich durch den Sperry-Kugelturm ersetzt, der auch von den späteren B-17E Fortresses übernommen worden war, aber für die Liberator einklappbar gemacht wurde, wenn sie nicht in Gebrauch war, da der Bauchbereich ihres Rumpfes bei der Landung sehr nahe am Boden lag. Bei den späten B-24D wurden "Wangen"-Kanonen auf beiden Seiten der vorderen Nase, direkt hinter der gerahmten "Treibhaus"-Nasenverglasung, angebracht."
 
  us_heavy_bomber_equipment_3_a:0 "Boeing B-17 F 'Flying Fortress' Schwerer Bomber"
  us_heavy_bomber_equipment_3_a_short:0 "B-17 F (Hv.B)"
@@ -8505,7 +8505,7 @@ ITA_super_heavy_tank_equipment_1_desc:0 "Da Mussolini - koste es, was es wolle -
 
 ITA_super_heavy_tank_equipment_2:0 "Carro Armato superpesante Fiat 5000 "Il Duce"
 ITA_super_heavy_tank_equipment_2_short:0 "Fiat 5000 S.H.TK"
-ITA_super_heavy_tank_equipment_2_desc:0 "Es handelte sich um einen auf 100 Tonnen aufgestockten Fiat 4000, der höher, länger und breiter wurde. Die 75-mm-L/32-Kanonen wurden zu L/40-Versionen aufgerüstet und die Panzerung auf 120 mm rundum erhöht. Die Obice 149/12 erhielt HEAT-Munition, und die koaxialen 20-mm-Zwillingskanonen wurden zu einer Vierfachmontage aufgerüstet. Es erwies sich jedoch als schwierig, alle vier Kanonen nach dem ersten Munitionswechsel nachzuladen, wenn sie kontinuierlich feuerten, und es wurde erwogen, auf eine 37-mm-Zwillingsmontage umzustellen. Aufgrund des höheren Gewichts und der unveränderten Motoren wurde die Höchstgeschwindigkeit auf der Straße auf 15 km/h reduziert."
+ITA_super_heavy_tank_equipment_2_desc:0 "Es handelte sich um einen auf 100 Tonnen aufgestockten Fiat 4000, der höher, länger und breiter wurde. Die 75-mm-L/32-Kanonen wurden zu L/40-Versionen aufgerüstet und die Panzerung auf 120 mm rundum erhöht. Die Obice 149/12 erhielt HEAT-Munition, und die koaxialen 20-mm-Zwillingskanonen wurden zu einer VierfachmonDAYSe aufgerüstet. Es erwies sich jedoch als schwierig, alle vier Kanonen nach dem ersten Munitionswechsel nachzuladen, wenn sie kontinuierlich feuerten, und es wurde erwogen, auf eine 37-mm-ZwillingsmonDAYSe umzustellen. Aufgrund des höheren Gewichts und der unveränderten Motoren wurde die Höchstgeschwindigkeit auf der Straße auf 15 km/h reduziert."
 
 ITA_super_heavy_tank_artillery_equipment_1:0 "Fiat 4000 S.H.SPG 'Remus'"
 ITA_super_heavy_tank_artillery_equipment_1_short:0 "Fiat 4000 SH.SPG"
@@ -8741,13 +8741,13 @@ FRA_medium_tank_equipment_4_short:0 "AMX 50t"
 
  FRA_medium_tank_destroyer_equipment_1:0 "Med.TK Zerstörer I"
  FRA_medium_tank_destroyer_equipment_1_short:0 "Med. TD I"
- FRA_medium_tank_destroyer_equipment_1_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester Montage anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell eines mittleren Panzers, sind also recht mobil und verfügen über eine respektable Feuerkraft."
+ FRA_medium_tank_destroyer_equipment_1_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester MonDAYSe anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell eines mittleren Panzers, sind also recht mobil und verfügen über eine respektable Feuerkraft."
  FRA_medium_tank_destroyer_equipment_2:0 "Somua S35 CA"
  FRA_medium_tank_destroyer_equipment_2_short:0 "S35 CA Med. TD II"
- FRA_medium_tank_destroyer_equipment_2_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester Montage anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell eines mittleren Panzers, sind also recht mobil und verfügen über eine respektable Feuerkraft."
+ FRA_medium_tank_destroyer_equipment_2_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester MonDAYSe anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell eines mittleren Panzers, sind also recht mobil und verfügen über eine respektable Feuerkraft."
  FRA_medium_tank_destroyer_equipment_3:0 "Med.TK Zerstörer III"
  FRA_medium_tank_destroyer_equipment_3_short:0 "Med. TD III"
- FRA_medium_tank_destroyer_equipment_3_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester Montage anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell eines mittleren Panzers, sind also recht mobil und verfügen über eine respektable Feuerkraft."
+ FRA_medium_tank_destroyer_equipment_3_desc:0 "Panzerzerstörer sind Panzer mit einer überdurchschnittlich großen Kanone in fester MonDAYSe anstelle eines Turms. Mittlere Panzerzerstörer basieren auf dem Fahrgestell eines mittleren Panzers, sind also recht mobil und verfügen über eine respektable Feuerkraft."
 
 FRA_heavy_tank_equipment_1:0 "Char B1 Hv-Panzer"
 FRA_heavy_tank_equipment_1_short:0 "Char B1 Hv-Panzer"
@@ -8788,7 +8788,7 @@ japanese_tech_d:0 "Japan"
 # Small Liaison Vehicles ""
 NZL_motorized_lia_equipment_01:0 "Austin 7"
 NZL_motorized_lia_equipment_01_short:0 "Austin 7"
-NZL_motorized_lia_equipment_01_desc:0 "Ein militärisches Verbindungsfahrzeug, das zur Koordinierung zwischen Einheiten im Feld und leichten Transportmitteln eingesetzt wird. Es handelt sich um eine militärische Adaption eines späteren Modells einer der erfolgreichsten britischen Autoserien, des Austin 7. Die Änderungen sind relativ spärlich: alles, was nicht unbedingt notwendig ist, wurde entfernt, mehr Stauraum, Militärräder, Abschleppösen und ein geänderter Kraftstofftank. Historisch gesehen wurde der Austin 7 zwischen 1922 und 1939 hergestellt. Die britische Armee kaufte in der Vorkriegszeit eine Reihe von Austin 7 für den Verbindungseinsatz. Die Montage von Austin und Morris in Neuseeland begann 1934. Bei Kriegsbeginn wurden zivile Fahrzeuge aller Art beschlagnahmt, und die neuseeländischen Infanteriebataillone verfügten ab 1941 über einen offiziellen Bestand von 6 Austin-Zweisitzern."
+NZL_motorized_lia_equipment_01_desc:0 "Ein militärisches Verbindungsfahrzeug, das zur Koordinierung zwischen Einheiten im Feld und leichten Transportmitteln eingesetzt wird. Es handelt sich um eine militärische Adaption eines späteren Modells einer der erfolgreichsten britischen Autoserien, des Austin 7. Die Änderungen sind relativ spärlich: alles, was nicht unbedingt notwendig ist, wurde entfernt, mehr Stauraum, Militärräder, Abschleppösen und ein geänderter Kraftstofftank. Historisch gesehen wurde der Austin 7 zwischen 1922 und 1939 hergestellt. Die britische Armee kaufte in der Vorkriegszeit eine Reihe von Austin 7 für den Verbindungseinsatz. Die MonDAYSe von Austin und Morris in Neuseeland begann 1934. Bei Kriegsbeginn wurden zivile Fahrzeuge aller Art beschlagnahmt, und die neuseeländischen Infanteriebataillone verfügten ab 1941 über einen offiziellen Bestand von 6 Austin-Zweisitzern."
 NZL_motorized_lia_equipment_02:0 "Austin 8"
 NZL_motorized_lia_equipment_02_short:0 "Austin 8"
 NZL_motorized_lia_equipment_02_desc:0 "Der Austin 7 wurde durch den Austin 8 abgelöst, der etwas größer war und über einen verbesserten Motor und eine bessere Federung verfügte. Eine große Anzahl ziviler Modelle wurde zu Beginn des Krieges beschlagnahmt und modifiziert, und es wurde eine werksseitige Version für das Militär gebaut, der Military 8AP Tourer. Historisch gesehen begann die Produktion des Austin 8 im Februar 1939, und es wurden etwa 9000 Military 8AP Tourer gebaut."
@@ -9100,8 +9100,8 @@ NZL_cavalry_tank_equipment_0_desc:0 "Dies ist eine weitere Überarbeitung des Pr
  heavy_fighter_equipment_b:0 "Sehr einfacher Typ eines HF"
  heavy_fighter_equipment_b_short:0 "1928 Schweres Jagdflugzeug"
 
- tank_nsb_engine_upgrade:0 "$Panzertriebwerk_Aufrüstung$"
- tank_nsb_armor_upgrade:0 "$Panzer_Panzerung_Aufrüstung$"
+ tank_nsb_engine_upgrade:0 "$tank_engine_upgrade$"
+ tank_nsb_armor_upgrade:0 "$tank_armor_upgrade$"
  train_equipment:0 "Zug"
  train_equipment_desc:0 "Züge transportieren Vorräte von der Nachschubhauptstadt zu den Nachschubknotenpunkten, die über die Schiene verbunden sind."
  train_equipment_1:0 "Ziviler Zug"

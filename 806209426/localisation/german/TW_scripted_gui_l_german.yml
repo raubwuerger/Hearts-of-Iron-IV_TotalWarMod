@@ -3,7 +3,7 @@
  REDSEA_STRAIT:0 "Straße des Roten Meeres"
 
 
- TOPBAR_ADD_TOOLTIP:0 "§YKlicken Sie auf §!§!, um ein konfigurierbares §YTopbar-Fenster hinzuzufügen§!"
+ TOPBAR_ADD_TOOLTIP:0 "§YKlicken Sie auf§!, um ein konfigurierbares §YTopbar-Fenster hinzuzufügen§!"
  TOPBAR_INFO_TEXT:0 "[This.GetSelectedTopbarInfoText] "
  TOPBAR_INFO_TOOLTIP:0 "[This.GetDynamicTooltip]"
  TOTAL_CASUALTIES_TT:0 "§YEffekte aus unseren aktuellen Casualties§!\n Basis-Kriegsunterstützung: [?currentWarsupportHit|R%]"
@@ -67,7 +67,7 @@
  TOPBAR_LIST_SURRENDER_TOOLTIP:0 "§YKapitulationsfortschritt§!"
  TOPBAR_LIST_STRENGTH_RATIO_TOOLTIP:0 "Stärke-Verhältnis"
  TOPBAR_LIST_NAVAL_STRENGTH_RATIO_TOOLTIP:0 "Verhältnis der Seestärke"
- TOPBAR_LIST_RESOURCE_TOOLTIP:0 "Ausgewählte Ressource: §Y[This.GetTopbarSelectedResourceTooltip]§!\nAusgewählte Variable: §Y[This.GetTopbarSelectedResourceVariableTooltip]§!\n\n§YRechts-Klick§!zum Ändern der ausgewählten §YRessource§!\n§YUmschalt-Links-Klick§!zum Ändern der ausgewählten §Y§Y-Variable§! (Gesamt, Verbraucht, Exportiert, Importiert oder Produziert)"
+ TOPBAR_LIST_RESOURCE_TOOLTIP:0 "Ausgewählte Ressource: §Y[This.GetTopbarSelectedResourceTooltip]§!\nAusgewählte Variable: §Y[This.GetTopbarSelectedResourceVariableTooltip]§!\n\n§YRechts-Klick§!zum Ändern der ausgewählten §YRessource§!\n§YUmschalt-Links-Klick§!zum Ändern der ausgewählten §Y-Variable§! (Gesamt, Verbraucht, Exportiert, Importiert oder Produziert)"
  TOPBAR_LIST_POPULARITY_TOOLTIP:0 "Ausgewählte Partei: §Y[This.GetTopbarSelectedPopularityTooltip]§!\n§YRechts-Klick§!zum Ändern"
 
  TOPBAR_LIST_ARMY_STRENGTH_TOOLTIP:0 "Armee-Stärke"
