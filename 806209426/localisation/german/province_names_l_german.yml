@@ -1,1 +1,17 @@
-﻿
+﻿l_german:
+ europe:0 "Europa"
+ europe_adj:0 "Europa"
+ asia:0 "Asien"
+ asia_adj:0 "Asien"
+ africa:0 "Afrika"
+ africa_adj:0 "Afrika"
+ north_america:0 "Nord-Amerika"
+ north_america_adj:0 "Nordamerikanisch"
+ south_america:0 "Südamerika"
+ south_america_adj:0 "Südamerika"
+ australia:0 "Ozeanien"
+ australia_adj:0 "Ozeanien"
+ middle_east:0 "Mittlerer Osten"
+ middle_east_adj:0 "Naher Osten"
+ neighbor:0 "Nachbarländer"
+ subject:0 "Thema"

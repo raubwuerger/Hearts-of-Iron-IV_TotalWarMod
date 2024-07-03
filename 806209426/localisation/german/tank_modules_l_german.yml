@@ -1,1 +1,7 @@
-﻿
+﻿l_german:
+ DESIGNER_CHASSIS_BASE:0 "Fahrgestell: "
+ DESIGNER_FROM_MODULES:0 "Module: "
+ DESIGNER_UNSAVED_CHANGES:0 "Nicht gespeicherte Änderungen: "
+ EQUIPMENT_AMPHIBIOUS:0 "Amphibischer Panzer"
+
+ ### EQUIPMENT MODULE ROLE PERMISSIONS ### ""

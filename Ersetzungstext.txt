@@ -1,3 +1,6 @@
 Schutzeffizienz -> Sicherungseffizenz
 Schutzschiffe -> Sicherungsschiffe
 Utility Vehicles -> Nutzfahrzeuge
+Special Forces -> Spezialeinsatzkräfte
+Factories -> Fabriken
+Total Available -> Verfügbare Gesamtmenge
