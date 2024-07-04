@@ -1131,7 +1131,7 @@
  BUL_bury_the_grudges_of_the_past_explanatory_tt: "Alle unabhängigen §Ykommunistischen§! Nationen auf dem Balkan erhalten das Ereignis §Y'Bulgarien lädt uns in Balkanföderation der Sozialistischen Republiken ein'§!.\n§RBulgarien gibt alle Gebietsansprüche in diesen Ländern auf§!."
  BUL_bury_the_grudges_of_the_past_explanatory_democratic_tt: "Alle unabhängigen §Ydemokratischen§! Nationen auf dem Balkan erhalten das Ereignis §Y'[BUL.GetNameDef] lädt uns in [GetDemocraticBalkanConfederationName] ein'§!.\n§RBulgarien gibt alle Gebietsansprüche in diesen Ländern auf§!."
  BUL_bury_the_grudges_of_the_past_decisions_tt: "Schaltet Entscheidungen frei, um Balkannationen zu beeinflussen und zum [GetBalkanFactionName]-Beitritt einzuladen."
- BUL_bury_the_grudges_of_the_past_no_faction: "[ROOT.GetFlag]§Y[ROOT.GetAdjective]§!e Fraktion"
+ BUL_bury_the_grudges_of_the_past_no_faction: "[ROOT.GetFlag]§Y[ROOT.GetAdjective]§! e Fraktion"
  BUL_bury_the_grudges_of_the_past_communist: "die §YBalkanföderation der Sozialistischen Republiken§!"
  BUL_bury_the_grudges_of_the_past_democratic: "die §YBalkanentente§!"
  BUL_balkan_trade_union_secretariat_tt: "Jede Balkannation, die mit Bulgarien verbündet ist, erhält den Nationalgeist §YBalkan-Gewerkschaftssekretariat§! und damit (Konsumgüterfabriken: §Y-5%§!, Wirtschaftsgesetze-Kosten: §G-35%§!, Handelsgesetze-Kosten: §G-35%§!)."

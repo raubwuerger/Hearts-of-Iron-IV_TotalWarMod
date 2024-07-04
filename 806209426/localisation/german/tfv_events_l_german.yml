@@ -476,7 +476,7 @@
  tfv_raj.44.desc:0 "Der heutigeTagmarkiert den Beginn einer neuen Ära in der indischen Geschichte. Nach Jahrhunderten unter fremder Herrschaft haben wir endlich die volle Unabhängigkeit erlangt. Die örtlichen [ENG.GetAdjective]-Beamten wurden angewiesen, den Übergang zur [RAJ.GetAdjective]-Herrschaft zu unterstützen, und werden in den nächsten Monaten nach Hause geschickt. \n\nMit der Hilfe unserer neuen [GER.GetAdjective]-Freunde können wir uns nun auf die vor uns liegende Aufgabe konzentrieren - den Aufbau einer Nation für unser Volk."
  tfv_raj.44.a:0 "Triumphiert!"
  AST_CREATE_FACTION:0 "Wir werden unsere eigene Fraktion gründen."
- SAF_colonies_tt:0 "Entlasse §YKenia§!und §YSimbabwe§!als Marionetten."
+ SAF_colonies_tt:0 "Entlasse §YKenia§! und §YSimbabwe§! als Marionetten."
  SAF_soviet_research_tt:0 "Schließt ein Forschungsabkommen mit Südafrika ab."
  tfv_raj_focus_paratrooper_tt:0 "Die Fallschirmjäger des Battaglione Azad Hindoustan werden in Italien stationiert."
  tfv_raj.201.t:0 "Das Battaglione Azad Hindoustan"

@@ -10,7 +10,7 @@
  RESISTANCE_TARGET_MODIFIER_PER_STABILITY_LOSS:0 "Geringe Stabilität: $VALUE|-%0$"
  RESISTANCE_TARGET_MODIFIER_PER_COMPLIANCE:0 "Einhaltung: $VALUE|-%0$"
  RESISTANCE_TARGET_MODIFIER_STATE_VP:0 "Staatliche Siegpunkte £victory_points£: $VALUE|-%0$"
- RESISTANCE_TARGET_CAP_FOR_NON_COMPLIANCE:0 "Das Widerstandsziel ist von $CUR_TARGET|%0H$ auf $CAP|%0H$ gedeckelt und §HCompliance§!wird benötigt, um es weiter zu reduzieren"
+ RESISTANCE_TARGET_CAP_FOR_NON_COMPLIANCE:0 "Das Widerstandsziel ist von $CUR_TARGET|%0H$ auf $CAP|%0H$ gedeckelt und §HCompliance§! wird benötigt, um es weiter zu reduzieren"
 
  RESISTANCE_DECAY_MODIFIER_HAS_CLAIM:0 "Controller hat Anspruch: $VALUE|+%0$"
  RESISTANCE_DECAY_MODIFIER_LOW_RESISTANCE:0 "Niedriger Widerstand: $VALUE|+%0$"
@@ -49,20 +49,20 @@
  RECRUITABLE_POPULATION_ENTRY:0 "Faktor für rekrutierbare Bevölkerung: $VALUE|+%0$"
 
  RESISTANCE_TARGET_FLOW:0 "Ausbreitung des Widerstands von $STATE|H$: $FLOW|-%1$"
- RESISTANCE_DISABLED_INFO:1 "Der Widerstand wird derzeit erfolgreich unterdrückt und kann erst dann weiter wachsen, wenn §HResistance Target§!den $LIMIT|%0H$ erreicht"
+ RESISTANCE_DISABLED_INFO:1 "Der Widerstand wird derzeit erfolgreich unterdrückt und kann erst dann weiter wachsen, wenn §HResistance Target§! den $LIMIT|%0H$ erreicht"
 
  OCCUPATION_POLICY_AVAILABLE:0 "Verfügbar:"
  OCCUPATION_POLICY_STATE_MODIFIER:0 "Zustandsmodifikator:"
  OCCUPATION_POLICY_SUPRESSED_STATE_MODIFIER:0 "Zustandsmodifikator Wenn Widerstand unterdrückt wird:"
  OCCUPATION_POLICY_COMPARED_TO_LAW:0 " (Im Vergleich zu $NAME|H$)"
- OCCUPATION_POLICY_HOLD_CONTROL_TO_SHOW_DELTAS:0 "Halten Sie §GControl§!gedrückt, um den Vergleich zum aktuellen Gesetz anzuzeigen"
+ OCCUPATION_POLICY_HOLD_CONTROL_TO_SHOW_DELTAS:0 "Halten Sie §GControl§! gedrückt, um den Vergleich zum aktuellen Gesetz anzuzeigen"
 
  COUNTRY_OCCUPATION_TITLE:0 "Besetzte Territorien"
  OCCUPATION_MODIFIER_ACTIVE:0 "Der Modifikator ist derzeit aktiv. Er wird deaktiviert, wenn $TYPE|H$ unter $TO_DISABLE|%0H$ fällt"
  OCCUPATION_MODIFIER_ACTIVE_WITH_TRIGGER:0 "Der Modifikator ist derzeit aktiv. Er wird deaktiviert, wenn $TYPE|H$ unter $TO_DISABLE|%0H$ fällt oder die folgenden Bedingungen nicht erfüllt sind:"
 
- OCCUPATION_MODIFIER_NOT_ACTIVE:0 "Der Modifikator ist derzeit §RNOT§!aktiv. Er wird aktiviert, wenn $TYPE|H$ über $TO_ENABLE|%0H$ steigt"
- OCCUPATION_MODIFIER_NOT_ACTIVE_WITH_TRIGGER:1 "Der Modifikator ist derzeit §RNOT§!aktiv. Er wird aktiviert, wenn $TYPE|H$ über $TO_ENABLE|%0H$ liegt und die folgenden Bedingungen erfüllt sind:"
+ OCCUPATION_MODIFIER_NOT_ACTIVE:0 "Der Modifikator ist derzeit §RNOT§! aktiv. Er wird aktiviert, wenn $TYPE|H$ über $TO_ENABLE|%0H$ steigt"
+ OCCUPATION_MODIFIER_NOT_ACTIVE_WITH_TRIGGER:1 "Der Modifikator ist derzeit §RNOT§! aktiv. Er wird aktiviert, wenn $TYPE|H$ über $TO_ENABLE|%0H$ liegt und die folgenden Bedingungen erfüllt sind:"
 
  OCCUPATION_MODIFIERS_ON_ENABLE:0 "Die folgenden Effekte treten ein, wenn der Modifikator aktiviert ist:"
  OCCUPATION_MODIFIERS_ON_DISABLE:0 "Die folgenden Effekte treten ein, wenn der Modifikator deaktiviert ist:"
@@ -133,8 +133,8 @@
  GARRISON_LOG_ACTIVITY_SUCCES:0 "Aktivität nicht gestoppt: $ACTIVITY|R$"
 
  OCCUPATION_CHANGE_DEFAULT_LAW_TOOLTIP:0 "Standard-Garrison-Gesetz ändern"
- OCCUPATION_RESISTANCE_TAB_TOOLTIP:0 "Zeige §H-Widerstand§!auf der Karte."
- OCCUPATION_COMPLIANCE_TAB_TOOLTIP:0 "Zeige §HCompliance§!auf der Karte."
+ OCCUPATION_RESISTANCE_TAB_TOOLTIP:0 "Zeige §H-Widerstand§! auf der Karte."
+ OCCUPATION_COMPLIANCE_TAB_TOOLTIP:0 "Zeige §HCompliance§! auf der Karte."
  OCCUPATION_ZOOM_TO_STATE_TOOLTIP:0 "§GKlicken Sie auf§!, um in den/die besetzten Staat(en) zu zoomen"
 
  resistance_25:0 "Organisierter Widerstand"
