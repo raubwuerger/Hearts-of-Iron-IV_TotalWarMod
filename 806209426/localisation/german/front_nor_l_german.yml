@@ -34,7 +34,7 @@ NOR_political_effort:0 "Alt For Norge"
 NOR_neutrality_focus:0 "Kommuniqué von Kopenhagen"
 NOR_demand_faro:0 "Nachfrage Färöer Inseln"
 NOR_handelsflottan:0 "Rekrutierung der Handelsflotte"
-NOR_saboDAYSe:0 "Sabotasje"
+NOR_saboTage:0 "Sabotasje"
 NOR_lotteorg:0 "Lotteforbund"
 NOR_polistrupperna:0 "Polititroppene"
 NOR_island_crisis:0 "Island-Krise"
@@ -66,7 +66,7 @@ monarkin_norge:0 "Kongehuset"
 #######EVENTS ""
 
 import.4.t:0 "Anfrage für norwegische Polizeitruppen"
-import.4.d:0 "Die norwegische Regierung bittet uns in diesem Krieg um Unterstützung bei der Ausbildung von Truppen und Freiwilligen, die in ihrem Namen kämpfen sollen. Es handelt sich um eine verdeckte Operation, die als Ausbildungsprogramm für Polizeibeamte getarnt ist. Sie werden eine Menge EQUIPMENT benötigen (2000 Gewehre, 200 Unterstützungsgeräte und 50 Artilleriegeschütze). Sollten wir helfen?"
+import.4.d:0 "Die norwegische Regierung bittet uns in diesem Krieg um Unterstützung bei der Ausbildung von Truppen und Freiwilligen, die in ihrem Namen kämpfen sollen. Es handelt sich um eine verdeckte Operation, die als Ausbildungsprogramm für Polizeibeamte getarnt ist. Sie werden eine Menge Ausrüstung benötigen (2000 Gewehre, 200 Unterstützungsgeräte und 50 Artilleriegeschütze). Sollten wir helfen?"
 import.4.a:0 "Ja, gebt ihnen, was sie brauchen!"
 import.4.b:0 "Nein, wir werden unparteiisch bleiben."
 
@@ -75,7 +75,7 @@ import.5.d:0 "Die schwedische Regierung unterstützt uns bei der Rekrutierung so
 import.5.a:0 "Eine dringend benötigte Hilfe!"
 
 import.6.t:0 "Die schwedische Regierung lehnt unser Ersuchen ab"
-import.6.d:0 "Leider halten die Schweden es für zu riskant und werden uns weder Truppen noch EQUIPMENT schicken."
+import.6.d:0 "Leider halten die Schweden es für zu riskant und werden uns weder Truppen noch Ausrüstung schicken."
 import.6.a:0 "Sie haben uns verraten!"
 
 allianse.8.t:0 "Osloer Bündnisgespräche"
@@ -83,4 +83,4 @@ allianse.8.t:0 "Osloer Bündnisgespräche"
 
 #########Custom tool tip ""
 
-importNOR:0 "Bitte um EQUIPMENT für 2 ganze Divisionen "
+importNOR:0 "Bitte um Ausrüstung für 2 ganze Divisionen "

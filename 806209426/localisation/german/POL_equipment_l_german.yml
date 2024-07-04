@@ -448,7 +448,7 @@
  POL_submarine_2:0 "Eagle-Klasse"
  POL_submarine_2_desc:0 "Die Orzeł-Klasse bestand aus zwei U-Booten, die in den Niederlanden für die polnische Marine gebaut wurden. Die Schiffe wurden nur wenige Monate vor der deutschen Invasion fertiggestellt. Es waren große U-Boote mit einer Verdrängung von 1.100 Tonnen. Sie waren mit zwölf 550-mm-Torpedoro-Rohren bewaffnet und hatten eine Tauchtiefe von 80 m."
  POL_submarine_3:0 "Sokół-Klasse"
- POL_submarine_3_desc:0 "Die beiden U-Boote der Sokół-Klasse waren britische U-Boote der U-Klasse, die 1941-42 für die polnische Exilmarine fertiggestellt wurden. Die Schiffe verdrängten 540 Tonnen und waren mit vier 533-mm-Torpedoro-Rohren bewaffnet. Sie verfügten über eine gute EQUIPMENT mit britischem Radar und Sonar und hatten eine Tauchtiefe von 60 m."
+ POL_submarine_3_desc:0 "Die beiden U-Boote der Sokół-Klasse waren britische U-Boote der U-Klasse, die 1941-42 für die polnische Exilmarine fertiggestellt wurden. Die Schiffe verdrängten 540 Tonnen und waren mit vier 533-mm-Torpedoro-Rohren bewaffnet. Sie verfügten über eine gute Ausrüstung mit britischem Radar und Sonar und hatten eine Tauchtiefe von 60 m."
  POL_submarine_4:0 "Dolphin-Klasse"
 # 1-3 based on historical models. 4th generation based on rivers ""
  POL_destroyer_1:0 "Wicher-Klasse"
@@ -480,7 +480,7 @@
 # SH battleships class names based on Slavic gods ""
  POL_sh_battleship_1:0 "Perkun Klasse"
  POL_sh_battleship_2:0 "Swiatowid-Klasse"
-# carries based on military leaders  ""
+# carries based on military leaders
  POL_carrier_1:0 "Zawisza Czarny Klasse"
  POL_carrier_2:0 "Hetman Żółkiewski-Klasse"
  POL_carrier_3:0 "Kasimir-Pulaski-Klasse"

@@ -101,11 +101,11 @@
  scope_XSM_GetNameDef:0 "[scope_XSM.GetNameDefCap]"
  scope_SIK_GetNameDef:0 "[Geltungsbereich_SIK.GetNameDefCap]"
 
- ##  #  #  ## ###  ##  #   #     ###   ##  ### #  # ###     ###  ##   ##  #   ### ### ###   ##  ""
-#  # #  # #    #  #  # ## ##     #  # #  #  #  ## #  #       #  #  # #  # #    #   #  #  # #    ""
-#    #  #  #   #  #  # # # #     ###  #  #  #  # ##  #       #  #  # #  # #    #   #  ###   #   ""
-#  # #  #   #  #  #  # #   #     #    #  #  #  #  #  #       #  #  # #  # #    #   #  #      #  ""
- ##   ##  ##   #   ##  #   #     #     ##  ### #  #  #       #   ##   ##  ###  #  ### #    ##   ""
+ ##  #  #  ## ###  ##  #   #     ###   ##  ### #  # ###     ###  ##   ##  #   ### ### ###   ##
+#  # #  # #    #  #  # ## ##     #  # #  #  #  ## #  #       #  #  # #  # #    #   #  #  # #  
+#    #  #  #   #  #  # # # #     ###  #  #  #  # ##  #       #  #  # #  # #    #   #  ###   # 
+#  # #  #   #  #  #  # #   #     #    #  #  #  #  #  #       #  #  # #  # #    #   #  #      #
+ ##   ##  ##   #   ##  #   #     #     ##  ### #  #  #       #   ##   ##  ###  #  ### #    ## 
 
  loses_political_support_points_15:0 "Verliert §R15§! §HPolitische Unterstützungspunkte§!.\n"
  has_politcal_support_points_30:0 "Has at least §G30§! §HPolitische Unterstützungspunkte§!. Wir haben derzeit [?Root.total_political_support_points|+0]."
@@ -142,7 +142,7 @@
  WTT_seek_support_from_warlord_cost_tt:0 "Die Kosten, um [Von.GetNameDef] dazu zu bringen, uns zu unterstützen, hängen von der Ideologie und ihrer Meinung über uns ab.\n"
  WTT_pay_for_support_from_warlord_PP:0 "Öffentliche Unterstützung der politischen Agenda von [Von.GetNameDef]"
  WTT_pay_for_support_from_warlord_PP_timeout:0 "Die Verhandlungen über die Unterstützung von [Von.GetLeader] werden teurer.\n"
- WTT_pay_for_support_from_warlord_equipment:0 "Senden Sie EQUIPMENT und Männer an [Von.GetNameDef]"
+ WTT_pay_for_support_from_warlord_equipment:0 "Senden Sie Ausrüstung und Männer an [Von.GetNameDef]"
  WTT_pay_for_support_from_warlord_equipment_timeout:0 "Lieferung erwartet in [Von.GetNameDef]"
  WTT_pay_for_support_from_warlord_xp:0 "Schicken Sie Offiziere zur Unterstützung von [From.GetNameDef]"
  WTT_pay_for_support_from_warlord_xp_timeout:0 "[From.GetLeader] erwartet Ergebnisse"
@@ -159,11 +159,11 @@
  WTT_warlord_chance_opinion:0 "\nIhre Meinung über uns: [?Root.chance_opinion_of_us|+%0]"
 
 
-### #   # ### #  # ###  ##  ""
-#   #   # #   ## #  #  #    ""
-##   # #  ##  # ##  #   #   ""
-#    # #  #   #  #  #    #  ""
-###   #   ### #  #  #  ##   ""
+### #   # ### #  # ###  ##
+#   #   # #   ## #  #  #  
+##   # #  ##  # ##  #   # 
+#    # #  #   #  #  #    #
+###   #   ### #  #  #  ## 
 
 #Building local support in a state ""
  wtt_political_organisation.1.t:0 "Bericht von [state.GetName]"
@@ -205,11 +205,11 @@
  wtt_political_organisation.11.desc:0 "Unsere Kampagne zur Unterdrückung der Unterstützung für [majority_country.GetLeader] scheint bei weitem nicht erfolgreich gewesen zu sein. Trotz unserer besten Bemühungen unterstützt eine Mehrheit der Bürger in [Staat.Name] immer noch [Mehrheit_Land.Führer_holen]."
  wtt_political_organisation.11.a:0 "Möglicherweise müssen wir die Botschaft mit Nachdruck vermitteln."
  wtt_political_organisation.12.t:0 "Die Unterdrückung in [Staat.GetName]"
- wtt_political_organisation.12.desc_not_majority:0 "[Staat.Name] erlebt eine noch nie dagewesene Welle politischer Gewalt. Straßenschlachten zwischen Anhängern von [Von.GetLeader] und [Mehrheit_Land.GetLeader] sind an der DAYSesordnung. Im Moment sieht es so aus, als ob [Mehrheit_Land.GetLeader] immer noch die Mehrheit der Bevölkerung hinter sich hat."
+ wtt_political_organisation.12.desc_not_majority:0 "[Staat.Name] erlebt eine noch nie dagewesene Welle politischer Gewalt. Straßenschlachten zwischen Anhängern von [Von.GetLeader] und [Mehrheit_Land.GetLeader] sind an der Tagesordnung. Im Moment sieht es so aus, als ob [Mehrheit_Land.GetLeader] immer noch die Mehrheit der Bevölkerung hinter sich hat."
  wtt_political_organisation.12.desc_has_majority:0 "Agenten von [Von.GetLeader] in [Staat.GetName] haben eine Kampagne der Einschüchterung und des politischen Terrors gestartet. Es liegen Berichte vor, dass Bürger, die uns unterstützen, öffentlich schikaniert und als Verräter gebrandmarkt werden. Parteifunktionäre wurden verprügelt und einige unserer Büros wurden niedergebrannt. Trotz alledem weigert sich die Mehrheit der lokalen Bevölkerung, sich dem Terror zu beugen und unterstützt uns weiterhin."
  wtt_political_organisation.12.a:0 "Wir werden siegen."
 
-#Warlord support  ""
+#Warlord support
  wtt_political_warlord_support.1.t:0 "[From.GetNameDefCap] bittet um unsere Unterstützung"
  wtt_political_warlord_support.1.desc:0 "Ein Vertreter von [asking_for_support.GetLeader] ist eingetroffen, um uns für ein politisches Bündnis zu sondieren. [asking_for_support.GetLeader] verspricht, sich nicht in unsere internen Angelegenheiten einzumischen, sollte er sich im aktuellen politischen Kampf durchsetzen. In diesem Konflikt Partei zu ergreifen, könnte langfristige Auswirkungen haben, da die anderen beteiligten Parteien dies zweifellos als Verrat ansehen würden."
  wtt_political_warlord_support.1.a:0 "Wir werden sie unterstützen."
@@ -230,7 +230,7 @@
  wtt_political_warlord_support.11.a:0 "Wenn es das ist, was nötig ist..."
  wtt_political_warlord_support.11.b:0 "Inakzeptabel."
  wtt_political_warlord_support.12.t:0 "[Von.GetLeader] fordert Waffen."
- wtt_political_warlord_support.12.desc:0 "Die Verhandlungen mit [Von.HoltFührer] sind abgeschlossen. Der Anführer von [Von.GetNameDef] hat festgestellt, dass die Bevölkerung in seinem Staat sehr besorgt über die schlechte EQUIPMENT seiner Soldaten ist. Viele Einheiten haben nicht einmal ein Gewehr für jeden Mann, und eine Reihe von Soldaten müssen veraltete Waffen verwenden, darunter alte Musketen mit Mündungsladung und Schwerter. \nDa eine Parteinahme in dem laufenden Konflikt zu einer militärischen Konfrontation führen könnte, wollte [From.GetLeader] eine feste Zusage unsererseits, seine Truppen mit Waffen auszurüsten, bevor er seine Unterstützung öffentlich bekannt gibt."
+ wtt_political_warlord_support.12.desc:0 "Die Verhandlungen mit [Von.HoltFührer] sind abgeschlossen. Der Anführer von [Von.GetNameDef] hat festgestellt, dass die Bevölkerung in seinem Staat sehr besorgt über die schlechte Ausrüstung seiner Soldaten ist. Viele Einheiten haben nicht einmal ein Gewehr für jeden Mann, und eine Reihe von Soldaten müssen veraltete Waffen verwenden, darunter alte Musketen mit Mündungsladung und Schwerter. \nDa eine Parteinahme in dem laufenden Konflikt zu einer militärischen Konfrontation führen könnte, wollte [From.GetLeader] eine feste Zusage unsererseits, seine Truppen mit Waffen auszurüsten, bevor er seine Unterstützung öffentlich bekannt gibt."
  wtt_political_warlord_support.12.a:0 "Hoffen wir, dass wir das am Ende nicht bereuen werden..."
  wtt_political_warlord_support.13.t:0 "[Von.GetLeader] bittet um militärische Unterstützung."
  wtt_political_warlord_support.13.desc:0 "Die Verhandlungen mit [Von.GetLeader] sind abgeschlossen. In seiner Antwort hat [Von.GetFührer] darauf hingewiesen, dass es seinen Streitkräften an erfahrenen Offizieren mangelt und sie dringend reformiert werden müssen. Das Volk von [Von.GetNameDef] würde es niemals dulden, dass er im gegenwärtigen Kampf eine so kühne Haltung einnimmt, solange seine Armee in einem solchen Zustand ist. \nWenn wir [Von.GetLeader] bei der Reformierung seiner Armee helfen würden, würde er uns gerne öffentlich unterstützen."
@@ -255,11 +255,11 @@
  wtt_take_national_leadership.3.desc:0 "Trotz der überwältigenden Unterstützung der Bevölkerung für [new_leader.GetLeader] hat sich [From.GetLeader] geweigert, sein Amt als Ministerpräsident der Republik aufzugeben. Mit dem Hinweis, dass er sich niemals einer Erpressung beugen oder das Land an Verräter und Banditen ausliefern wird, hat [From.GetLeader] deutlich gemacht, dass er seinen Posten nicht räumen wird."
  wtt_take_national_leadership.3.a:0 "Dann werden wir ihn mit Gewalt einnehmen!"
 
-###  ###  ##  ###  ## ###  ##  #  #     #  #  ##  #   # ###  ##  ""
-#  # #   #  #  #  #    #  #  # ## #     ## # #  # ## ## #   #    ""
-#  # ##  #     #   #   #  #  # # ##     # ## #### # # # ##   #   ""
-#  # #   #  #  #    #  #  #  # #  #     #  # #  # #   # #     #  ""
-###  ###  ##  ### ##  ###  ##  #  #     #  # #  # #   # ### ##   ""
+###  ###  ##  ###  ## ###  ##  #  #     #  #  ##  #   # ###  ##
+#  # #   #  #  #  #    #  #  # ## #     ## # #  # ## ## #   #  
+#  # ##  #     #   #   #  #  # # ##     # ## #### # # # ##   # 
+#  # #   #  #  #    #  #  #  # #  #     #  # #  # #   # #     #
+###  ###  ##  ### ##  ###  ##  #  #     #  # #  # #   # ### ## 
 
  WTT_national_leadership:0 "Die nationale Führung übernehmen"
  WTT_national_leadership_desc:0 "§WAlle chinesischen Länder haben Zugang zu diesem Beschluss\n[Root.GetHowToUnlockStruggle]§!"
@@ -332,8 +332,8 @@
  WTT_build_support_in_nanning_desc:0 "§W§H[594.GetStateMajorityCountryName]§!hat §HState Majority§!und erhält [?594.state_political_support_value|+0] §HPolitical Support Points§!bis ein anderes Land eine höhere §HLocal Support§!\n\n§HLokale Unterstützung§!:\n[594.GetLocalStateSupport_CHI][594.GetLocalStateSupport_PRC][594.GetLocalStateSupport_GXC][594.GetLocalStateSupport_YUN][594.GetLocalStateSupport_SHX][594.GetLocalStateSupport_XSM][594.GetLocalStateSupport_SIK]§!"
  WTT_build_support_in_guangxi:0 "Unterstützung in Guangxi aufbauen §G([?599.state_political_support_value|+0])§!"
  WTT_build_support_in_guangxi_desc:0 "§W§H[599.GetStateMajorityCountryName]§!hat §HState Majority§!und erhält [?599.state_political_support_value|+0] §HPolitical Support Points§!bis ein anderes Land eine höhere §HLocal Support§!\n\n§HLokale Unterstützung§!:\n[599.GetLocalStateSupport_CHI][599.GetLocalStateSupport_PRC][599.GetLocalStateSupport_GXC][599.GetLocalStateSupport_YUN][599.GetLocalStateSupport_SHX][599.GetLocalStateSupport_XSM][599.GetLocalStateSupport_SIK]§!"
- pp_per_day_neg_075:0 "£pol_power §Y-0.75/DAYS ($DAYS$)§!"
- pp_per_day_neg_075_blocked:0 "£pol_power §R-0.75/DAYS§!"
+ pp_per_day_neg_075:0 "£pol_power §Y-0.75/Tag ($DAYS$)§!"
+ pp_per_day_neg_075_blocked:0 "£pol_power §R-0.75/Tag§!"
 
  WTT_remove_opposition_in_fujian:0 "Opposition in Fujian beseitigen"
  WTT_remove_opposition_in_zhejiang:0 "Widerstand in Zhejiang aufheben"

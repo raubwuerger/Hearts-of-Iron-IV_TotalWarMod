@@ -175,8 +175,8 @@ american_medium_tank_destroyer_equipment_2_desc:0 "Auf einem modifizierten M4A2 
 
 # M36 Jackson ""
 american_medium_tank_destroyer_equipment_3:0 "M36 Jackson"
-"american_medium_tank_destroyer_equipment_3_short:0 ""M36 Medium TD""
-american_medium_tank_destroyer_equipment_3_desc:0 Der M36 Tank Destroyer, vormals 90 mm Gun Motor Carriage, M36, war ein amerikanischer Panzerzerstörer, der im Zweiten Weltkrieg eingesetzt wurde. Der M36 kombinierte die Wanne des M10 Panzerjägers, der das zuverlässige Fahrgestell und den Antriebsstrang des M4 Sherman verwendete, mit einer schrägen Panzerung und einem massiven neuen Turm, in dem die M3 90 mm L/53 Kanone montiert war. """""
+american_medium_tank_destroyer_equipment_3_short:0 "M36 Medium TD"
+american_medium_tank_destroyer_equipment_3_desc:0 "Der M36 Tank Destroyer, vormals 90 mm Gun Motor Carriage, M36, war ein amerikanischer Panzerzerstörer, der im Zweiten Weltkrieg eingesetzt wurde. Der M36 kombinierte die Wanne des M10 Panzerjägers, der das zuverlässige Fahrgestell und den Antriebsstrang des M4 Sherman verwendete, mit einer schrägen Panzerung und einem massiven neuen Turm, in dem die M3 90 mm L/53 Kanone montiert war. "
 
 # M22 Locust ""
 american_para_tank_equipment_1:0 "M22 Heuschrecke"
@@ -240,13 +240,13 @@ m4a3_equipment_desc:0 "Der M4A3 war eine Variante des M4, die mit einem Ford GAA
 #M4A3 76mm ""
 m4a376_equipment:0 "M4A3(76) "
 m4a376_equipment_short:0 "M4A3(76) Mittlerer Panzer"
-"m4a376_equipment_desc:0 ""Aufgrund der immer stärkeren Panzerung auf dem Schlachtfeld wurde anstelle der 75-mm-Kanone eine 76,2-mm-Kanone (3 Zoll) montiert. Dadurch konnten diese Shermans in Gefechten mit größerer Reichweite effektiver eingesetzt werden, da sie mehr Feuerkraft besaßen, um feindliche Panzer auf größere Entfernungen zu durchbohren.
+m4a376_equipment_desc:0 ""Aufgrund der immer stärkeren Panzerung auf dem Schlachtfeld wurde anstelle der 75-mm-Kanone eine 76,2-mm-Kanone (3 Zoll) montiert. Dadurch konnten diese Shermans in Gefechten mit größerer Reichweite effektiver eingesetzt werden, da sie mehr Feuerkraft besaßen, um feindliche Panzer auf größere Entfernungen zu durchbohren.
 
-ENG_m4a3_EQUIPMENT:0 Sherman IV """""
+ENG_m4a3_EQUIPMENT:0 "Sherman IV"
 ENG_m4a3_equipment_short:0 "Sherman IV Mittlerer Panzer"
 ENG_m4a3_equipment_desc:0 " "
 
-SOV_m4a3_equipment:0 "M4A2 Emcha"""
+SOV_m4a3_equipment:0 "M4A2 Emcha"
 SOV_m4a3_equipment_short:0 "M4A2 Mittlerer Panzer"
 SOV_m4a3_equipment_desc:0 " "
 
@@ -260,7 +260,7 @@ m4a3_76_w_equipment:0 "M4A3(76)W Sherman"
 m4a3_76_w_equipment_short:0 "M4A3(76)W Mittlerer Panzer"
 m4a3_76_w_equipment_desc:0 " "
 
-SOV_m4a3_76_w_equipment:0 "M4A2(76)W Emcha"""
+SOV_m4a3_76_w_equipment:0 "M4A2(76)W Emcha"
 SOV_m4a3_76_w_equipment_short:0 "M4A2(76)W Mittlerer Panzer"
 SOV_m4a3_76_w_equipment_desc:0 " "
 
