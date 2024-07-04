@@ -1,7 +1,7 @@
 ﻿l_german:
 
  SOV_PCDI:0 "Volkskommissariat für die Verteidigungsindustrie"
- SOV_PCDI_desc:0 "\Mit der Westerweiterung der Union fordert das §RVolkskommissariat für Verteidigung§!die §GKonsolidierung und Reorganisation§!unserer in den westlichen Regionen stationierten Streitkräfte. Dies würde die Einrichtung eines neuen Militärbezirks in den wiedergewonnenen Gebieten und die Erweiterung der bestehenden Zone nach Westen einschließen.\n\n Weitere Maßnahmen werden den Bau einer neuen §g-Verteidigungslinie§!entlang der Grenze und die Verlegung der Truppen, die derzeit die Stalinlinie besetzen, nach Westen umfassen. Übungen, überarbeitete militärische Pläne und die Aufstellung zusätzlicher Divisionen sorgen für die Verstärkung unserer Bereitschaft und Stärke."
+ SOV_PCDI_desc:0 "\nMit der Westerweiterung der Union fordert das §RVolkskommissariat für Verteidigung§!die §GKonsolidierung und Reorganisation§!unserer in den westlichen Regionen stationierten Streitkräfte. Dies würde die Einrichtung eines neuen Militärbezirks in den wiedergewonnenen Gebieten und die Erweiterung der bestehenden Zone nach Westen einschließen.\n\n Weitere Maßnahmen werden den Bau einer neuen §g-Verteidigungslinie§!entlang der Grenze und die Verlegung der Truppen, die derzeit die Stalinlinie besetzen, nach Westen umfassen. Übungen, überarbeitete militärische Pläne und die Aufstellung zusätzlicher Divisionen sorgen für die Verstärkung unserer Bereitschaft und Stärke."
  molotov_line:0 "Bau der Molotow-Linie"
  dniper_forts:0 "Befestigung des südlichen Dnjepr"
  maginot_construction2:0 "Bau von §Y-Befestigungen§!"

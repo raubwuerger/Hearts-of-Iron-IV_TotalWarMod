@@ -875,7 +875,7 @@
  MODIFIER_STABILITY_WAR_FACTOR:0 "Kriegsstrafe Stabilitätsmodifikator"
  war_stability_factor_tt: " $MODIFIER_STABILITY_WAR_FACTOR$ $RIGHT|+=%1$"
  MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR:0 "Offensive Kriegsstrafe Stabilitätsmodifikator"
- offensive_war_stability_factor_tt:  " $MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR$ $RIGHT|+=%1$" ""
+ offensive_war_stability_factor_tt:  " $MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR$ $RIGHT|+=%1$"
  MODIFIER_STABILITY_DEFENSIVE_WAR_FACTOR:0 "Modifikator für defensive Kriegsstrafen-Stabilität"
  defensive_war_stability_factor_tt: " $MODIFIER_STABILITY_DEFENSIVE_WAR_FACTOR$ $RIGHT|+=%1$"
  MODIFIER_SURRENDER_LIMIT:0 "Kapitulationslimit"

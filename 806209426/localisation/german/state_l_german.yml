@@ -21,7 +21,7 @@
  STATE_CORE:0 "§T$COUNTRY|H$ hat $STATE|H$ als Kernstaat.§!"
  STATE_CORE_DESC:0 "Ein Kernstaat wird als integraler Bestandteil Ihrer Nation betrachtet. Wenn er einer anderen Nation gehört, hast du einen berechtigten Grund, den Krieg zu erklären, um ihn zurückzuerobern, und wenn er erfolgreich ist, braucht er keine Besatzungspolitik - er wird einfach Teil deines Heimatlandes, sobald er zurückerobert wurde."
  STATE_CLAIM:0 "§T$COUNTRY|H$ hat einen Anspruch auf $STATE|H$.§!"
- STATE_POPULATION:3 "§HRecruitable Population§!: $AVAIL|*Y$/$MAXAVAIL|*Y$\n§HCivilian Population§!: $LOCKED|*Y$/$MAXLOCKED|*Y$\n" ""
+ STATE_POPULATION:3 "§HRecruitable Population§!: $AVAIL|*Y$/$MAXAVAIL|*Y$\n§HCivilian Population§!: $LOCKED|*Y$/$MAXLOCKED|*Y$\n"
  MONTHLY_BASE_GROWTH:0 "Basis: $VALUE|H%2$"
  STATE_POPULATION_GROWTH:0 "§HMonatliches Wachstum§!: $VALUE|%2$ ( $AVAIL|*+$ rekrutierbar, $LOCKED|*+$ zivil )"
  LOCAL_MANPOWER_ACCESSIBLE_FACTOR:0 "Basis diensttauglich: §R-$VAL|%$§!"

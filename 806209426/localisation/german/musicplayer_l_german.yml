@@ -7,7 +7,7 @@
  MUSICPLAYER_SHUFFLE_ON:0 "Zufallswiedergabe"
  MUSICPLAYER_SHUFFLE_OFF:0 "Keine Zufallswiedergabe"
  MUSICPLAYER_SHUFFLE_USER_FUNCTION:0 "Gewichtete Zufallswiedergabe"
- MUSICPLAYER_TIME_MIN_SEC:1 "$MIN$:$SEC$" ""
+ MUSICPLAYER_TIME_MIN_SEC:1 "$MIN$:$SEC$"
  MUSICPLAYER_OPEN_PLAYER:0 "Musik-Player öffnen"
  MUSICPLAYER_TOGGLE_CONTROLLER:0 "Musiksteuerung umschalten"
  MUSICPLAYER_PLAY_TRACK:0 "Titel abspielen"

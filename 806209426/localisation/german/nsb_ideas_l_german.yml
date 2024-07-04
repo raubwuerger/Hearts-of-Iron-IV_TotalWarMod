@@ -785,7 +785,7 @@
 
  SOV_planned_economy_dynamic_modifier:0 "Geplante Wirtschaft"
 
- SOV_grigory_semyonov_man_tt:1 "§Y[SOV.GetName]§!hat den Fokus nicht abgeschlossen §Y$SOV_approach_semyonov$§!\Der §Y[GetSovietCivilWarName]§!hat nicht begonnen.\n§Y$SOV_grigory_semyonov$§!wird auch als §YGeneral§!verfügbar, wenn er als Berater eingestellt wird."
+ SOV_grigory_semyonov_man_tt:1 "§Y[SOV.GetName]§!hat den Fokus nicht abgeschlossen §Y$SOV_approach_semyonov$§!\nDer §Y[GetSovietCivilWarName]§!hat nicht begonnen.\n§Y$SOV_grigory_semyonov$§!wird auch als §YGeneral§!verfügbar, wenn er als Berater eingestellt wird."
 
  SOV_exiled_flag:0 "Befindet sich derzeit im Exil (§G-Charaktere können im Exil nicht gereinigt werden§!)"
  SOV_imprisoned_flag:0 "Befindet sich im Gefängnis (§R-Charaktere können im Gefängnis geläutert werden§!)"

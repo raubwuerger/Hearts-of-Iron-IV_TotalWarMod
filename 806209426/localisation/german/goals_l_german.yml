@@ -21,7 +21,7 @@
  independence_wargoal_short_desc:0 "Unabhängigkeitskrieg"
  independence_wargoal_desc:0 "Unabhängigkeitskrieg"
  puppet_wargoal_focus:0 "Puppet (Fokus)"
- puppet_wargoal_focus_desc:1 "Puppet $TARGET|Y$" ""
+ puppet_wargoal_focus_desc:1 "Puppet $TARGET|Y$"
  puppet_wargoal_focus_short_desc:0 "Dieses Kriegsziel macht es billiger, den Staat auf der Friedenskonferenz zu marionettieren."
  take_claimed_state:0 "Beanspruchten Staat einnehmen"
  take_claimed_state_desc:0 "Nimm $STATE|Y$ von $TARGET|Y$"

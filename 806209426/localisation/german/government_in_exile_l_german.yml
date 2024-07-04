@@ -24,7 +24,7 @@
  GIE_DIVISION_RECRUITMENT_EXILE_PLAYER_DELAYED:0 "Exil-Luftgeschwader"
  GIE_EXILE_AIRWINGS:0 "$COUNTRY|H$ muss $VALUE|0H$ §HLegitimität§!haben, bevor Luftgeschwader rekrutiert werden können"
  GIE_AIRWING_RECRUITMENT_LOCKED:0 "$COUNTRY|H$ need to have $VALUE|0H$ §HLegitimacy§! before airwings can be recruited"
- GIE_EXILE_DIVISIONS:1 "Divisions" ""
+ GIE_EXILE_DIVISIONS:1 "Divisions"
  GIE_AIRWING_RECRUITMENT_SELECT_EXILE:1 "Click to use $COUNTRYADJ|H$ §HExiled Veteran Manpower§!." "Klicken Sie, um $COUNTRYADJ|H$ §HManpower§!§ zu verwenden! ."
  GIE_AIRWING_RECRUITMENT_SELECT_OWNER:0 "§HExil-Luftgeschwader§!"
  GIE_AIRWING_SELECTION_ITEM_EXILE_FLAG:0 "$COUNTRYADJ|H$ §HExil§! $SHIPTYPE|H$"
