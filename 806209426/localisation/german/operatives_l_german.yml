@@ -225,7 +225,7 @@
  OPERATION_VIEW_LAUNCH_PREPARE:0 "§Klicken Sie auf§!, um mit den Vorbereitungen für diese Operation zu beginnen."
  OPERATION_VIEW_LOCATION:0 "Wählen Sie einen Zielstaat für diese Operation aus."
  OPERATION_VIEW_LOCATION_MORE:0 "Geeignete Zielzustände müssen die folgenden Kriterien erfüllen:"
- OPERATION_VIEW_REFUND_GENERAL:0 "Sie können einen Vorgang zurückgeben, bevor Sie ihn starten, um alle gesammelten EQUIPMENTsgegenstände wiederzuerlangen."
+ OPERATION_VIEW_REFUND_GENERAL:0 "Sie können einen Vorgang zurückgeben, bevor Sie ihn starten, um alle gesammelten Ausrüstungsgegenstände wiederzuerlangen."
  OPERATION_VIEW_REFUND:0 "Geben Sie alle Ressourcen zurück, die bei der Vorbereitung dieses Vorgangs gesammelt wurden."
  OPERATION_VIEW_REFUND_NOT:0 "Sie können einen bereits gestarteten Vorgang nicht abbrechen."
  OPERATION_VIEW_SELECT_TARGET:0 "Ziel auswählen"

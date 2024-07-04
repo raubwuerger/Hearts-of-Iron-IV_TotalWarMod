@@ -83,7 +83,7 @@
  TRADE_ROUTE_INTERNATIONAL_MARKET_IMPORT_COUNTRY: "§YKauf§! von $COUNTRY|Y$ ($CONTRACT_COUNT|Y$ Verträge)"
  TRADE_ROUTE_INTERNATIONAL_MARKET_EXPORT_SEA: "§YVerkauf von§! an $COUNTRY|Y$ ($CONTRACT_COUNT|Y$ Verträge, $CONVOYS|Y$ £convoy_texticon£)"
  TRADE_ROUTE_INTERNATIONAL_MARKET_EXPORT_COUNTRY: "§YVerkauf von§! an $COUNTRY|Y$ ($CONTRACT_COUNT|Y$-Verträge)"
- TRADE_ROUTE_INTERNATIONAL_MARKET_CONVOY_DEFICIT_TT: "Es gibt ein §RDefizit§! von §YConvoys§! auf dem/den Vertrag/Verträgen. Dies wirkt sich auf die EQUIPMENTslieferung und die Dauer des Vertrags/der Verträge aus."
+ TRADE_ROUTE_INTERNATIONAL_MARKET_CONVOY_DEFICIT_TT: "Es gibt ein §RDefizit§! von §YConvoys§! auf dem/den Vertrag/Verträgen. Dies wirkt sich auf die Ausrüstungslieferung und die Dauer des Vertrags/der Verträge aus."
  TRADE_ROUTE_INTERNATIONAL_MARKET_CONVOY_SUNK_REASON_TT: "Das §R-Defizit§! ist auf §YConvoys§! zurückzuführen, die in der Seeschlacht versenkt wurden."
  TRADE_ROUTE_INTERNATIONAL_MARKET_MIX_REASON_TT: "Das §R-Defizit§! ist auf im Seegefecht versenkte §Y-Konvois§! und zu wenige zugewiesene §Y-Konvois§!."
  TRADE_ROUTE_INTERNATIONAL_MARKET_ASSIGNMENT_REASON_TT: "Das §R-Defizit§! entsteht durch zu wenig zugewiesene §Y-Konvois§!."

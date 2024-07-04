@@ -126,7 +126,7 @@
  LAW_BONUS_SCALED:0 "§RDieses Gesetz entfaltet seine volle Wirkung erst, wenn der Bedarf der Garnison vollständig gedeckt ist.§!"
 
  GARRISON_LOG:0 "Garnisonslogbuch"
- GARRISON_LOG_LOSSES_IN_IC:0 "§HVerlorene EQUIPMENT:§! £production_cost£$NUM|*$"
+ GARRISON_LOG_LOSSES_IN_IC:0 "§HVerlorene Ausrüstung:§! £production_cost£$NUM|*$"
  GARRISON_LOG_RESISTANCE_ACTIVITY:0 "Aktivitäten des Widerstands"
  GARRISON_LOG_EMPTY_ACTIVITY:0 "Keine Aktivität in $TIME$."
  GARRISON_LOG_ACTIVITY_STOPPED:0 "Aktivität durch die Garnison gestoppt"

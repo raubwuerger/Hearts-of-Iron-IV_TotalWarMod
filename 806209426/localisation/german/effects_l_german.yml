@@ -425,7 +425,7 @@
  EFFECT_MIO_SET_ICON: "Ändert das Symbol"
  EFFECT_MARKET_CREATE_PURCHASE_CONTRACT: "Erstellt einen Kaufvertrag für $BUYER|H$ für den Kauf von $EQUIPMENT$ für $CIVS|H$ Zivilfabriken von $SELLER|H$."
  EFFECT_MARKET_CANCEL_PURCHASE_CONTRACT: "Bricht einen Kaufvertrag für $BUYER|H$ für den Kauf von $EQUIPMENT$ für $CIVS|H$ Zivilfabriken von $SELLER|H$ ab."
- EFFECT_MARKET_ADD_EQUIPMENT_SUBSIDY: "Fügt $COUNTRY|H$ eine EQUIPMENTssubvention mit $CIC|H$ £GFX_civ_factory_output für $TYPE|H$ aus $SELLERS|H$ hinzu"
+ EFFECT_MARKET_ADD_Ausrüstung_SUBSIDY: "Fügt $COUNTRY|H$ eine EQUIPMENTssubvention mit $CIC|H$ £GFX_civ_factory_output für $TYPE|H$ aus $SELLERS|H$ hinzu"
  EFFECT_ADD_POWER_BALANCE: "Das $POWER_BALANCE|Y$ beginnt in [root.GetName] mit den Seiten „$SIDE1|Y$“ und „$SIDE2|Y$“. Es beginnt mit $VALUE|%0Y$ Fortschritt für die Seite „$TRENDING_SIDE|Y$“."
  EFFECT_REMOVE_POWER_BALANCE: "$POWER_BALANCE|Y$ endet in [root.GetName]"
  EFFECT_ADD_POWER_BALANCE_SIDE: "$SIDE|Y$ wird $POWER_BALANCE|Y$ hinzugefügt"

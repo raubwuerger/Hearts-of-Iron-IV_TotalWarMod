@@ -216,7 +216,7 @@
  ship_mine_layer_1:0 "Minenverlegungsschienen"
  ship_mine_layer_1_desc:0 "Modifikationen für Überwasserschiffe, die Seeminen tragen und ausbringen können."
  ship_mine_sweeper_1:0 "Minenräumgerät"
- ship_mine_sweeper_1_desc:0 "EQUIPMENT für den Einsatz der verschiedenen Minenräumgeräte."
+ ship_mine_sweeper_1_desc:0 "Ausrüstung für den Einsatz der verschiedenen Minenräumgeräte."
  ship_mine_layer_sub:0 "Minenlegerohre"
  ship_mine_layer_sub_desc:0 "Modifikationen am Rumpf eines U-Boots, die es ermöglichen, eine Reihe von Minen auszubringen."
  ship_depth_charge_1:0 "Wasserbombenschienen"

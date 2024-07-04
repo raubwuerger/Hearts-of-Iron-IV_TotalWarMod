@@ -14,7 +14,7 @@
  TOPBAR_DIPLOMACY:0 "Diplomatie"
  TOPBAR_DIPLOMACY_DESC:0 "Führen Sie Verhandlungen mit anderen Nationen."
  TOPBAR_INTERNATIONAL_MARKET: "Internationaler Markt"
- TOPBAR_INTERNATIONAL_MARKET_DESC: "Kaufen Sie EQUIPMENT, um Ihre heimische Produktion zu ergänzen. Oder verkaufen Sie EQUIPMENTen, um Ihr Bautempo zu erhöhen."
+ TOPBAR_INTERNATIONAL_MARKET_DESC: "Kaufen Sie Ausrüstung, um Ihre heimische Produktion zu ergänzen. Oder verkaufen Sie Ausrüstung, um Ihr Bautempo zu erhöhen."
  TOPBAR_LOGISTICS:0 "Logistik"
  TOPBAR_LOGISTICS_DESC:0 "Hier erfahren Sie, wie Ihre Truppen die Ausrüstung nutzen und wie sie produziert wird."
  TOPBAR_CONSTRUCTION:0 "Bauwesen"

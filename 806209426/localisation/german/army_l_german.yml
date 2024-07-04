@@ -42,7 +42,7 @@
  ARMY_DIVISONS_TAB: "§YLandeinheiten§!"
  ARMY_NAVIES_TAB: "§YFlotteneinheiten§!"
  ARMY_AIR_TAB: "§YLuftgeschwader§!"
- ARMY_DIVISONS_FILTER_DESC: "Geben Sie einen Teil des Einheitennamens, Divisionstyps, Kriegsschauplatzes, Regionennamens, Anführernamens, EQUIPMENTsnamens oder der Stufenbezeichnung ein"
+ ARMY_DIVISONS_FILTER_DESC: "Geben Sie einen Teil des Einheitennamens, Divisionstyps, Kriegsschauplatzes, Regionennamens, Anführernamens, Ausrüstungsnamens oder der Stufenbezeichnung ein"
  ARMY_NAVIES_FILTER_DESC: "Geben Sie einen Teil des Einheitennamens, strategischen Gebiets, Anführernamens, Missionsnamens, Missionsgebiets oder Schiffsnamens ein"
  ARMY_AIR_FILTER_DESC: "Geben Sie einen Teil des Luftgeschwaderausrüstungsnamens oder -typs, Luftstützpunktnamens, Fliegerass-Namens, Missionsnamens oder Missionsgebiets ein"
  ARMY_SORT_NAME: "Namen"

@@ -209,7 +209,7 @@
 
  MAN_lights:0 "Prototyp eines leichten Panzers"
  MAN_lights_desc:0 "Panzer haben sich von den trägen Biestern des letzten Krieges weit entfernt. Unsere Forschung und Ausbildung darf nicht hinter der unserer Feinde - oder unserer Freunde - zurückbleiben."
- MAN_modernize_equipment:0 "Modernisierung der EQUIPMENT"
+ MAN_modernize_equipment:0 "Modernisierung der Ausrüstung"
  MAN_modernize_equipment_desc:0 "Repetiergewehre und Handgranaten sind inzwischen veraltet. Unsere Infanterie braucht eine bessere Feuerkraft in Form von halbautomatischen Gewehren und Granatwerfern."
 
  MCK_request_zaibatsu_investment_on_military_industry:0 "Zaibatsu-Investitionen in die Rüstungsindustrie"
@@ -257,7 +257,7 @@
  MCK_sow_anti_japanese_sentiment:0 "Anti-japanische Stimmung säen"
  MCK_sow_anti_japanese_sentiment_desc:0 "Wenn unser Volk die Japaner immer noch als Retter betrachtet, wird der Plan zur Wiederherstellung unseres einst glorreichen Reiches zweifellos auf einige Hindernisse stoßen. Die Verbreitung von Informationen, die dem Image der Japaner schaden, soll helfen, die Situation zu verbessern."
  MCK_strengthen_the_royal_guard:0 "Die königliche Garde stärken"
- MCK_strengthen_the_royal_guard_desc:0 "Die königliche Garde ist die enge Bewachung des Kaisers und seiner Verwandten. Ihre Ausrüstung mit fortschrittlicheren EQUIPMENTsgegenständen wird die Autorität des Kaisers in der Öffentlichkeit deutlich machen. "
+ MCK_strengthen_the_royal_guard_desc:0 "Die königliche Garde ist die enge Bewachung des Kaisers und seiner Verwandten. Ihre Ausrüstung mit fortschrittlicheren Ausrüstungsgegenständen wird die Autorität des Kaisers in der Öffentlichkeit deutlich machen. "
  MCK_coronation:0 "Das Kaiserreich kehrt zurück"
  MCK_coronation_desc:0 "Die Zeit ist gekommen, das glorreiche Kaiserreich wird nicht länger die Marionette der Japaner sein!"
  MCK_destroy_opium_plantations:0 "Zerstörung der OpiumplanTagen"
@@ -294,7 +294,7 @@
  MCK_CAS_effort_desc:0 "Eine moderne Armee braucht Unterstützung durch Fahrzeuge nicht nur am Boden, sondern auch in der Luft."
  MCK_NAV_effort:0 "NAV-Bemühungen"
  MCK_NAV_effort_desc:0 "So wie sich die neue Seekriegsführung zum Teil unter der Wasseroberfläche abspielt, findet sie zum Teil in der Luft über dem Wasser statt."
- MCK_naval_effort:0 "Naval Effort"
+ MCK_naval_effort:0 "Naval Anstrengung"
  MCK_naval_effort_tt:0 "Nicht genügend Bauplätze für §YNaval Dockyards§!"
  MCK_naval_effort_desc:0 "Der Ausbau unserer Marine sollte unsere oberste Priorität sein. Setzen Sie alle verfügbaren Ressourcen für neue Werften und die Erforschung von leichten Überwasserschiffen ein."
  MCK_flexible_navy:0 "Flexible Marine"

@@ -103,7 +103,7 @@
  CZE_fort_hungary:0 "Aufbau der ungarischen Linie"
 
  SOV_winteroffensive1_tt:0 "Sie erhalten viele §YMiliz§! und §YInfanterie§! Einheiten, sowie 2 §Ystarke Panzer§! Divisionen."
- SOV_winteroffensive2_tt:0 "Sie erhalten:\n - §G11000§! Infanterie-EQUIPMENT\n - §G2500§! HQ-EQUIPMENT\n - §G10000§! Uniformen der Infanterie\n - §G5000§! Unterstützungsausrüstung\n - §G3000§! Motorisierte Lastwagen\n - §G2500§! Transportfahrzeuge\n - §G1250§! Gepanzerte Wagen\n - §G1000§! Leichte Panzer\n - §G300§! Mittlere Panzer\n - §G3500§! Panzerabwehrgeräte\n - §G3000§! Leichte Artillerie\n - §G900§! Mittlere Artillerie\n - §G800§! Pferdeausrüstung\n"
+ SOV_winteroffensive2_tt:0 "Sie erhalten:\n - §G11000§! Infanterieausrüstung\n - §G2500§! HQ-Ausrüstung\n - §G10000§! Uniformen der Infanterie\n - §G5000§! Unterstützungsausrüstung\n - §G3000§! Motorisierte Lastwagen\n - §G2500§! Transportfahrzeuge\n - §G1250§! Gepanzerte Wagen\n - §G1000§! Leichte Panzer\n - §G300§! Mittlere Panzer\n - §G3500§! Panzerabwehrgeräte\n - §G3000§! Leichte Artillerie\n - §G900§! Mittlere Artillerie\n - §G800§! Pferdeausrüstung\n"
  SOV_receive:0 "Sie erhalten viele §YMiliz§! Einheiten bei §YStalingrad§!"
  USA_day_of_infamy_speech:0 "Rede zumTagder Infamie"
  USA_cat_foreign_support:0 "Außenministerium"

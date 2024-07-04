@@ -4,7 +4,7 @@
  infrastructure_desc: "Mit diesem Gebäude wird die staatliche Infrastruktur verbessert. Es erhöht Ihre Nachschubstärke in strategischen Regionen, die Geschwindigkeit Ihrer Divisionen sowie Ihre Rohstoffgewinnung."
  arms_factory: "Militärfabrik"
  arms_factory_plural: "Militärfabriken"
- arms_factory_desc: "Dieses Gebäude ermöglicht der Region die Produktion neuer militärischer EQUIPMENT. Kann bei Bedarf in eine Zivilfabrik umgewandelt werden."
+ arms_factory_desc: "Dieses Gebäude ermöglicht der Region die Produktion neuer militärischer Ausrüstung. Kann bei Bedarf in eine Zivilfabrik umgewandelt werden."
  dockyard: "Schiffswerft"
  dockyard_plural: "Schiffswerften"
  dockyard_desc: "Dieses Gebäude liefert dem Staat Industrie zum Bau neuer Schiffe."

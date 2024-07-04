@@ -676,7 +676,7 @@
  hiepset.300.b: "Aktivieren Sie die Mechanik des vorgetäuschten Krieges (Standard)"
  hiepset.300.e: "Gehen Sie zurück zum Menü"
  hiepset.400.t: "AI Tweaks Einstellungen"
- hiepset.400.d: "Dieser Mod verändert das Verhalten der KI, indem er eine einzelne Datei in den KI-Ordner einfügt. Dies ist nur dazu gedacht, einige der Vanilla-Fehler zu beheben (wie die deutsche KI, die AA-Divisionen produziert, ohne AA-EQUIPMENT zu produzieren, Japan, das unendlich lange wartet, um den USA den Krieg zu erklären und so weiter). Diese werden benötigt, um einige der Ereignisse mit der Vanilla-KI kompatibel zu machen. Wenn Sie andere KI-Mods wie die Experten-KI verwenden, deaktivieren Sie dies bitte."
+ hiepset.400.d: "Dieser Mod verändert das Verhalten der KI, indem er eine einzelne Datei in den KI-Ordner einfügt. Dies ist nur dazu gedacht, einige der Vanilla-Fehler zu beheben (wie die deutsche KI, die AA-Divisionen produziert, ohne AA-Ausrüstung zu produzieren, Japan, das unendlich lange wartet, um den USA den Krieg zu erklären und so weiter). Diese werden benötigt, um einige der Ereignisse mit der Vanilla-KI kompatibel zu machen. Wenn Sie andere KI-Mods wie die Experten-KI verwenden, deaktivieren Sie dies bitte."
  hiepset.400.a: "AI Tweaks deaktivieren (nicht empfohlen ohne die Expert AI)"
  hiepset.400.b: "KI-Tweaks einschalten (Standard)"
  hiepset.400.e: "Zurück zum Menü"
